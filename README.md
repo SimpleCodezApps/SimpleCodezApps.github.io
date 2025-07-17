@@ -1,1 +1,2 @@
-# SimpleCodezApps.github.io
+# {{site.title}}
+## {{site.description}}
