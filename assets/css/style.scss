@@ -14,25 +14,31 @@ body {
 html {
   height: 100%;
 }
-.main-content h1, .main-content h2 {
+#content #home h1, #content #home h2 {
   color: white;
   margin-top: 2rem;
   text-align: left;
   margin-left: 2rem;
 }
-.text {
+#content #home a:link, #content #home a:visited {
+  color: white;
+  margin-top: 2rem;
+  text-align: left;
+  margin-left: 2rem;
+}
+#content .text {
   color: black;
   background: white;
   padding: 2rem;
   border: solid 1px;
 }
-.text p {
+#content .text p {
   margin-block: auto;
 }
-.text p + p {
+#content .text p + p {
   margin-top: 1rem;
 }
-.text h1 {
+#content .text h1 {
   color: black;
   margin-top: auto;
   margin-left: auto;
