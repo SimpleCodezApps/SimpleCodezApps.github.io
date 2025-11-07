@@ -4,4 +4,12 @@ plugins:
 - jekyll-seo-tag
 title: SimpleCodez
 description: Simple Code / Smart Apps
+exclude:
+  - .DS_Store
+  - .gitignore
+  - .sass-cache
+  - .github
+  - _site
+  - Gemfile
+  - Gemfile.lock
 markdown: kramdown
