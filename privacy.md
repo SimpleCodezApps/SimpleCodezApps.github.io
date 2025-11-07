@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Privacy Policy"
+---
+
 <div class="text">
 <h1>Privacy Policy</h1>
 <p>
