@@ -4,3 +4,4 @@ plugins:
 - jekyll-seo-tag
 title: SimpleCodez
 description: Simple Code / Smart Apps
+markdown: kramdown
