@@ -19,7 +19,7 @@ During a broadcast, use the Messages panel to trigger saved overlays and Celly S
 - Create and edit overlays in the [Messages Tab](messages-tab).
 - The panel lists only the messages for the current sport and sorts them by name.
 
-## Tips
+## FAQ
 - Use descriptive names so you can find messages quickly while live.
 - Keep durations short for quick announcements.
 - Trigger Celly Stickers after the play because they cover more of the screen.
