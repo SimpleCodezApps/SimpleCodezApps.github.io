@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Events Panel"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Events Panel

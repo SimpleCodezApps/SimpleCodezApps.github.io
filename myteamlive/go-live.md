@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Go Live Tab"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Go Live Tab

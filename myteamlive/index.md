@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "MyTeamLive Help"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 Use this index to jump to any help topic. Every page links back here so you can keep exploring.

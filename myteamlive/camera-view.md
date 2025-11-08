@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Camera View"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Camera View

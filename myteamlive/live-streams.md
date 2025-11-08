@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Live Streams Tab"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Live Streams Tab

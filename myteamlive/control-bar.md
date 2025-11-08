@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Control Bar"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Control Bar

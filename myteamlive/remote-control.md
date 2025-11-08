@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "More Tab / Remote Control"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # More Tab / Remote Control

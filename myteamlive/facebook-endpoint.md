@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "Facebook Endpoint Guide"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # Facebook Endpoint Guide

@@ -1,6 +1,9 @@
 ---
 layout: myteamlive
 title: "YouTube Endpoint Guide"
+section_logo: /images/MyTeamLive.png
+section_name: MyTeamLive
+section_url: /myteamlive/index
 ---
 
 # YouTube Endpoint Guide
