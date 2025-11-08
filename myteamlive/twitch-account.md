@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Twitch Account Guide"
 ---
 
 # Twitch Account Guide
-[Back to Help Index](index)
 
 Stream straight to your own Twitch channel via account linking.
 

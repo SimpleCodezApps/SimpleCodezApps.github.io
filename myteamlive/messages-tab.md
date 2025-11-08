@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Messages Tab"
 ---
 
 # Messages Tab
-[Back to Help Index](index)
 
 Create reusable overlays so you can trigger announcements without retyping.
 

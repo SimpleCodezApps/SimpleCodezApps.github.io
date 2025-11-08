@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: myteamlive
 title: "MyTeamLive Help"
 ---
-
-# MyTeamLive Help
 
 Use this index to jump to any help topic. Every page links back here so you can keep exploring.
 

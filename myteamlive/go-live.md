@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Go Live Tab"
 ---
 
 # Go Live Tab
-[Back to Help Index](index)
 
 Use the Go Live tab to configure teams, video settings, and streaming destinations before entering the Camera View.
 

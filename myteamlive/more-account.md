@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "More Tab / Account"
 ---
 
 # More Tab / Account
-[Back to Help Index](index)
 
 Use the Account area under the More tab to view subscription status and manage billing.
 

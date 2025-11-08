@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Getting Started"
 ---
 
 # Getting Started
-[Back to Help Index](index)
 
 MyTeamLive works with YouTube, Twitch, Facebook, and any RTMP/RTMPS service to let you stream games with overlays for scores, events, custom messages, and Celly Stickers.
 

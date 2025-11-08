@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "YouTube Endpoint Guide"
 ---
 
 # YouTube Endpoint Guide
-[Back to Help Index](index)
 
 Use a scheduled or shared YouTube stream key as a Live Stream endpoint.
 

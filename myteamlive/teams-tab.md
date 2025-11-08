@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Teams Tab"
 ---
 
 # Teams Tab
-[Back to Help Index](index)
 
 Add teams so scoreboards and team-based messages know which colors and logos to use.
 

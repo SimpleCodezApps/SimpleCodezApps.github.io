@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "FAQ"
 ---
 
 # FAQ
-[Back to Help Index](index)
 
 - Streams are designed for landscape orientation; portrait will be letterboxed on most platforms.
 - The built-in microphone is used by default. Wired or Bluetooth headsets with a mic improve commentary audio.

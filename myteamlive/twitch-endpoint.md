@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Twitch Endpoint Guide"
 ---
 
 # Twitch Endpoint Guide
-[Back to Help Index](index)
 
 Use a stream key to broadcast to any Twitch channel, including shared accounts.
 

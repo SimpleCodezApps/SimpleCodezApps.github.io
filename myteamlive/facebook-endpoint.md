@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Facebook Endpoint Guide"
 ---
 
 # Facebook Endpoint Guide
-[Back to Help Index](index)
 
 Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 

@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Control Bar"
 ---
 
 # Control Bar
-[Back to Help Index](index)
 
 The control bar appears at the top of the Camera View whenever you start streaming. It combines real-time indicators with transport controls.
 

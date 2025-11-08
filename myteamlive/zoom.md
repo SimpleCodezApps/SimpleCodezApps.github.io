@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Zoom"
 ---
 
 # Zoom
-[Back to Help Index](index)
 
 Use the vertical slider on the right edge of the Camera View to adjust magnification while streaming. The label shows the current zoom factor.
 

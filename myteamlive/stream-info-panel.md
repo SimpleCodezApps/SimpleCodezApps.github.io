@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Stream Info Panel"
 ---
 
 # Stream Info Panel
-[Back to Help Index](index)
 
 The Stream Info panel surfaces telemetry so you can monitor the broadcast without leaving the Camera View.
 

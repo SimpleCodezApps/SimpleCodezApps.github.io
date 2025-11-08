@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "YouTube Account Guide"
 ---
 
 # YouTube Account Guide
-[Back to Help Index](index)
 
 Broadcast directly to a signed-in YouTube channel.
 

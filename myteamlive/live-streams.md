@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Live Streams Tab"
 ---
 
 # Live Streams Tab
-[Back to Help Index](index)
 
 Use the Live Streams tab to connect MyTeamLive with YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
 

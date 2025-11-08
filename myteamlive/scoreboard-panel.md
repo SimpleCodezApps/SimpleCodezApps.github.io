@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Scoreboard Panel"
 ---
 
 # Scoreboard Panel
-[Back to Help Index](index)
 
 Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 

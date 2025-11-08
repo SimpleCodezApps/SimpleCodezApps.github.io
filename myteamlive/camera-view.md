@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Camera View"
 ---
 
 # Camera View
-[Back to Help Index](index)
 
 The Camera View combines the preview, control bar, zoom tools, and control panels while you are on air.
 

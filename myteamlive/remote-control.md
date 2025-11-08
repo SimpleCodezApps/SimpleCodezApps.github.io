@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "More Tab / Remote Control"
 ---
 
 # More Tab / Remote Control
-[Back to Help Index](index)
 
 Remote Control lets a second device manage the scoreboard, events, and messages while the camera device streams.
 

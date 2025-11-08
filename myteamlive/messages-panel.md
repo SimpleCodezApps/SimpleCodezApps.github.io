@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Messages Panel"
 ---
 
 # Messages Panel
-[Back to Help Index](index)
 
 During a broadcast, use the Messages panel to trigger saved overlays and Celly Stickers.
 

@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: myteamlive
 title: "Events Panel"
 ---
 
 # Events Panel
-[Back to Help Index](index)
 
 Trigger sport-specific overlays that automatically include a team name and logo.
 
