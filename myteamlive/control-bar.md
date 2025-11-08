@@ -8,6 +8,10 @@ section_url: /myteamlive/index
 
 # Control Bar
 
+<p style="text-align:center;">
+  <img src="/images/CameraViewControlBar.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 The control bar appears at the top of the Camera View whenever you start streaming. It combines real-time indicators with transport controls.
 
 ## Indicators (Left Side)

@@ -8,6 +8,10 @@ section_url: /myteamlive/index
 
 # Zoom
 
+<p style="text-align:center;">
+  <img src="/images/CameraViewZoom.png" alt="Zoom slider view" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 Use the vertical slider on the right edge of the Camera View to adjust magnification while streaming. The label shows the current zoom factor.
 
 - Tap the magnifying glass button with arrows to reset to 1x.

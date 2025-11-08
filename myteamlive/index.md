@@ -6,6 +6,10 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
+<p style="text-align:center;">
+  <img src="/images/CameraViewRaw.png" alt="Camera view preview" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 MyTeamLive lets you live stream your games with a built-in scoreboard, overlays, and easy-to-use controls.
 
 MyTeamLive for Apple iOS is currently in beta. To join, email [join-beta@simplecodez.com](mailto:join-beta@simplecodez.com) with your team name; include the email for a second device if you want to use it as a remote control.
