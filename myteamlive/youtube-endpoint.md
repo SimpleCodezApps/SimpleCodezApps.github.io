@@ -33,8 +33,9 @@ Use a scheduled or shared YouTube stream key as a Live Stream endpoint.
 1. Open the [Go Live Tab](go-live).
 2. Select the YouTube endpoint.
 3. Finish configuring the broadcast.
-4. Tap **Go Live**, then Play/Pause to enter Standby.
-5. Tap Play to send the camera feed. Auto-start must be enabled on YouTube if you want it to begin automatically.
+4. Tap **Go Live** to open the Camera View.
+5. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+6. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
 Stop the stream in the app to end the live video. Auto-stop ends it automatically if enabled.

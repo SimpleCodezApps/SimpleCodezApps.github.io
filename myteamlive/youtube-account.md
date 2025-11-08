@@ -21,8 +21,9 @@ Broadcast directly to a signed-in YouTube channel.
 3. Enter a title and description.
 4. Choose a privacy level (Public, Unlisted, Private).
 5. Finish configuring sport, teams, and video settings.
-6. Tap **Go Live**.
-7. Use Play/Pause to go from Off-Air to Standby, then Play to send the camera feed.
+6. Tap **Go Live** to open the Camera View.
+7. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+8. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
 Stop the broadcast in the app to end the YouTube live video.

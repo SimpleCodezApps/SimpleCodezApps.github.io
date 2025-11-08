@@ -31,7 +31,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Pick Home and Away teams.
 5. Review FPS and Quality.
 6. Tap **Go Live** to open the Camera View.
-7. Tap Play/Pause for Standby, then Play to go live.
+7. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+8. Tap Play to unmute and broadcast the live camera feed.
 
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel).

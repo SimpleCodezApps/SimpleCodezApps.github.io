@@ -29,8 +29,11 @@ Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 ## Go Live
 1. Open the [Go Live Tab](go-live).
 2. Select the Facebook endpoint.
-3. Complete the broadcast setup and tap **Go Live**.
-4. Tap Play/Pause to enter Standby. Facebook will switch to Live at the scheduled time.
+3. Complete the broadcast setup.
+4. Tap **Go Live** to open the Camera View.
+5. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+6. Tap Play to unmute and broadcast the live camera feed.
+7. Facebook will begin to stream at the scheduled time.
 
 ## End the Broadcast
 Stop the stream in the app to end the Facebook Live video.
