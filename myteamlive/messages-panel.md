@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Messages Panel"
+---
+
+# Messages Panel
+[Back to Help Index](index)
+
+During a broadcast, use the Messages panel to trigger saved overlays and Celly Stickers.
+
+## Basics
+1. Pick Home or Away for team-based overlays.
+2. Override the on-screen duration if needed.
+3. Tap a saved message or sticker to display it immediately.
+
+## Managing Messages
+- Create and edit overlays in the [Messages Tab](messages-tab).
+- The panel lists only the messages for the current sport and sorts them by name.
+
+## Tips
+- Use descriptive names so you can find messages quickly while live.
+- Keep durations short for quick announcements.
+- Trigger Celly Stickers after the play because they cover more of the screen.

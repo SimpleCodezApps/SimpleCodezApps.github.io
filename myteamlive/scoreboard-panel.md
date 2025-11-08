@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Scoreboard Panel"
+---
+
+# Scoreboard Panel
+[Back to Help Index](index)
+
+Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
+
+## Basics
+- **Show Scoreboard** toggles the overlay visibility.
+- **Game Over** marks the matchup as finished.
+- Home and Away steppers adjust scores.
+
+## Hockey Controls
+- **Period** selects 1st, 2nd, 3rd, or OT.
+- **OT #** sets the overtime number when OT is active.
+- **Power Play** shows which team has the advantage.
+- **Player Advantage** displays skater counts or Empty Net.
+
+## Soccer Controls
+- **Period** selects First Half, Second Half, Extra Time, or PKs (when available).
+- **Yellow/Red Cards** track cards for each team.
+
+Use the interactive help demo in the app to experiment without affecting a live game.
