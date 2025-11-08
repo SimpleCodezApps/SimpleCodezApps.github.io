@@ -6,7 +6,9 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-Use this index to jump to any help topic. Every page links back here so you can keep exploring.
+MyTeamLive for Apple iOS is currently in beta. To join, email [join-beta@simplecodez.com](mailto:join-beta@simplecodez.com) with your team name; include the email for a second device if you want to use it as a remote control.
+
+---
 
 ## Getting Started
 - [Getting Started](getting-started)
