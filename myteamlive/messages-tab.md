@@ -40,6 +40,6 @@ Create reusable overlays so you can trigger announcements without retyping.
 4. Tap **Share > Save Image**.
 5. Return to MyTeamLive and create a new Celly Sticker with the saved cutout.
 
-## FAQs
+## FAQ
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.

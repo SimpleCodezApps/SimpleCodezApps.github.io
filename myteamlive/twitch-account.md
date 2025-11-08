@@ -33,5 +33,5 @@ Stream straight to your own Twitch channel via account linking.
 ## End the Broadcast
 Stop the broadcast in the app to end the Twitch stream.
 
-## FAQs
+## FAQ
 - Twitch channels display one title for the entire channel; individual broadcasts do not get separate names.

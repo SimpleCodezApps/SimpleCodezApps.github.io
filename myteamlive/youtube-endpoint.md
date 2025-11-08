@@ -40,7 +40,7 @@ Use a scheduled or shared YouTube stream key as a Live Stream endpoint.
 ## End the Broadcast
 Stop the stream in the app to end the live video. Auto-stop ends it automatically if enabled.
 
-## FAQs
+## FAQ
 - Auto-start must be on if you want YouTube to go live without manual action.
 - Streams typically run a few seconds behind real time.
 - DVR mode stores the broadcast for later viewing.

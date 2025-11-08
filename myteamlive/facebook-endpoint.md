@@ -38,6 +38,6 @@ Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 ## End the Broadcast
 Stop the stream in the app to end the Facebook Live video.
 
-## FAQs
+## FAQ
 - Expect a short delay between the app and the viewer feed.
 - Facebook Live videos remain available for 30 days.

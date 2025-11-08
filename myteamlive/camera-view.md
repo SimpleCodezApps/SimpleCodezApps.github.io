@@ -33,5 +33,5 @@ Open panels along the bottom edge to manage:
 ## Remote Control
 When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim the panels on the camera device.
 
-## FAQs
+## FAQ
 - All on-screen controls stay on the device; only your overlays and video reach the stream.

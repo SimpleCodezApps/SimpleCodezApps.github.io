@@ -34,6 +34,6 @@ Use a stream key to broadcast to any Twitch channel, including shared accounts.
 ## End the Broadcast
 Stop the broadcast in the app to end the Twitch stream.
 
-## FAQs
+## FAQ
 - Set the VOD option if you want replays to remain for seven days.
 - Twitch channels do not provide independent broadcast titles beyond the channel metadata.
