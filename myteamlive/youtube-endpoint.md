@@ -8,7 +8,9 @@ section_url: /myteamlive/index
 
 # YouTube Endpoint Guide
 
-Use a scheduled or shared YouTube stream key as a Live Stream endpoint.
+Schedule a YouTube broadcast and then go live on your device.
+
+Note: if you have access to the YouTube web interface on a different device, you can manage an on-demand broadcast; once the preview is showing, tap the top left on the web interface to show the broadcast on the channel.
 
 ## Schedule a Broadcast on the Web
 1. Visit YouTube.com and tap **Create > Go live**.
@@ -17,8 +19,8 @@ Use a scheduled or shared YouTube stream key as a Live Stream endpoint.
 4. Tap **Next** to configure chat and visibility.
 5. Set the date and time, then tap **Done**.
 6. Copy the stream key.
-7. Toggle **Enable Auto-start** if you want YouTube to go live as soon as video arrives.
-8. Toggle **Enable Auto-stop** to have YouTube end the broadcast when you stop streaming.
+7. Toggle **Enable Auto-start**.
+8. Toggle **Enable Auto-stop**.
 9. Toggle **Enable DVR** to allow replays.
 10. After your first broadcast you can reuse prior settings.
 
