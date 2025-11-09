@@ -17,4 +17,4 @@ MyTeamLive works with YouTube, Twitch, Facebook, and any RTMP/RTMPS service to l
 5. Use the [Scoreboard Panel](scoreboard-panel) and [Messages Panel](messages-panel) to show overlays.
 6. Pair a second device with [Remote Control](remote-control) to manage the scoreboard, events, and Celly Stickers.
 
-A subscription is required to stream. Begin a 7-day free trial from the Go Live tab.
+During the beta testing period, MyTeamLive is **FREE**! ~~A subscription is required to stream. Begin a 7-day free trial from the Go Live tab.~~
