@@ -19,6 +19,7 @@ The control bar appears at the top of the Camera View whenever you start streami
 - Device orientation icon (portrait or landscape).
 - Headphone connection indicator.
 - Network status (ready, connecting, good, unstable, etc.).
+- Current upload speed in kbps.
 
 ## Controls (Right Side)
 - Microphone mute toggle.

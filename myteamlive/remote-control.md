@@ -8,30 +8,43 @@ section_url: /myteamlive/index
 
 # More Tab / Remote Control
 
-Remote Control lets a second device manage the scoreboard, events, and messages while the camera device streams.
+Remote Control lets a second phone manage the scoreboard, events, and messages
+while the camera phone streams the broadcast.
 
-## Prepare the Camera Device
+## Prepare the Camera
+
 1. In Go Live, advance to the confirmation step (step 4 of 4).
-2. Give the device a useful name (for example, "Jane's Phone").
+2. Give the camera a recognizable name (for example, "Jane's Phone").
 3. Toggle **Remote Control** on.
-4. Share the four-digit PIN with the helper device.
+4. Share the four-digit PIN with the remote control.
+5. The camera will now accept any valid remote control connection, and you can
+   start the broadcast by tapping **Continue**.
 
-## Connect the Remote Device
-1. On the helper device, open the More tab and choose Remote Control.
-2. Set a recognizable device name.
-3. Tap **Browse**, wait for the camera device to appear, then select it.
-4. Enter the PIN shown on the camera device and tap **Connect**.
+## Connect the Remote Control
+
+1. Open the More tab and choose Remote Control.
+2. Give the remote control a recognizable name.
+3. Tap **Browse**, wait for the camera name to appear, then select it.
+4. Enter the PIN for the camera and tap **Connect**.
 5. The status changes to "Waiting for camera to start" once paired.
-
-## Start the Broadcast
-1. On the camera device, tap Continue.
-2. When ready, tap **Go Live** to open the Camera View and Remote Controller view simultaneously.
+6. Once the camera operator presses continue and starts the Camera View, the
+   Remote Control UI will appear.
+7. If the camera is already in the Camera View, the Remote Control UI will
+   appear after the two phones synchronize their data.
 
 ## Using Remote Control
-- The Remote Control UI replaces the Scoreboard, Events, and Messages panels on the camera device.
-- Use the toggle on the camera device to enable or disable Remote Control if you need local access to the panels.
+
+- Use the toggle on the camera to enable or disable Remote Control if you need
+  local access to the panels.
+- The PIN for the camera is shown on the remote control toggle.
+- The Remote Control UI replaces the Scoreboard, Events, and Messages panels on
+  the camera but does not control any of the camera or zoom controls.
 
 ## Disconnecting and Reconnecting
-- Tap **Disconnect** on the remote device to end the session.
-- The camera automatically disconnects the remote when the broadcast finishes.
-- If the link drops, the Camera View shows "Disconnected" next to the Remote Control switch and the remote returns to the connection screen. Re-enter the remembered PIN and tap **Connect** while the Camera View remains open.
+
+- Tap **Disconnect** on the remote control to end the session.
+- The camera automatically disconnects the remote control when the broadcast
+  finishes.
+- If the link drops, the Camera View shows "Disconnected" next to the Remote
+  Control toggle and the remote control returns to the connection screen.
+  Re-enter the displayed PIN and tap **Connect**.
