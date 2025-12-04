@@ -15,7 +15,9 @@ The Stream Info panel surfaces telemetry so you can monitor the broadcast withou
 - Headphones: connection status (also in the control bar).
 - Zoom: current zoom factor.
 - FPS: active frame rate (30 or 60).
+- Current FPS.
 - Quality: video resolution (720p or 1080p).
+- Current bitrate in KBps.
 - Endpoint: ingest URL and stream key in use.
 - Publish State: detailed encoder state beyond the simple broadcast label.
 - Stream State: detailed network status beyond the control bar indicator.

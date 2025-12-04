@@ -19,20 +19,22 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 1. Choose a saved endpoint.
 2. Select the sport.
 3. Pick Home and Away teams.
-4. Review FPS and Quality; adjust if needed.
-5. Tap **Go Live** to open the Camera View.
-6. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
-7. Tap Play to unmute and show the camera feed to viewers.
+4. Choose scorebug type (hockey only).
+5. Review FPS and Quality; adjust if needed.
+6. Tap **Go Live** to open the Camera View.
+7. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+8. Tap Play to unmute and show the camera feed to viewers.
 
 ## Starting with a Connected Account
 1. Choose a signed-in account (YouTube or Twitch).
 2. For YouTube, fill in title, description, and privacy.
 3. Select the sport.
 4. Pick Home and Away teams.
-5. Review FPS and Quality.
-6. Tap **Go Live** to open the Camera View.
-7. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
-8. Tap Play to unmute and broadcast the live camera feed.
+5. Choose scorebug type (hockey only).
+6. Review FPS and Quality.
+7. Tap **Go Live** to open the Camera View.
+8. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
+9. Tap Play to unmute and broadcast the live camera feed.
 
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel).
