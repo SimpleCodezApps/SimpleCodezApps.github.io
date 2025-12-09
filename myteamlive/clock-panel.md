@@ -26,4 +26,4 @@ List of active penalties, penalties can be expired or edited.
 
 Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
 
-Because of the basic controls, if a player gets consecutive penalties, i.e. two minors for head contact, enter one penalty, and then enter the second penalty once the first expires.
+Use the double minor toggle to indicate a double minor. When the double minor expires or is cleared, it will be started an additional time.

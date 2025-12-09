@@ -10,8 +10,6 @@ section_url: /myteamlive/index
 
 Schedule a YouTube broadcast and then go live on your device.
 
-Note: if you have access to the YouTube web interface on a different device, you can manage an on-demand broadcast; once the preview is showing, tap the top left on the web interface to show the broadcast on the channel.
-
 ## Schedule a Broadcast on the Web
 1. Visit YouTube.com and tap **Create > Go live**.
 2. Choose **Manage** then **Schedule Stream**.
@@ -30,6 +28,8 @@ Note: if you have access to the YouTube web interface on a different device, you
 3. Paste the stream key you copied.
 4. Name the destination so you recognize it later.
 5. Tap **Save**. The key can be reused for future broadcasts.
+
+*Do this once, update if the stream key is changed.*
 
 ## Go Live
 1. Open the [Go Live Tab](go-live).

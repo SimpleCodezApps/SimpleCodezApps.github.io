@@ -32,6 +32,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Control Bar](control-bar)
 - [Zoom](zoom)
 - [Stream Info Panel](stream-info-panel)
+- [Clock Panel](clock-panel)
 - [Scoreboard Panel](scoreboard-panel)
 - [Events Panel](events-panel)
 - [Messages Panel](messages-panel)
