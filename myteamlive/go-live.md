@@ -8,7 +8,7 @@ section_url: /myteamlive/index
 
 # Go Live Tab
 
-Use the Go Live tab to configure teams, video settings, and streaming destinations before entering the Camera View.
+Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Camera View.
 
 ## Before You Start
 1. Add at least one Live Stream destination in the [Live Streams Tab](live-streams).
@@ -37,7 +37,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 9. Tap Play to unmute and broadcast the live camera feed.
 
 ## During the Broadcast
-- Update scores and period/time from the [Scoreboard Panel](scoreboard-panel).
+- Update scores and period/time from the [Scoreboard Panel](scoreboard-panel) and [Clock Panel](clock-panel).
 - Show overlays via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
 - Use the [Control Bar](control-bar) to mute, pause, or stop.
 - Adjust framing with the [Zoom](zoom) slider; reset with the magnifying glass button.
