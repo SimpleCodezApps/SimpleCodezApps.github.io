@@ -24,6 +24,8 @@ Use a stream key to broadcast to any Twitch channel, including shared accounts.
 4. Enter a recognizable name for this destination.
 5. Tap **Save**.
 
+*Do this once, update if the stream key is changed.*
+
 ## Go Live
 1. Open the [Go Live Tab](go-live).
 2. Select the Twitch endpoint.
