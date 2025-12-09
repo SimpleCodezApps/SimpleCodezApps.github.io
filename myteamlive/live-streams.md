@@ -12,7 +12,7 @@ Use the Live Streams tab to connect MyTeamLive with YouTube, Twitch, Facebook, o
 
 ## Choosing a Service
 - **YouTube** supports on-demand and scheduled broadcasts. Stream directly with your account or configure a shared stream key.
-- **Shared YouTube channels** usually require scheduling on the web and using a dedicated endpoint.
+- **Shared YouTube channels** require scheduling on the web and using a dedicated endpoint.
 - **Twitch** is on-demand; account streaming and endpoint streaming work similarly. Configure VOD settings on the web if you need replays.
 - **Facebook** events must be scheduled on the web, then paired with an endpoint in the app.
 - **Other services** work as long as you have an ingest URL and stream key.
