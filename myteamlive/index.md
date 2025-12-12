@@ -27,6 +27,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Live Streams Tab](live-streams)
 - [More Tab / Account](more-account)
 - [More Tab / Remote Control](remote-control)
+- [More Tab / Saved Recordings](more-recordings)
 
 ## Panels & Controls
 - [Control Bar](control-bar)
