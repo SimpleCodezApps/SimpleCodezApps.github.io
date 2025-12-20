@@ -17,6 +17,9 @@ The Camera View combines the preview, control bar, zoom tools, and control panel
 ## Preview
 The live preview shows exactly what the audience sees.
 
+## Audio
+Audio will use a wired microphone/headset or bluetooth microphone/headset or the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall seem to come from a wired setup.
+
 ## Control Bar
 Use the top control bar to start or pause publishing, mute audio, stop, and monitor stream state. Learn more in the [Control Bar guide](control-bar).
 
