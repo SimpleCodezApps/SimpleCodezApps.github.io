@@ -38,6 +38,16 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 9. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
 10. Tap Play to unmute and broadcast the live camera feed.
 
+## Starting with Local Recording Only
+1. Choose **Record Locally Only**.
+2. Select the sport.
+3. Pick Home and Away teams.
+4. Choose scorebug type (hockey only).
+5. Confirm FPS and Quality.
+6. Tap **Start Recording** to open the Camera View.
+7. Tap Play/Pause on the control bar to enter Standby and start recording with the intermission screen.
+8. Tap Play to record the live camera feed.
+
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel) and [Clock Panel](clock-panel).
 - Show overlays via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
