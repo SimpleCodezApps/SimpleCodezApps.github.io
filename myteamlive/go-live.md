@@ -55,6 +55,13 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 - Adjust framing with the [Zoom](zoom) slider; reset with the magnifying glass button.
 - Tap Pause to show the intermission screen and mute audio without ending the stream.
 
+## Connection Retry
+If the connection to the server is lost, a dialog will give you three options:
+
+1. Retry: Go back to Standby, press the play/retry button to reconnect to the server.
+2. Continue with local recording: Go back to Standby, but proceed with a local recording that can be uploaded later.
+3. Close Camera View: Close the Camera View and start over.
+
 ## Finish Up
 1. Tap Stop to end the broadcast.
 2. Tap Close to leave the Camera View and return to the Go Live tab.

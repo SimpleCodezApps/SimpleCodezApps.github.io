@@ -35,7 +35,7 @@ Open panels along the bottom edge to manage:
 - Stream telemetry ([Stream Info Panel](stream-info-panel))
 
 ## Remote Control
-When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim the panels on the camera device.
+When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim control and use the panels on the camera device.
 
 ## FAQ
 - All on-screen controls stay on the device; only your overlays and video reach the stream.

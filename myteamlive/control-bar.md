@@ -20,6 +20,7 @@ streaming. It combines real-time indicators with transport controls.
 - Broadcast status: Off-Air, Standby, or Live.
 - Device orientation icon (portrait or landscape).
 - Headphone connection indicator.
+- Recording status indicator.
 - Network status (ready, connecting, good, unstable, etc.).
 - Current upload speed in KBps.
 

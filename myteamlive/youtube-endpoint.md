@@ -20,7 +20,7 @@ Schedule a YouTube broadcast and then go live on your device.
 7. Toggle **Enable Auto-start**.
 8. Toggle **Enable Auto-stop**.
 9. Toggle **Enable DVR** to allow replays.
-10. After your first broadcast you can reuse prior settings.
+10. After scheduling your first broadcast you can reuse prior settings.
 
 ## Configure the Endpoint in MyTeamLive
 1. In the [Live Streams Tab](live-streams), tap **Add Live Stream**.
@@ -43,6 +43,7 @@ Schedule a YouTube broadcast and then go live on your device.
 Stop the stream in the app to end the live video. Auto-stop ends it automatically if enabled.
 
 ## FAQ
+- If you suspect that there might be network issues, schedule a second broadcast ahead of time. This broadcast will be used if the first broadcast is interrupted and you cannot reconnect in time to continue the first broadcast.
 - Auto-start must be on if you want YouTube to go live without manual action.
-- Streams typically run a few seconds behind real time.
+- Streams typically run about ten or twenty seconds behind real time.
 - DVR mode stores the broadcast for later viewing.
