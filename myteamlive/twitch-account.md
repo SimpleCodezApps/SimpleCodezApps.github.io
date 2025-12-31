@@ -31,7 +31,7 @@ Stream straight to your own Twitch channel via account linking.
 6. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
-Stop the broadcast in the app to end the Twitch stream.
+Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
 
 ## FAQ
 - Twitch channels display one title for the entire channel; individual broadcasts do not get separate names.
