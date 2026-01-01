@@ -18,7 +18,7 @@ The Camera View combines the preview, control bar, zoom tools, and control panel
 The live preview shows exactly what the audience sees.
 
 ## Audio
-Audio will use a wired microphone/headset or bluetooth microphone/headset or the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall seem to come from a wired setup.
+Audio will use a wired microphone/headset or a bluetooth microphone/headset or the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall seem to come from a wired setup.
 
 The mute button will show a large and centered muted icon on the stream by default. Other options available are no icon at all (not recommended) or a smaller icon in the top right.
 
