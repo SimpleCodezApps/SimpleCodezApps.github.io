@@ -8,9 +8,10 @@ section_url: /myteamlive/index
 
 # YouTube Endpoint Guide
 
-Schedule a YouTube broadcast and then go live on your device.
+Schedule a YouTube broadcast and then go live on your device. Watch tutorial video on [YouTube](https://youtu.be/GPWg77zxQ6s).
 
 ## Schedule a Broadcast on the Web
+
 1. Visit YouTube.com and tap **Create > Go live**.
 2. Choose **Manage** then **Schedule Stream**.
 3. Enter title, description, category, audience, and other options.
