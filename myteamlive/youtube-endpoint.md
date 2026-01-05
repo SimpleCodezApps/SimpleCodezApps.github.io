@@ -12,7 +12,7 @@ Schedule a YouTube broadcast and then go live on your device. Watch the tutorial
 
 ## Schedule a Broadcast on the Web
 
-1. Open a browser on your laptop and go to https://studio.youtube.com.
+1. Open a browser on your laptop and go to [https://studio.youtube.com](https://studio.youtube.com).
 2. Click **Create** and select **Go live**.
 3. If you do not already have a channel, YouTube will prompt you to create your default channel.
 4. If this is your first time going live, YouTube will prompt you to verify your account. This will take about 24 hours to complete.
