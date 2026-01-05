@@ -34,7 +34,6 @@ Open panels along the bottom edge to manage:
 - Scoreboard, including sport-specific states ([Scoreboard Panel](scoreboard-panel))
 - Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Sport-specific event prompts ([Events Panel](events-panel))
-- Stream telemetry ([Stream Info Panel](stream-info-panel))
 
 ## Remote Control
 When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim control and use the panels on the camera device.

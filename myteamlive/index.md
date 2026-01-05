@@ -17,9 +17,11 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 ---
 
 ## Getting Started
+
 - [Getting Started](getting-started)
 
 ## Tabs & Navigation
+
 - [Go Live Tab](go-live)
 - [Camera View](camera-view)
 - [Messages Tab](messages-tab)
@@ -30,15 +32,16 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [More Tab / Saved Recordings](more-recordings)
 
 ## Panels & Controls
+
 - [Control Bar](control-bar)
 - [Zoom](zoom)
-- [Stream Info Panel](stream-info-panel)
 - [Clock Panel](clock-panel)
 - [Scoreboard Panel](scoreboard-panel)
 - [Events Panel](events-panel)
 - [Messages Panel](messages-panel)
 
 ## Platform Guides
+
 - [YouTube Account Guide](youtube-account)
 - [YouTube Endpoint Guide](youtube-endpoint)
 - [Twitch Account Guide](twitch-account)
@@ -46,4 +49,5 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Facebook Endpoint Guide](facebook-endpoint)
 
 ## Reference
+
 - [FAQ](faq)

@@ -26,7 +26,7 @@ streaming. It combines real-time indicators with transport controls.
 
 ## Controls (Right Side)
 
-- Camera status info.
+- [Camera Status](stream-info-panel).
 - Microphone mute toggle.
 - Live/Pause/Restart toggle.
 - Stop broadcast.

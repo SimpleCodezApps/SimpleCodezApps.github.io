@@ -6,11 +6,12 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Stream Info Panel
+# Camera Status
 
-The Stream Info panel surfaces telemetry so you can monitor the broadcast without leaving the Camera View.
+The Camera Status surfaces telemetry so you can monitor the broadcast without leaving the Camera View.
 
 ## Details
+
 - Orientation: current device orientation (also shown in the control bar).
 - Headphones: connection status (also in the control bar).
 - Zoom: current zoom factor.
