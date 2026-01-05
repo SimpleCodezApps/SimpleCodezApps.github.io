@@ -16,9 +16,9 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 
 ---
 
-## Getting Started
+## Quick Start
 
-- [Getting Started](getting-started)
+- [Quick Start](getting-started)
 
 ## Tabs & Navigation
 
