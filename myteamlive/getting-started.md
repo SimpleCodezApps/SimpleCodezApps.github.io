@@ -55,7 +55,7 @@ quickly.
 <p style="text-align:center;">
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
-1. After a small delay, the Camera View will be live and the status indicator in the top right corner shows **Off–Air**.
+1. After a small delay, the Camera View will be live and the status indicator in the top left corner shows **Off–Air**.
 2. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
 3. On the right side are the [Zoom](zoom) controls.
 4. Along the bottom of the screen are the buttons for four control panels.
