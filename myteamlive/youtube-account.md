@@ -15,8 +15,8 @@ Broadcast directly to a signed-in YouTube channel.
 1. Open the [Live Streams Tab](live-streams).
 2. Tap **Add Account** and choose YouTube.
 3. Sign in and accept the requested permissions.
-4. Open a browser on your laptop and go to https://studio.youtube.com
-5. Tap **Create** and select *Go live*.
+4. Open a browser on your laptop and go to https://studio.youtube.com.
+5. Click **Create** and select **Go live**.
 6. If you do not already have a channel, YouTube will prompt you to create your default channel.
 7. If this is your first time going live, YouTube will prompt you to verify your account. This will take about 24 hours to complete.
 

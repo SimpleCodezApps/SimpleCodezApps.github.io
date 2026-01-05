@@ -11,7 +11,7 @@ section_url: /myteamlive/index
 Use the Saved Recordings section in the More tab to review, share, or remove the local MP4 archives created when you enable **Save Recording** on the Go Live confirmation screen.
 
 ## Locate Recordings
-- Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livesteam multiple times).
+- Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livestream multiple times).
 
 ## Share a Recording
 1. Tap the share icon on the right edge of the row.

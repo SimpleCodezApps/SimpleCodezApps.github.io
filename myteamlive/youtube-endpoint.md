@@ -8,18 +8,18 @@ section_url: /myteamlive/index
 
 # YouTube Endpoint Guide
 
-Schedule a YouTube broadcast and then go live on your device. Watch tutorial video on [YouTube](https://youtu.be/GPWg77zxQ6s).
+Schedule a YouTube broadcast and then go live on your device. Watch the tutorial video on [YouTube](https://youtu.be/GPWg77zxQ6s).
 
 ## Schedule a Broadcast on the Web
 
 1. Open a browser on your laptop and go to https://studio.youtube.com.
-2. Tap **Create** and select *Go live*.
+2. Click **Create** and select **Go live**.
 3. If you do not already have a channel, YouTube will prompt you to create your default channel.
 4. If this is your first time going live, YouTube will prompt you to verify your account. This will take about 24 hours to complete.
-5. Tap **Manage** then **Schedule Stream**.
+5. Click **Manage**, then **Schedule Stream**.
 6. Enter title, description, category, audience, and other options.
-7. Tap **Next** to configure chat and visibility.
-8. Set the date and time, then tap **Done**.
+7. Click **Next** to configure chat and visibility.
+8. Set the date and time, then click **Done**.
 9. Copy the stream key.
 10. Toggle **Enable Auto-start**.
 11. Toggle **Enable Auto-stop**.
