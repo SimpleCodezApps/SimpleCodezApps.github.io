@@ -12,27 +12,32 @@ Schedule a YouTube broadcast and then go live on your device. Watch tutorial vid
 
 ## Schedule a Broadcast on the Web
 
-1. Visit YouTube.com and tap **Create > Go live**.
-2. Choose **Manage** then **Schedule Stream**.
-3. Enter title, description, category, audience, and other options.
-4. Tap **Next** to configure chat and visibility.
-5. Set the date and time, then tap **Done**.
-6. Copy the stream key.
-7. Toggle **Enable Auto-start**.
-8. Toggle **Enable Auto-stop**.
-9. Toggle **Enable DVR** to allow replays.
-10. After scheduling your first broadcast you can reuse prior settings.
+1. Open a browser on your laptop and go to https://studio.youtube.com.
+2. Tap **Create** and select *Go live*.
+3. If you do not already have a channel, YouTube will prompt you to create your default channel.
+4. If this is your first time going live, YouTube will prompt you to verify your account. This will take about 24 hours to complete.
+5. Tap **Manage** then **Schedule Stream**.
+6. Enter title, description, category, audience, and other options.
+7. Tap **Next** to configure chat and visibility.
+8. Set the date and time, then tap **Done**.
+9. Copy the stream key.
+10. Toggle **Enable Auto-start**.
+11. Toggle **Enable Auto-stop**.
+12. Toggle **Enable DVR** to allow replays.
+13. After scheduling your first broadcast you can reuse prior settings.
 
 ## Configure the Endpoint in MyTeamLive
+
 1. In the [Live Streams Tab](live-streams), tap **Add Live Stream**.
 2. Choose YouTube as the service to auto-fill the ingest URL.
 3. Paste the stream key you copied.
 4. Name the destination so you recognize it later.
 5. Tap **Save**. The key can be reused for future broadcasts.
 
-*Do this once, update if the stream key is changed.*
+_Do this once, update if the stream key is changed._
 
 ## Go Live
+
 1. Open the [Go Live Tab](go-live).
 2. Select the YouTube endpoint.
 3. Finish configuring the broadcast.
