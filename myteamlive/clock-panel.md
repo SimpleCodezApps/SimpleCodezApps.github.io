@@ -21,7 +21,7 @@ Manage the game clock, player advantage, and penalties on the scorebug.
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, use the Update penalties toggle to keep the penalties in sync with the Game Clock.
 
 ## Penalties
-List of active penalties; each can be edited or expired.
+List of active penalties; each can be edited or cleared.
 - **Add Penalty** add a new penalty
 
 Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
