@@ -16,7 +16,7 @@ Manage the game clock, player advantage, and penalties on the scorebug.
 ## Basics
 - **Start** start the game clock.
 - **Stop** stop the game clock.
-- **Reset** reset the game clock (defaults to 00:00).
+- **Edit** edit the game clock (defaults to 00:00).
 
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, use the Update penalties toggle to keep the penalties in sync with the Game Clock.
 
