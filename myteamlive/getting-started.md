@@ -93,7 +93,7 @@ quickly.
 ## Intermissions
 
 1. Tap the **Pause** icon.
-2. The intermission screen appears; the status is now **Standby**, and the microphone is muted.
+2. The intermission screen appears and the microphone is muted.
 3. Tap the **Play** icon to return to the Camera View.
 
 ## Ending the Stream
@@ -117,4 +117,4 @@ quickly.
 
 We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts.
 
-Using a [YouTube Account](youtube-account) directly is a bit easier, but the stream will always be on your account's channel.
+Using a [YouTube Account](youtube-account) directly is easier, but the stream will always be on your account's channel.
