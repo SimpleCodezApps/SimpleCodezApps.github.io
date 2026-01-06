@@ -34,12 +34,10 @@ while the camera phone streams the broadcast.
 
 ## Using Remote Control
 
-- Use the toggle on the camera to enable or disable Remote Control if you need
-  local access to the panels.
+- Use the Remote Control toggle to bring control back to the Camera View without disconnecting the Remote Control.
 - The PIN for the camera is shown on the remote control toggle.
 - The Remote Control UI replaces the Scoreboard, Events, and Messages panels on
   the camera but does not control any of the camera or zoom controls.
-- Use the Remote Control toggle to temporarily bring control back to the Camera View.
 - The Remote Control UI shows a question mark for Celly Stickers instead of an icon of the graphic.
 
 ## Disconnecting and Reconnecting
