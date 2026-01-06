@@ -19,8 +19,8 @@ Create reusable overlays so you can trigger announcements without retyping.
 ## Add a Custom Message Overlay
 1. Open the Messages tab and tap **Add Message**.
 2. Name the overlay.
-3. Pick a format (text only, text on background, team text, etc.).
-4. Select a sport to group the overlay and unlock sport presets.
+3. Pick a format: text only, text on background, team text, or team text with custom colors.
+4. Select a sport.
 5. Adjust text and background colors where the layout allows.
 6. Set the on-screen duration.
 7. Use the live preview to verify layout; choose a team to preview team formats.

@@ -22,4 +22,4 @@ During a broadcast, use the Messages panel to trigger saved overlays and Celly S
 ## FAQ
 - Use descriptive names so you can find messages quickly while live.
 - Keep durations short for quick announcements.
-- Trigger Celly Stickers after the play because they cover more of the screen.
+- Celly Stickers add personality; use them sparingly so they do not cover live action.
