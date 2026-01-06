@@ -17,8 +17,6 @@ Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 
 ## Hockey Controls
 - **Period** selects 1st, 2nd, 3rd, or OT.
-- **OT #** sets the overtime number when OT is active.
-- **Power Play** shows which team has the advantage.
 - **Shots on Goal** steppers track shots when you use the ribbon scorebug.
 
 ## Soccer Controls
