@@ -17,7 +17,7 @@ Manage the game clock, player advantage, and penalties on the scorebug.
 - **Start** start the game clock.
 - **Stop** stop the game clock.
 - **Edit** edit the game clock (defaults to 00:00).
-- **Player Advantage** shows which team has the advantage.
+- **Player Advantage** show on-ice strength.
 - **Empty Net** toggle the empty net message.
 
 

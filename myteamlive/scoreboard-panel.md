@@ -17,7 +17,13 @@ Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 
 ## Hockey Controls
 - **Period** selects 1st, 2nd, 3rd, or OT.
-- **Shots on Goal** steppers track shots when you use the ribbon scorebug.
+
+### Ribbon Scorebug
+- **Shots on Goal** steppers track shots.
+
+### Square Scorebug
+- **Power Play** shows which team has the advantage.
+- **Player Advantage** show on-ice strength.
 
 ## Soccer Controls
 - **Period** selects First Half, Second Half, Extra Time, or PKs (when available).
