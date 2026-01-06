@@ -12,12 +12,16 @@ Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 
 ## Schedule a Live Event
 
-1. On Facebook.com, choose **Live Video**.
-2. Select **Create a live video event**.
-3. Enter the event name, description, date, time, and privacy.
-4. Click **Next**, then open **Settings > Stream**.
-5. Toggle **Use a persistent stream key** and copy it for later reuse.
-6. Finish by creating the event.
+1. Open a browser on your laptop and go to [https://facebook.com](https://facebook.com).
+2. Click **Live Video**.
+3. Click **Create event**.
+4. On the left, enter the event name, description, date, time, and privacy.
+5. Click **Next** .
+6. Click **Settings**.
+7. Click **Stream**.
+8. On the right, toggle **Use a persistent stream key** on.
+9. Copy the stream key.
+10. Click **Create event**.
 
 ## Configure the Endpoint in MyTeamLive
 
