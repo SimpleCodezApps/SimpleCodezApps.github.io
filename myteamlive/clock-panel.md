@@ -8,18 +8,20 @@ section_url: /myteamlive/index
 
 # Clock Panel
 
+<p style="text-align:center;">
+  <img src="/images/Clock.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 Only available when using the Ribbon scorebug with Hockey.
 
 Manage the game clock, player advantage, and penalties on the scorebug.
 
 
-## Basics
+## Clock
 - **Start** start the game clock.
 - **Stop** stop the game clock.
-- **Edit** edit the game clock (defaults to 00:00).
-- **Player Advantage** show on-ice strength.
-- **Empty Net** toggle the empty net message.
 
+The Game Clock can only be changed when the clock is stopped. Use the minutes and seconds entry or steppers to adjust the time, then tap **Update Clock**.
 
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, use the Update penalties toggle to keep the penalties in sync with the Game Clock.
 
