@@ -21,6 +21,10 @@ Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 ### Ribbon Scorebug
 - **Shots on Goal** steppers track shots.
 
+If the clock is disabled:
+- **Power Play** shows which team has the advantage.
+- **Player Advantage** show on-ice strength.
+
 ### Square Scorebug
 - **Power Play** shows which team has the advantage.
 - **Player Advantage** show on-ice strength.
