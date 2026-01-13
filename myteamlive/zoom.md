@@ -1,10 +1,14 @@
 ---
 layout: myteamlive
-title: "Zoom"
+title: "Zoom and Focus"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
+
+# Focus
+
+Tap the screen to focus the camera on a point of interest.
 
 # Zoom
 
@@ -24,6 +28,10 @@ Use the vertical slider on the right edge of the Camera View to adjust magnifica
 4. Tap a preset again to clear it.
 5. Configure up to three presets before leaving preset mode.
 6. Tap **Configure Preset** again to exit (button outlines).
+
+## Pinch to Zoom
+
+Use the pinch gesture to zoom in and out. The slider will change with the gesture.
 
 ## Show or Hide the Slider
 Use the toggle beneath the slider to hide or reveal it. Preset buttons stay visible even when the slider is hidden.
