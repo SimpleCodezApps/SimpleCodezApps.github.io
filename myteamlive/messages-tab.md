@@ -33,6 +33,18 @@ Create reusable overlays so you can trigger announcements without retyping.
 4. Set the display duration and review the preview.
 5. Tap **Save**.
 
+## Add a Watermark
+Watermarks are persistent logos or images that stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+
+1. In Messages, tap **Add Watermark**.
+2. Name the watermark and assign a sport.
+3. Pick an image from your photo library.
+4. Choose a size: **Small** (10% of screen height), **Medium** (15%), or **Large** (20%).
+5. Review the preview to see placement in the bottom-right corner.
+6. Tap **Save**.
+
+Watermarks have no duration—they remain visible until you manually dismiss them during a broadcast.
+
 ## Make a Celly Sticker in Photos
 1. Open Photos and choose an image with a clear subject.
 2. Press and hold to select the subject.
@@ -43,3 +55,4 @@ Create reusable overlays so you can trigger announcements without retyping.
 ## FAQ
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
+- Watermarks work best with transparent PNG images so your video shows through around the logo.
