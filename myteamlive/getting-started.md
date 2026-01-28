@@ -44,11 +44,12 @@ quickly.
 9. In the _Hockey Scorebug_ section, select the _Ribbon_.
 10. Toggle _Show Clock_ on.
 11. Toggle _Show Shots on Goal_ on.
-12. Toggle _Show Scorebug Immediately_ on.
-13. In the _Muted Overlay_ section, select _Large Centered_.
-14. In the _Video Settings_ section, select _60 fps_.
-15. Select _1080p_.
-16. Tap **Start Recording**.
+12. Leave _Advantage Mode_ set to _Manual_.
+13. Toggle _Show Scorebug Immediately_ on.
+14. In the _Muted Overlay_ section, select _Large Centered_.
+15. In the _Video Settings_ section, select _60 fps_.
+16. Select _1080p_.
+17. Tap **Start Recording**.
 
 ## Camera View
 
@@ -76,13 +77,12 @@ quickly.
 4. Dismiss the scoreboard dialog.
 5. Check the updated score and shot count.
 6. Tap the [Clock](clock-panel) icon.
-7. Tap **Edit** and set the clock time to 15:00 and save.
-8. Dismiss the clock dialog.
-9. Check the updated clock.
+7. Enter 15 in the _Minutes_ field and 00 in the _Seconds_ field.
+8. Tap **Update Clock** to set the clock time.
+9. Dismiss the clock dialog and check the updated clock.
 10. Tap the [Clock](clock-panel) icon.
-11. Tap **Start** to start the clock.
-12. Dismiss the clock dialog.
-13. Check the updated clock.
+11. Tap **Start Clock** to start the clock.
+12. Dismiss the clock dialog and check the running clock.
 
 ## Showing Messages
 
