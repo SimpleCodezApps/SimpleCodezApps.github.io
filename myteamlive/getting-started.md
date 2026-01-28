@@ -77,12 +77,11 @@ quickly.
 4. Dismiss the scoreboard dialog.
 5. Check the updated score and shot count.
 6. Tap the [Clock](clock-panel) icon.
-7. Enter 15 in the _Minutes_ field and 00 in the _Seconds_ field.
-8. Tap **Update Clock** to set the clock time.
-9. Dismiss the clock dialog and check the updated clock.
-10. Tap the [Clock](clock-panel) icon.
-11. Tap **Start Clock** to start the clock.
-12. Dismiss the clock dialog and check the running clock.
+7. Tap the **15m** preset, then tap **Update Clock** to set the clock to 15:00.
+8. Dismiss the clock dialog and check the updated clock.
+9. Tap the [Clock](clock-panel) icon.
+10. Tap **Start Clock** to start the clock.
+11. Dismiss the clock dialog and check the running clock.
 
 ## Showing Messages
 
