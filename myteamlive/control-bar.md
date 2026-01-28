@@ -13,7 +13,7 @@ section_url: /myteamlive/index
 </p>
 
 The control bar appears at the top of the Camera View whenever you start
-streaming. It combines real-time indicators with transport controls.
+streaming. It combines real-time indicators with broadcast controls.
 
 ## Indicators (Left Side)
 
