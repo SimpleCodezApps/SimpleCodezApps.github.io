@@ -24,11 +24,11 @@ Also, some firewalls will block outbound RTMP/RTMPS and prevent connections.
 
 ## What is the network indicator telling me about the stream?
 
-The network indicator should generally be green and occasionally yellow. If it is consistently yellow you may want to drop the FPS or the quality or both.
+The network indicator should generally be green and occasionally yellow. If it is consistently yellow you may want to restart with a lower FPS or quality or both.
 
 YouTube recommends that your connection should be streaming at least 2000-3000 KBps for 720p, and double that for 1080p.
 
-Experience has shown that 720p @ 30 FPS has good quality as low as 500KBps, which is usually possible via 5G cell service.
+Experience has shown that 720p @ 30 FPS has good quality even at lower speeds (i.e. 500KBps), which is usually possible via 5G cell service.
 
 If you cannot get a steady connection, you can record the game locally and then upload the video.
 
@@ -38,7 +38,7 @@ Many services let you stop and restart a stream at the same quality and FPS with
 
 ## The Remote Control disconnected mid stream?
 
-You can reconnect the Remote Control any time while the Camera View is open. The connection can be made via Bluetooth if both devices are with close proximity and have Bluetooth on.
+You can reconnect the Remote Control any time while the Camera View is open. Additionally, the Remote Control will try to connect via Bluetooth if both devices are within close proximity and have Bluetooth on.
 
 ## How do I get team logos?
 
