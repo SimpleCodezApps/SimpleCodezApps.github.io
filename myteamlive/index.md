@@ -26,9 +26,11 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 
 ---
 
-## Quick Start
+## About
 
 - [Quick Start](getting-started)
+- [Privacy Policy](privacy)
+- [FAQ](faq)
 
 ## Tabs & Navigation
 
@@ -57,7 +59,3 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Twitch Account Guide](twitch-account)
 - [Twitch Endpoint Guide](twitch-endpoint)
 - [Facebook Endpoint Guide](facebook-endpoint)
-
-## Reference
-
-- [FAQ](faq)
