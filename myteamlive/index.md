@@ -51,6 +51,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Scoreboard Panel](scoreboard-panel)
 - [Events Panel](events-panel)
 - [Messages Panel](messages-panel)
+- [Stream Info Panel](stream-info-panel)
 
 ## Platform Guides
 
