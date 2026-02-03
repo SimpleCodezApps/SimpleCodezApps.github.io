@@ -40,8 +40,9 @@ Controls how the player advantage (5v5, 5v4, etc.) is determined:
 
 ## Penalties
 
-List of active penalties; each can be edited or cleared.
-- **Add Penalty** add a new penalty.
+Shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
+
+Use the preset buttons (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
 
 Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
 
