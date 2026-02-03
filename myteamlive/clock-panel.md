@@ -21,7 +21,7 @@ Manage the game clock, player advantage, and penalties on the scorebug.
 - **Start Clock** starts the game clock.
 - **Stop Clock** stops the game clock.
 
-The Game Clock can only be changed when the clock is stopped. Use the preset buttons (**10m**, **12m**, **15m**, **20m**) to quickly set common period lengths, or enter minutes and seconds directly in the text fields, then tap **Update Clock**.
+The Game Clock can only be changed when the clock is stopped. Use the preset buttons (**15m**, **17m**, **20m**, etc) to quickly set common period lengths, or enter minutes and seconds directly in the text fields, then tap **Update Clock**.
 
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, tap **Update Clock and Penalties** to keep the penalties in sync with the Game Clock.
 
