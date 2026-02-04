@@ -13,4 +13,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - AGENTS.md
+  - CLAUDE.md
 markdown: kramdown
