@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/
 ---
 
-# Privacy Policy
 
 We Collect No Personal Information When Using MyTeamLive
 

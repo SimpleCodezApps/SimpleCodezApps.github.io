@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# YouTube Account Guide
 
 Broadcast directly to a signed-in YouTube channel.
 

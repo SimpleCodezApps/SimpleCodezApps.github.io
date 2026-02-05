@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Facebook Endpoint Guide
 
 Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 

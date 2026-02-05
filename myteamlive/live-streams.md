@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Live Streams Tab
 
 Use the Live Streams tab to connect MyTeamLive with YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
 

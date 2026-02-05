@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Twitch Endpoint Guide
 
 Use a stream key to broadcast to any Twitch channel, including shared accounts.
 

@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Go Live Tab
 
 Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Camera View.
 

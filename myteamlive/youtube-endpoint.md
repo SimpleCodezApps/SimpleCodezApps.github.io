@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# YouTube Endpoint Guide
 
 Schedule a YouTube broadcast and then go live on your device. Watch the tutorial video on [YouTube](https://youtu.be/GPWg77zxQ6s).
 

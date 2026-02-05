@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Twitch Account Guide
 
 Stream straight to your own Twitch channel via account linking.
 

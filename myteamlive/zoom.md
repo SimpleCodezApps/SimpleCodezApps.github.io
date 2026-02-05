@@ -6,11 +6,8 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Focus
 
 Tap the screen to focus the camera on a point of interest.
-
-# Zoom
 
 <p style="text-align:center;">
   <img src="/images/CameraViewZoom.png" alt="Zoom slider view" style="max-width:100%;height:auto;border-radius:12px;">

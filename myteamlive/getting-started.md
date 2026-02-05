@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Quick Start Walkthrough
 
 MyTeamLive works with YouTube, Twitch, Facebook, and any RTMP/RTMPS service to
 let you stream games with overlays for scores, events, custom messages, and

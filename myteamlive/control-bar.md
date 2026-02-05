@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Control Bar
 
 <p style="text-align:center;">
   <img src="/images/CameraViewControlBar.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">

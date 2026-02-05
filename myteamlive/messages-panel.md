@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Messages Panel
 
 During a broadcast, use the Messages panel to trigger saved overlays, Celly Stickers, and watermarks.
 

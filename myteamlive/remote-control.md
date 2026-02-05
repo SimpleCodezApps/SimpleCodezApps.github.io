@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# More Tab / Remote Control
 Remote Control lets a second phone manage the scoreboard, events, and messages while the Camera phone streams the broadcast.
 
 ## Prepare the Camera

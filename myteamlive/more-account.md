@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# More Tab / Account
 
 Use the Account area under the More tab to view subscription status and manage billing.
 

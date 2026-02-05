@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Camera View
 
 <p style="text-align:center;">
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">

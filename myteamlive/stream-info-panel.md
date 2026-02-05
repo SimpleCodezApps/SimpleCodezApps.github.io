@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Camera Status
 
 The Camera Status surfaces telemetry so you can monitor the broadcast without leaving the Camera View.
 

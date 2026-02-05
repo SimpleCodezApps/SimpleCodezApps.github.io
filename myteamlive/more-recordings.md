@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# More Tab / Saved Recordings
 
 Use the Saved Recordings section in the More tab to review, share, or remove the local MP4 archives created when you enable **Save Recording** on the Go Live confirmation screen.
 

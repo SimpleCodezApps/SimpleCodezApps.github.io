@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Scoreboard Panel
 
 Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 

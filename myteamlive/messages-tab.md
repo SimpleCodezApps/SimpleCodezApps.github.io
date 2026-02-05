@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Messages Tab
 
 Create reusable overlays so you can trigger announcements without retyping.
 

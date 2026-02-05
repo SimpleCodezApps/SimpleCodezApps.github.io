@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Events Panel
 
 Trigger sport-specific overlays that automatically include a team name and logo.
 

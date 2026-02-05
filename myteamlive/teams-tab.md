@@ -6,7 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# Teams Tab
 
 Add teams so scoreboards and team-based messages know which colors and logos to use.
 
