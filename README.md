@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#1a1a2e"
-  overlay_image: /images/pexels-carlo-obrien-402486657-15151255.jpg
+  overlay_image: /images/Goal.png
   actions:
     - label: "Quick Start Guide"
       url: /myteamlive/getting-started
