@@ -6,6 +6,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+copyright: SimpleCodez LLC
 title: MyTeamLive
 subtitle: "Live Stream Your Games"
 description: "Live stream your games with a built-in scoreboard, overlays, and easy-to-use controls"
