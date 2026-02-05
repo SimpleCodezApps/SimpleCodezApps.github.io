@@ -13,6 +13,9 @@ description: "Live stream your games with a built-in scoreboard, overlays, and e
 url: "https://simplecodezapps.github.io"
 logo: /images/MyTeamLive.png
 
+atom_feed:
+  hide: true
+
 author:
   name: "SimpleCodez LLC"
   avatar: /images/SidewalkPerson.png
