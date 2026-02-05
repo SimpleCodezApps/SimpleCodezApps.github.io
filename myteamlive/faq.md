@@ -6,8 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-# FAQ
-
 ## Should I film in portrait orientation?
 
 Streams are designed for landscape orientation; portrait will be letterboxed on most platforms.
