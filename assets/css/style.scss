@@ -1,44 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-body {
-  background-image: url('/images/pexels-carlo-obrien-402486657-15151255.jpg');
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  margin: 0;
-}
-html {
-  height: 100%;
-}
-#content #home h1, #content #home h2 {
-  color: white;
-  margin-top: 2rem;
-  text-align: left;
-  margin-left: 2rem;
-}
-#content #home a:link, #content #home a:visited {
-  color: white;
-  margin-top: 2rem;
-  text-align: left;
-  margin-left: 2rem;
-}
-#content .text {
-  color: black;
-  background: white;
-  padding: 2rem;
-  border: solid 1px;
-  border-radius: 12px;
-}
-#content .text p {
-  margin-block: auto;
-}
-#content .text p + p {
-  margin-top: 1rem;
-}
-#content  a:hover {
-    text-decoration: none;
-}
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";

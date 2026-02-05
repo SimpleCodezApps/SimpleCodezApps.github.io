@@ -1,9 +1,42 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "dark"
+
 plugins:
-- jekyll-remote-theme
-- jekyll-seo-tag
-title: SimpleCodez
-description: Simple Code / Smart Apps
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+title: MyTeamLive
+subtitle: "Live Stream Your Games"
+description: "Live stream your games with a built-in scoreboard, overlays, and easy-to-use controls"
+url: "https://simplecodezapps.github.io"
+logo: /images/MyTeamLive.png
+
+author:
+  name: "SimpleCodez LLC"
+  avatar: /images/SidewalkPerson.png
+
+footer:
+  links:
+    - label: "SimpleCodez LLC"
+      icon: "fas fa-fw fa-building"
+      url: "/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "myteamlive"
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+
 exclude:
   - .DS_Store
   - .gitignore
@@ -15,4 +48,5 @@ exclude:
   - AGENTS.md
   - CLAUDE.md
   - vendor
+
 markdown: kramdown

@@ -1,0 +1,70 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Quick Start"
+    url: /myteamlive/getting-started
+  - title: "About"
+    url: /myteamlive/about
+  - title: "FAQ"
+    url: /myteamlive/faq
+
+docs:
+  - title: "Getting Started"
+    children:
+      - title: "Quick Start Guide"
+        url: /myteamlive/getting-started
+      - title: "About"
+        url: /myteamlive/about
+      - title: "Privacy Policy"
+        url: /myteamlive/privacy
+      - title: "FAQ"
+        url: /myteamlive/faq
+
+  - title: "Tabs & Navigation"
+    children:
+      - title: "Go Live Tab"
+        url: /myteamlive/go-live
+      - title: "Camera View"
+        url: /myteamlive/camera-view
+      - title: "Messages Tab"
+        url: /myteamlive/messages-tab
+      - title: "Teams Tab"
+        url: /myteamlive/teams-tab
+      - title: "Live Streams Tab"
+        url: /myteamlive/live-streams
+      - title: "More Tab / Account"
+        url: /myteamlive/more-account
+      - title: "More Tab / Remote Control"
+        url: /myteamlive/remote-control
+      - title: "More Tab / Saved Recordings"
+        url: /myteamlive/more-recordings
+
+  - title: "Panels & Controls"
+    children:
+      - title: "Control Bar"
+        url: /myteamlive/control-bar
+      - title: "Zoom and Focus"
+        url: /myteamlive/zoom
+      - title: "Clock Panel"
+        url: /myteamlive/clock-panel
+      - title: "Scoreboard Panel"
+        url: /myteamlive/scoreboard-panel
+      - title: "Events Panel"
+        url: /myteamlive/events-panel
+      - title: "Messages Panel"
+        url: /myteamlive/messages-panel
+      - title: "Stream Info Panel"
+        url: /myteamlive/stream-info-panel
+
+  - title: "Platform Guides"
+    children:
+      - title: "YouTube Account Guide"
+        url: /myteamlive/youtube-account
+      - title: "YouTube Endpoint Guide"
+        url: /myteamlive/youtube-endpoint
+      - title: "Twitch Account Guide"
+        url: /myteamlive/twitch-account
+      - title: "Twitch Endpoint Guide"
+        url: /myteamlive/twitch-endpoint
+      - title: "Facebook Endpoint Guide"
+        url: /myteamlive/facebook-endpoint
