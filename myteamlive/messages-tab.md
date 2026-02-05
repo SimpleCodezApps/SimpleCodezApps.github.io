@@ -51,7 +51,7 @@ Watermarks have no duration—they remain visible until you manually dismiss the
 4. Tap **Share > Save Image**.
 5. Return to MyTeamLive and create a new Celly Sticker with the saved cutout.
 
-## FAQ
+## Tips
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
 - Watermarks work best with transparent PNG images so your video shows through around the logo.

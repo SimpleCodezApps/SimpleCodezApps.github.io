@@ -47,7 +47,7 @@ _Do this once, update if the stream key is changed._
 ## End the Broadcast
 Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
 
-## FAQ
+## Tips
 - If you suspect that there might be network issues, schedule a second broadcast ahead of time. This broadcast will be used if the first broadcast is interrupted and you cannot reconnect in time to continue the first broadcast.
 - Auto-start must be on if you want YouTube to go live without manual action.
 - Streams typically run about ten or twenty seconds behind actual time.

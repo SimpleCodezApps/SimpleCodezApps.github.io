@@ -19,6 +19,6 @@ Trigger sport-specific overlays that automatically include a team name and logo.
 - **Soccer:** Foul, Direct or Indirect Kick, Offsides, Penalty, Goal, Throw-in, Corner Kick, Yellow, Red, or Double Yellow Card.
 - Other sports may not have presets.
 
-## FAQ
+## Tips
 - Messages inherit the selected team’s colors and logo.
 - Use the [Messages Panel](messages-panel) for custom overlays and Celly Stickers.

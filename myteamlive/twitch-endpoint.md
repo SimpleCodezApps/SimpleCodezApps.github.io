@@ -39,7 +39,7 @@ _Do this once, update if the stream key is changed._
 ## End the Broadcast
 Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
 
-## FAQ
+## Tips
 
 - Set the VOD option if you want replays to remain for seven days.
 - Twitch channels do not provide independent broadcast titles beyond the channel

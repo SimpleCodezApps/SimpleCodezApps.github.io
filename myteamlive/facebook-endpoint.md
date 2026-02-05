@@ -46,7 +46,7 @@ _Do this once, update if the stream key is changed._
 ## End the Broadcast
 Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
 
-## FAQ
+## Tips
 
 - Expect a short delay between the app and the viewer feed.
 - Facebook Live videos remain available for 30 days.

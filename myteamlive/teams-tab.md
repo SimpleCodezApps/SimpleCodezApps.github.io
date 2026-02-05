@@ -23,7 +23,7 @@ Add teams so scoreboards and team-based messages know which colors and logos to 
 7. Confirm the live preview at the top of the color section matches your design.
 8. Tap **Save**.
 
-## FAQ
+## Tips
 - Team colors populate scoreboards and team-format messages automatically.
 - You can edit any team later by selecting it from the list.
 - Teams are sport specific.
