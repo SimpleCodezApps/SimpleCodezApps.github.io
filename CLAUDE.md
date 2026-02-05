@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Jekyll static site for SimpleCodez apps, deployed via GitHub Pages at `SimpleCodezApps.github.io`. Contains documentation for the MyTeamLive iOS app (a live streaming app for sports games with scoreboard overlays).
 
+## Git
+
+Always begin commit messages with "Claude: "
+
 ## Build Commands
 
 ```bash
