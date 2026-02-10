@@ -40,7 +40,7 @@ quickly.
 6. Select the home team.
 7. Select the away team.
 8. Tap **Next**.
-9. In the _Hockey Scorebug_ section, select the _Ribbon_.
+9. In the _Hockey Scorebug_ section, select _Ribbon_.
 10. Toggle _Show Clock_ on.
 11. Toggle _Show Shots on Goal_ on.
 12. Leave _Advantage Mode_ set to _Manual_.
@@ -55,7 +55,7 @@ quickly.
 <p style="text-align:center;">
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
-1. The Camera View will be live and the status indicator in the top left corner shows **Off–Air**.
+1. The Camera View status indicator in the top left corner shows **Off–Air**.
 2. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
 3. On the right side are the [Zoom](zoom) controls.
 4. Along the bottom of the screen are the buttons for four control panels.
