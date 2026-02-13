@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Quick Start"
+  - title: "Docs"
     url: /myteamlive/getting-started
   - title: "About"
     url: /myteamlive/about
@@ -13,8 +13,6 @@ docs:
     children:
       - title: "Quick Start Guide"
         url: /myteamlive/getting-started
-      - title: "About"
-        url: /myteamlive/about
       - title: "Privacy Policy"
         url: /myteamlive/privacy
       - title: "FAQ"
