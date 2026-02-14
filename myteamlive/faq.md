@@ -14,6 +14,10 @@ Streams are designed for landscape orientation; portrait will be letterboxed on 
 
 The built-in microphone is used by default. Wired or Bluetooth headsets with a mic improve the quality of the audio and reduce the ambient noise.
 
+## Why am I missing the first/last seconds of the stream?
+
+This happens often on YouTube and other streaming platforms. The fix is to stream the start or end intermission screen for 5 to 15 seconds before starting or after ending the game.
+
 ## I cannot connect to the server, what should I check first?
 
 Connections fail if the stream key is wrong. Double-check it in Live Streams.
