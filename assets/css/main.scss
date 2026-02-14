@@ -10,12 +10,12 @@
   border-radius: 4px;
 }
 
-.page__hero .page__title::before {
+.page__hero--overlay .page__title::before {
   content: "";
   display: inline-block;
   width: 1em;
   height: 1em;
   background: url('/images/MyTeamLive.png') no-repeat center / contain;
-  vertical-align: middle;
-  margin-right: 0.35em;
+  vertical-align: top;
+  border-radius: 4px;
 }
