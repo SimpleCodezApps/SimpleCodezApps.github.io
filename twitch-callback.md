@@ -1,3 +1,8 @@
+---
+layout: single
+title: "MyTeamLive"
+permalink: /twitch-callback
+---
 <script>
   // Get the current URL's path, search (query parameters), and hash (fragment)
   const currentPath = window.location.pathname;
