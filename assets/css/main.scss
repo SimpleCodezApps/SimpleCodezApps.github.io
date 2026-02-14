@@ -9,3 +9,13 @@
 .site-logo img {
   border-radius: 4px;
 }
+
+.page__hero .page__title::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: url('/images/MyTeamLive.png') no-repeat center / contain;
+  vertical-align: middle;
+  margin-right: 0.35em;
+}
