@@ -11,6 +11,11 @@ Use the Saved Recordings section in the More tab to review, share, or remove the
 
 ## Locate Recordings
 - Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livestream multiple times).
+- A green checkmark indicates the recording has been saved to photos successfully.
+
+## Play a Recording
+- Tap a recording to start playback.
+
 
 ## Share a Recording
 1. Tap the share icon on the right edge of the row.
