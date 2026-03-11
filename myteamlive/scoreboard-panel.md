@@ -16,20 +16,14 @@ Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 
 ## Hockey Controls
 - **Period** selects 1st, 2nd, 3rd, or OT.
-
-### Ribbon Scorebug
 - **Shots on Goal** steppers track shots.
 
 If the clock is disabled:
 - **Power Play** shows which team has the advantage.
 - **Player Advantage** show on-ice strength.
 
-### Square Scorebug
-- **Power Play** shows which team has the advantage.
-- **Player Advantage** show on-ice strength.
-
 ## Soccer Controls
 - **Period** selects First Half, Second Half, Extra Time, or PKs (when available).
-- **Yellow/Red Cards** track cards for each team.
+- **Red Cards** track cards for each team.
 
 Use the interactive help demo in the app to experiment without affecting a live game.

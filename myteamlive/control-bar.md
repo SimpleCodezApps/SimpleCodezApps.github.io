@@ -25,6 +25,7 @@ streaming. It combines real-time indicators with broadcast controls.
 
 ## Controls (Right Side)
 
+- Hide on-screen controls.
 - [Camera Status](stream-info-panel).
 - Microphone mute toggle.
 - Live/Pause/Restart toggle.
@@ -33,3 +34,5 @@ streaming. It combines real-time indicators with broadcast controls.
 
 Use the interactive preview inside the app's Help section to see how each
 control changes the indicators.
+
+Hide the on screen controls to see the outgoing feed. Tap the show screen controls icon to switch back.

@@ -24,20 +24,22 @@ The Game Clock can only be changed when the clock is stopped. Use the preset but
 
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, tap **Update Clock and Penalties** to keep the penalties in sync with the Game Clock.
 
-## Advantage Mode
+## Hockey Controls
+
+### Advantage Mode
 
 Controls how the player advantage (5v5, 5v4, etc.) is determined:
 
 - **Manual**: You select the player advantage directly using the Player Advantage picker.
 - **Automatic**: The player advantage is calculated automatically based on active penalties, empty net status, and the skaters setting.
 
-## Player Advantage Controls
+### Player Advantage Controls
 
 - **Player Advantage** select the on-ice strength (only editable in Manual mode).
 - **Empty Net** indicates which team (if any) has pulled their goalie. An empty net adds an extra skater for that team.
 - **Skaters** sets the base number of skaters (5v5, 4v4, or 3v3). Use 3v3 for overtime periods that use 3-on-3 rules.
 
-## Penalties
+### Penalties
 
 Shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
 
@@ -48,3 +50,7 @@ Penalty clocks run with the game clock. A penalty clock that goes to 0 expires a
 Use the double minor toggle to indicate a double minor. When the double minor expires or is cleared, it starts a second time to cover both minors.
 
 In Automatic mode, penalties affect the calculated player advantage. For example, one home penalty changes 5v5 to 5v4 (away power play).
+
+## Soccer Controls
+
+Additional time will show to the right of the clock time in the scorebug.
