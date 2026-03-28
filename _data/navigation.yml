@@ -22,6 +22,8 @@ docs:
     children:
       - title: "Go Live Tab"
         url: /myteamlive/go-live
+      - title: "Network & Connection"
+        url: /myteamlive/network-connection
       - title: "Camera View"
         url: /myteamlive/camera-view
       - title: "Messages Tab"
@@ -41,6 +43,8 @@ docs:
     children:
       - title: "Control Bar"
         url: /myteamlive/control-bar
+      - title: "Quick Control Bar"
+        url: /myteamlive/quick-control-bar
       - title: "Zoom and Focus"
         url: /myteamlive/zoom
       - title: "Clock Panel"
