@@ -20,7 +20,7 @@ streaming. It combines real-time indicators with broadcast controls.
 - Device orientation icon (portrait or landscape).
 - Headphone connection indicator.
 - Recording status indicator.
-- Network status (ready, connecting, good, unstable, etc.).
+- Network status icon: shows a WiFi icon when streaming over WiFi, or a cellular bars icon when Force Cellular Stream is active. A slash through the icon means not connected or not streaming.
 - Current upload speed in KBps.
 
 ## Controls (Right Side)

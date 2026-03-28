@@ -17,6 +17,7 @@ Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 ## Hockey Controls
 - **Period** selects 1st, 2nd, 3rd, or OT.
 - **Shots on Goal** steppers track shots.
+- **Quick Control Bar** toggles the floating clock and penalty shortcut bar on or off. See [Quick Control Bar](quick-control-bar).
 
 If the clock is disabled:
 - **Power Play** shows which team has the advantage.

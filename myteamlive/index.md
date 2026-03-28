@@ -37,6 +37,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 ## Tabs & Navigation
 
 - [Go Live Tab](go-live)
+- [Network & Connection](network-connection)
 - [Camera View](camera-view)
 - [Messages Tab](messages-tab)
 - [Teams Tab](teams-tab)
@@ -48,6 +49,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 ## Panels & Controls
 
 - [Control Bar](control-bar)
+- [Quick Control Bar](quick-control-bar)
 - [Zoom and Focus](zoom)
 - [Clock Panel](clock-panel)
 - [Scoreboard Panel](scoreboard-panel)

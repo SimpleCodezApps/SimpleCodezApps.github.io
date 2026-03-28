@@ -18,7 +18,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 1. Choose a saved endpoint.
 2. Select the sport.
 3. Pick Home and Away teams.
-4. Choose scorebug type (hockey only).
+4. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
 5. Choose whether to save a local copy of the stream.
 6. Review FPS and Quality; adjust if needed.
 7. Tap **Go Live** to open the Camera View.
@@ -30,7 +30,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 2. For YouTube, fill in title, description, and privacy.
 3. Select the sport.
 4. Pick Home and Away teams.
-5. Choose scorebug type (hockey only).
+5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
 6. Choose whether to save a local copy of the stream.
 7. Review FPS and Quality.
 8. Tap **Go Live** to open the Camera View.
@@ -41,7 +41,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 1. Choose **Record Locally Only**.
 2. Select the sport.
 3. Pick Home and Away teams.
-4. Choose scorebug type (hockey only).
+4. On the confirmation step, review Hockey ScoreBug settings (hockey only).
 5. Confirm FPS and Quality.
 6. Tap **Start Recording** to open the Camera View.
 7. Tap Play/Pause on the control bar to enter Standby and start recording with the intermission screen.
