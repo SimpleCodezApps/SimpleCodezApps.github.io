@@ -6,7 +6,10 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-Remote Cameras let a second phone stream from a different camera angle. The primary device runs the broadcast and scoreboard; secondary devices send their camera feed over the local network.
+Remote Cameras let a secondary device stream from a different camera angle. The primary device runs the broadcast and scoreboard; secondary sources send their camera feed to the broadcaster. Secondary sources can be:
+
+- **Another MyTeamLive device** — uses the Remote Camera screen in the More tab to connect over WiFi or Local network.
+- **Any RTMP-capable device** — such as a GoPro camera or other hardware encoder. Connect using the RTMP URL shown under Camera Connections on the broadcaster.
 
 ---
 
@@ -32,7 +35,7 @@ When remote cameras are configured, a column of camera thumbnails appears next t
 
 ---
 
-## Remote Camera Setup (Secondary Device)
+## Remote Camera Setup (MyTeamLive Secondary Device)
 
 1. Open the **More** tab and choose **Remote Camera**.
 2. Set **FPS** and **Quality** to match what you want to send. These can be lower than the primary device since the feed is mixed server-side.
@@ -42,6 +45,17 @@ When remote cameras are configured, a column of camera thumbnails appears next t
 6. Select the camera slot assigned to this device.
 7. Tap **Send video as camera [name]** to open the camera view.
 8. Tap the play icon in the control bar to begin streaming to the broadcaster.
+
+---
+
+## Remote Camera Setup (RTMP Device)
+
+Any device that can stream RTMP — such as a GoPro camera — can be used as a remote camera without needing the MyTeamLive app.
+
+1. On the broadcaster, enable **Remote Cameras** and add a camera slot for the device.
+2. Copy the **RTMP URL** shown under Camera Connections for that slot.
+3. Enter that RTMP URL into the RTMP output settings on your device (e.g., GoPro Quik live streaming settings).
+4. Start streaming on the device. The slot will show as connected on the broadcaster.
 
 
 ---
@@ -61,4 +75,5 @@ The secondary device shows a full-screen live view with its own control bar and 
 
 - Keep both devices on the same WiFi network for best results. Use Local mode only when WiFi is unavailable or unreliable.
 - Add camera slots on the broadcaster before secondary devices try to connect.
-- The RTMP URL shown under Camera Connections can be copied or shared directly to the secondary device.
+- The RTMP URL shown under Camera Connections can be copied or shared directly to the secondary device — both MyTeamLive devices and RTMP hardware encoders use this URL.
+- RTMP devices like GoPro cameras connect over WiFi directly using the RTMP URL; they do not need the Local network mode.
