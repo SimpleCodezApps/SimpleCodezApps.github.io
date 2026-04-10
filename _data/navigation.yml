@@ -36,6 +36,8 @@ docs:
         url: /myteamlive/more-account
       - title: "More Tab / Remote Control"
         url: /myteamlive/remote-control
+      - title: "More Tab / Remote Camera"
+        url: /myteamlive/remote-camera
       - title: "More Tab / Saved Recordings"
         url: /myteamlive/more-recordings
 
