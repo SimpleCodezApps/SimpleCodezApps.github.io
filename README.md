@@ -23,7 +23,7 @@ excerpt: "Live stream your games with a built-in scoreboard, overlays, and easy-
 - **Local Recording** --- Record to upload or share later
 - **Multi-Platform** --- YouTube, Twitch, Facebook, and more
 - **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
-- **Remote Control** --- Run the scoreboard from a second device
+- **Remote Control** --- Run the scoreboard from another MyTeamLive device
 
 ## Get Started
 
