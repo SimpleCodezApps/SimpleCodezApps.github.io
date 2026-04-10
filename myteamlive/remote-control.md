@@ -9,13 +9,13 @@ section_url: /myteamlive/index
 Remote Control lets a second phone manage the scoreboard, events, and messages while the Camera phone streams the broadcast.
 
 ## Prepare the Camera
-1. In Go Live, advance to the confirmation step.
+1. In Go Live, advance to the **Setup** step (step 2 of 5).
 2. Optionally, give the Camera a recognizable device name (for example, "Jane's Phone").
 3. Check the **Network connection** indicator. When on WiFi the connection uses a faster network link; when not on WiFi it falls back to a local Bluetooth/peer connection automatically.
 4. If both devices are on the same WiFi but you want a purely local connection, enable **Force local-only connection**.
 5. Toggle **Remote Control** on.
 6. Share the four-digit PIN with the Remote Control.
-7. You do not need to wait for the Remote Control to connect; the Camera will accept connections at any time while the confirmation screen is open.
+7. You do not need to wait for the Remote Control to connect; the Camera will accept connections after the Setup step.
 
 ## Connect the Remote Control
 1. Open the More tab and choose Remote Control.

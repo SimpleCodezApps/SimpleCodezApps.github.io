@@ -19,6 +19,7 @@ MyTeamLive lets you live stream your games with a built-in scoreboard, overlays,
   - Local recording option to upload or share later
   - Multi-platform support: YouTube, Twitch, Facebook, and others
   - Remote control from a second device to run the scoreboard and events
+  - Remote cameras from additional devices to broadcast from different angles
 
 [Quick Start Guide](getting-started)
 
@@ -44,6 +45,7 @@ MyTeamLive for Apple iOS is currently in beta and is free to use during the beta
 - [Live Streams Tab](live-streams)
 - [More Tab / Account](more-account)
 - [More Tab / Remote Control](remote-control)
+- [More Tab / Remote Camera](remote-camera)
 - [More Tab / Saved Recordings](more-recordings)
 
 ## Panels & Controls

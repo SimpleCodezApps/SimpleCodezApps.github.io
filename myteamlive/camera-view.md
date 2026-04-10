@@ -34,6 +34,9 @@ Open panels along the bottom edge to manage:
 - Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Sport-specific event prompts ([Events Panel](events-panel))
 
+## Camera Sources
+When [Remote Cameras](remote-camera) are configured, a column of camera thumbnails appears next to the Quick Control Bar. Tap a thumbnail to switch the broadcast to that camera. The active source fills the main preview; the column shows all other available slots. A disconnected slot is shown with a slash icon and can't be selected until the device connects.
+
 ## Remote Control
 When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim control and use the panels on the camera device.
 

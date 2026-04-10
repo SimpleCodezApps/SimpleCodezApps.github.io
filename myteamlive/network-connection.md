@@ -14,6 +14,8 @@ MyTeamLive has two independent network choices: one for how the stream is sent t
 
 Choose your streaming connection in the **Network** section at the top of Go Live step 1.
 
+Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
+
 ### Local Recording Only
 
 No network connection is used. The game is saved directly to your device and can be uploaded or shared later.
@@ -42,7 +44,7 @@ Streams over your carrier's mobile data network. This is selected automatically 
 
 ## Remote Control: How the Two Devices Connect
 
-Choose the remote control network in the **Remote Control** section on the Go Live confirmation step. The app selects the best option automatically, but you can override it.
+Choose the remote control network in the **Remote Control** section on the Go Live Setup step (step 2). The app selects the best option automatically, but you can override it.
 
 ### WiFi (default when on WiFi)
 
@@ -63,3 +65,27 @@ Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer 
 **Use when:** there is no WiFi at the venue, the venue WiFi blocks device-to-device traffic, or the Remote Control operator stays close to the Camera.
 
 **Watch out for:** the 30–50 foot limit. If the Remote Control operator needs to be in the stands or press box, use WiFi instead. Bluetooth range is affected by physical obstacles and radio interference.
+
+---
+
+## Remote Cameras: How Secondary Cameras Connect
+
+Choose the remote camera network in the **Remote Cameras** section on the Go Live Setup step (step 2). The same WiFi vs. Local options apply as for Remote Control.
+
+See [Remote Camera](remote-camera) for full setup instructions.
+
+### WiFi (default when on WiFi)
+
+Secondary devices discover the broadcaster over the local WiFi network and stream their camera feed directly. No internet connection is required — only that all devices are on the same WiFi network.
+
+**Use when:** all devices are on the same WiFi and you want the best possible video quality from the secondary camera.
+
+**Watch out for:** client isolation on venue WiFi. If the secondary device can't find the broadcaster, switch to Local mode.
+
+### Local-Only (Bluetooth/Peer)
+
+Uses Apple's MultipeerConnectivity over Bluetooth and peer-to-peer WiFi. No WiFi network is needed.
+
+**Range:** roughly 30–50 feet in open air.
+
+**Use when:** there is no WiFi, the venue WiFi blocks device traffic, or the secondary device operator stays close to the broadcaster.
