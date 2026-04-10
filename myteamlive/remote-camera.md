@@ -76,4 +76,4 @@ The secondary device shows a full-screen live view with its own control bar and 
 - Keep both devices on the same WiFi network for best results. Use Local mode only when WiFi is unavailable or unreliable.
 - Add camera slots on the broadcaster before secondary devices try to connect.
 - The RTMP URL shown under Camera Connections can be copied or shared directly to the secondary device — both MyTeamLive devices and RTMP hardware encoders use this URL.
-- RTMP devices like GoPro cameras connect over WiFi directly using the RTMP URL; they do not need the Local network mode.
+- RTMP devices like GoPro cameras connect over WiFi directly using the RTMP URL; they cannot use the Local network mode.
