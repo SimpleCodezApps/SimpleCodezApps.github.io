@@ -12,7 +12,7 @@ Create reusable overlays so you can trigger announcements without retyping.
 ## Celly Stickers
 - Celly Stickers are transparent PNG or JPG images you create from photos.
 - Highlight players, mascots, or any cut-out subject.
-- On iOS 16 or later, long-press a subject in Photos to lift it and choose **Share > Save Image**.
+- On iOS 16 or later, long-press a subject in Photos to lift it and choose **Share > Save Image**. [Make a Celly Sticker in Photos](#make-a-celly-sticker-in-photos)
 - Turn on the default Celly Stickers in the Messages tab for ready-made graphics.
 
 ## Add a Custom Message Overlay
