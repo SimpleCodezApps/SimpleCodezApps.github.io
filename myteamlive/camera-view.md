@@ -11,12 +11,12 @@ section_url: /myteamlive/index
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-The Broadcaster Camera View combines the preview, control bar, zoom tools, and control panels while you are on air.
+The Broadcaster Camera View combines the live stream preview with the on screen controls and remote cameras.
 
 ## Preview
-The live preview shows exactly what the audience sees.
+The live stream preview shows exactly what the audience sees, including the ScoreBug, celly stickers, messages, and the logo overlay.
 
-> All on-screen controls stay on the device; only your overlays and video are being sent to the live stream.
+> All on-screen controls are only visible on your screen.
 
 ## Audio
 Audio uses a wired or Bluetooth headset when connected; otherwise it uses the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall come from a wired setup.
