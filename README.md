@@ -9,7 +9,7 @@ header:
       url: /myteamlive/getting-started
     - label: "Join Beta"
       url: "https://forms.gle/wdPUWXzVGfPxoLwC8"
-excerpt: "Live stream your games with a built-in scoreboard, overlays, and easy-to-use controls."
+excerpt: "Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use controls."
 ---
 
 ![Camera view preview](/images/CameraViewRaw.png){: .align-center style="max-width:100%;border-radius:12px;margin-bottom:2rem;"}
