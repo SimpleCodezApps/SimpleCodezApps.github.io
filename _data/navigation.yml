@@ -22,9 +22,9 @@ docs:
     children:
       - title: "Go Live Tab"
         url: /myteamlive/go-live
-      - title: "Network & Connection"
+      - title: "Streaming & Remote Devices"
         url: /myteamlive/network-connection
-      - title: "Camera View"
+      - title: "Broadcaster Camera View"
         url: /myteamlive/camera-view
       - title: "Messages Tab"
         url: /myteamlive/messages-tab

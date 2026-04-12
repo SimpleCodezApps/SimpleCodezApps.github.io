@@ -40,7 +40,11 @@ Many services let you stop and restart a stream at the same quality and FPS with
 
 ## The Remote Control disconnected mid stream?
 
-You can reconnect the Remote Control any time while the Camera View is open. Additionally, the Remote Control will try to connect via Bluetooth if both devices are within close proximity and have Bluetooth on.
+You can reconnect the Remote Control any time while the Broadcaster Camera View is open.
+
+## The Remote Camera disconnected mid stream?
+
+You can reconnect the Remote Camera any time while the Broadcaster Camera View is open.
 
 ## How do I get team logos?
 

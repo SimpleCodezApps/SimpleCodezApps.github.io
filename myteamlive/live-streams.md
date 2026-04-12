@@ -18,9 +18,9 @@ Use the Live Streams tab to connect MyTeamLive with YouTube, Twitch, Facebook, o
 
 ## Accounts
 1. Open Live Streams and tap **Add Account**.
-2. Choose YouTube or Twitch and complete sign-in and permissions.
-3. Use the list to refresh tokens or swipe to remove an account.
-4. Return to [Go Live](go-live) to select an account, set broadcast details, and confirm privacy/audience settings.
+2. Choose YouTube or Twitch and sign in. You will be asked to grant MyTeamLive permissions to allow live streaming.
+3. Tap **Save**.
+4. Use the list to refresh tokens or swipe to remove an account.
 
 Guides: [YouTube Account](youtube-account) · [Twitch Account](twitch-account)
 
@@ -29,7 +29,7 @@ Guides: [YouTube Account](youtube-account) · [Twitch Account](twitch-account)
 2. Enter a name for the destination.
 3. Pick a service to auto-fill the ingest URL or choose Custom.
 4. Enter the URL (if needed) and stream key from your service.
-5. Tap **Save**. Endpoints appear in Go Live when you start a broadcast.
+5. Tap **Save**.
 6. Tap an endpoint to edit it or swipe left to delete.
 
 Guides: [YouTube Endpoint](youtube-endpoint) · [Twitch Endpoint](twitch-endpoint) · [Facebook Endpoint](facebook-endpoint)

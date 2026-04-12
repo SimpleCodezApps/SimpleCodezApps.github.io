@@ -1,28 +1,20 @@
 ---
 layout: myteamlive
-title: "Network & Connection"
+title: "Streaming & Remote Devices"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-MyTeamLive has two independent network choices: one for how the stream is sent to viewers, and one for how the Camera and Remote Control devices talk to each other. Both are configured in the Go Live flow.
+MyTeamLive has three independent network choices: one for how Broadcaster sends the live stream to viewers, one for how the Broadcaster and Remote Control talk to each other, and one for how the Broadcaster and any Remote Cameras talk to each other. All are configured during the Go Live flow.
 
 ---
 
 ## Streaming: How Your Video Reaches Viewers
 
-Choose your streaming connection in the **Network** section at the top of Go Live step 1.
+Choose your streaming connection in the **Network** section at the top of the Select Live Stream step (step 1).
 
-Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
-
-### Local Recording Only
-
-No network connection is used. The game is saved directly to your device and can be uploaded or shared later.
-
-**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local copy without a simultaneous live stream.
-
-See [Saved Recordings](more-recordings).
+> Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
 
 ### WiFi
 
@@ -40,11 +32,19 @@ Streams over your carrier's mobile data network. This is selected automatically 
 
 **Watch out for:** weak signal inside arenas with metal roofs or thick concrete. Consider lowering quality to 720p to reduce the required bitrate. Check your data plan before a long game.
 
+### Local Recording Only
+
+No network connection is used. The game is saved directly to your device and can be uploaded or shared later.
+
+**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local copy without a simultaneous live stream.
+
+See [Saved Recordings](more-recordings).
+
 ---
 
-## Remote Control: How the Two Devices Connect
+## Remote Control: How the Remote Control Connects
 
-Choose the remote control network in the **Remote Control** section on the Go Live Setup step (step 2). The app selects the best option automatically, but you can override it.
+Choose the remote control network in the **Remote Control** section on the Remote Devices step (step 4). The app selects the best option automatically, but you can override it.
 
 ### WiFi (default when on WiFi)
 
@@ -58,7 +58,7 @@ Both devices discover each other over the local WiFi network using a direct peer
 
 ### Local-Only (Bluetooth/Peer)
 
-Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer WiFi without needing a WiFi network at all. Selected automatically when the Camera phone is on cellular; can also be forced on WiFi with **Force local-only connection**.
+Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer WiFi without needing a WiFi network at all. Selected automatically when the Broadcaster is on cellular.
 
 **Range:** roughly 30–50 feet in open air. Walls, equipment, and crowd can reduce this.
 
@@ -70,7 +70,7 @@ Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer 
 
 ## Remote Cameras: How Secondary Cameras Connect
 
-Choose the remote camera network in the **Remote Cameras** section on the Go Live Setup step (step 2). The same WiFi vs. Local options apply as for Remote Control.
+Choose the remote camera network in the **Remote Cameras** section on the Remote Devices step (step 4). The same WiFi vs. Local options apply as for Remote Control.
 
 See [Remote Camera](remote-camera) for full setup instructions.
 
@@ -85,6 +85,8 @@ Secondary devices discover the broadcaster over the local WiFi network and strea
 ### Local-Only (Bluetooth/Peer)
 
 Uses Apple's MultipeerConnectivity over Bluetooth and peer-to-peer WiFi. No WiFi network is needed.
+
+**Important:** Only MyTeamLive Remote Camera devices can connect with this option.
 
 **Range:** roughly 30–50 feet in open air.
 

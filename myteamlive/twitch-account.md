@@ -24,13 +24,13 @@ Stream straight to your own Twitch channel via account linking.
 ## Go Live with an Account
 1. Open the [Go Live Tab](go-live).
 2. Select the connected Twitch account.
-3. Configure sport, teams, and video settings.
-4. Tap **Go Live** to open the Camera View.
+3. Configure sport, teams, remote devices, and video settings.
+4. Tap **Go Live** to open the Broadcaster Camera View.
 5. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends the intermission screen with muted audio.
 6. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
-Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
+Press **Stop** to end the live video stream; then press **Close** to close the Broadcaster Camera View.
 
 ## Tips
 - Twitch channels display one title for the entire channel; individual broadcasts do not get separate names.

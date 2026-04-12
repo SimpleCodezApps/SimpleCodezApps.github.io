@@ -11,7 +11,7 @@ Add teams so scoreboards and team-based messages know which colors and logos to 
 
 ## Add a Team
 1. Open the Teams tab and tap **Add Team**.
-2. Enter the team name.
+2. Enter the team name and optionally the abbreviation.
 3. Choose the sport.
 4. Pick a team logo from your photo library (add it to Photos first).
 5. Set text and background colors for overlays.

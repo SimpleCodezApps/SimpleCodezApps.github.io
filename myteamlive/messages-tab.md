@@ -54,4 +54,4 @@ Watermarks have no duration—they remain visible until you manually dismiss the
 ## Tips
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
-- Watermarks work best with transparent PNG images so your video shows through around the logo.
+- Watermarks work best with transparent PNG images so your video shows through around the watermark.

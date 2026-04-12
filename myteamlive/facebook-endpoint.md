@@ -36,8 +36,8 @@ _Do this once, update if the stream key is changed._
 
 1. Open the [Go Live Tab](go-live).
 2. Select the Facebook endpoint.
-3. Complete the broadcast setup.
-4. Tap **Go Live** to open the Camera View.
+3. Configure sport, teams, remote devices, and video settings.
+4. Tap **Go Live** to open the Broadcaster Camera View.
 5. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends
    the intermission screen with muted audio.
 6. Tap Play to unmute and broadcast the live camera feed.

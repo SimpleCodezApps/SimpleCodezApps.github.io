@@ -47,7 +47,7 @@ Use the preset buttons (**1:30m**, **2m**, **5m**, etc) to quickly set common pe
 
 Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
 
-Use the double minor toggle to indicate a double minor. When the double minor expires or is cleared, it starts a second time to cover both minors.
+Use the double minor toggle to indicate a double minor. When the first minor expires or is cleared, it starts the clock on the second minor.
 
 In Automatic mode, penalties affect the calculated player advantage. For example, one home penalty changes 5v5 to 5v4 (away power play).
 

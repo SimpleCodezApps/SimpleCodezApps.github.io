@@ -26,8 +26,8 @@ Broadcast directly to a signed-in YouTube channel.
 3. Enter a title and description.
 4. Choose a privacy level (Public, Unlisted, Private).
 5. Toggle **Made for Kids** as needed.
-6. Finish configuring sport, teams, and video settings.
-7. Tap **Go Live** to open the Camera View.
+6. Configure sport, teams, remote devices, and video settings.
+7. Tap **Go Live** to open the Broadcaster Camera View.
 8. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends
    the intermission screen with muted audio.
 9. Tap Play to unmute and broadcast the live camera feed.

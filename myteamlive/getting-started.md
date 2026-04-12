@@ -40,17 +40,17 @@ quickly.
 6. Select the home team.
 7. Select the away team.
 8. Tap **Next**.
-9. In the _Hockey Scorebug_ section, select _Ribbon_.
-10. Toggle _Show Clock_ on.
+9. Tap **Next** (skip using a Remote Control or Camera).
+10. In the _Hockey Scorebug_ section, toggle _Show Clock_ on.
 11. Toggle _Show Shots on Goal_ on.
-12. Leave _Advantage Mode_ set to _Manual_.
-13. Toggle _Show Scorebug Immediately_ on.
+12. Toggle _Show Scorebug Immediately_ on.
+13. Leave _Advantage Mode_ set to _Manual_.
 14. In the _Muted Overlay_ section, select _Large Centered_.
 15. In the _Video Settings_ section, select _60 fps_.
 16. Select _1080p_.
 17. Tap **Start Recording**.
 
-## Camera View
+## Broadcaster Camera View
 
 <p style="text-align:center;">
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
@@ -92,7 +92,7 @@ quickly.
 
 1. Tap the **Pause** icon.
 2. The intermission screen appears and the microphone is muted.
-3. Tap the **Play** icon to return to the Camera View.
+3. Tap the **Play** icon to return the live camera feed.
 
 ## Ending the Stream
 1. Tap the **Pause** icon.
@@ -100,7 +100,7 @@ quickly.
 3. Toggle *Game Over* on.
 4. Dismiss the scoreboard dialog.
 5. Wait a few seconds, then tap the **Stop** icon.
-6. Tap the Camera View close button (filled) to close the camera view and return to the **Go Live** tab.
+6. Tap the Camera View close button (filled) to close the Camera View and return to the **Go Live** tab.
 
 ## Review the Recording
 1. Tap the **...More** tab.
