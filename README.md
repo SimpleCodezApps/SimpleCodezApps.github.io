@@ -20,7 +20,7 @@ excerpt: "Live stream your games with a built-in scoreboard, remote control, mul
 - **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
 - **Remote Control** --- Run the scoreboard from another MyTeamLive device
 - **Custom Overlays** --- Goals, penalties, player shoutouts, and team messages
-- **Sponsor Logos** --- Watermark your broadcast with sponsor logos
+- **Logo Overlays** --- Show sponsor or team branding
 - **Celly Stickers** --- Celebrate big plays with fun stickers
 - **Multi-Platform** --- YouTube, Twitch, Facebook, and more
 - **Local Recording** --- Record to upload or share later
