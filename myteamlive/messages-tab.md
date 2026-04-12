@@ -32,11 +32,11 @@ Create reusable overlays so you can trigger announcements without retyping.
 4. Set the display duration and review the preview.
 5. Tap **Save**.
 
-## Add a Watermark
-Watermarks are persistent logos or images that stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+## Add a Logo Overlay
+Logo Overlays are persistent logos or images that stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
 
-1. In Messages, tap **Add Watermark**.
-2. Name the watermark and assign a sport.
+1. In Messages, tap **Add Logo Overlay**.
+2. Name the logo overlay and assign a sport.
 3. Choose a size: **Small** (10% of screen height), **Medium** (15%), or **Large** (20%).
 4. Tap **Add Frame** and pick an image from your photo library.
 5. Set the duration for the frame (3s, 5s, 10s, 15s, or 30s).
@@ -44,7 +44,7 @@ Watermarks are persistent logos or images that stay on screen until you remove t
 7. Review the preview to see placement in the bottom-right corner.
 8. Tap **Save**.
 
-Watermarks have no overall duration—they remain visible until you manually dismiss them during a broadcast. When a watermark has multiple frames, they cycle automatically at each frame's set interval. Drag frames to reorder; swipe to delete.
+Logo Overlays have no overall duration—they remain visible until you manually dismiss them during a broadcast. When a logo overlay has multiple frames, they cycle automatically at each frame's set interval. Drag frames to reorder; swipe to delete.
 
 ## Make a Celly Sticker in Photos
 1. Open Photos and choose an image with a clear subject.
@@ -56,5 +56,5 @@ Watermarks have no overall duration—they remain visible until you manually dis
 ## Tips
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
-- Watermarks work best with transparent PNG images so your video shows through around the watermark.
-- Multi-frame watermarks cycle through each image at its set interval—use them to rotate sponsor logos or alternate branding.
+- Logo overlays work best with transparent PNG images so your video shows through around the logo.
+- Multi-frame logo overlays cycle through each image at its set interval—use them to rotate sponsor logos or alternate branding.

@@ -16,7 +16,7 @@ MyTeamLive lets you live stream your games with a built-in scoreboard, remote co
   - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
   - Remote control from another MyTeamLive device to run the scoreboard and events
   - Custom overlays for goals, penalties, player shoutouts, and team messages
-  - Sponsor logo watermark for your broadcast
+  - Logo overlays for sponsor or team branding
   - Celly Stickers to celebrate big plays
   - Multi-platform support: YouTube, Twitch, Facebook, and more
   - Local recording to upload or share later
