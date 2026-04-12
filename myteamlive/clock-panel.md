@@ -6,15 +6,9 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-
-<p style="text-align:center;">
-  <img src="/images/Clock.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
-</p>
-
-Only available when using the Ribbon scorebug with Hockey.
-
 Manage the game clock, player advantage, and penalties on the scorebug.
 
+> Only available when using the Ribbon scorebug with Hockey.
 
 ## Clock
 - **Start Clock** starts the game clock.
