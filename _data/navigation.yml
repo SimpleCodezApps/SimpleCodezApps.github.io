@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Docs"
-    url: /myteamlive/getting-started
+    url: /myteamlive/index
   - title: "About"
     url: /myteamlive/about
   - title: "FAQ"
