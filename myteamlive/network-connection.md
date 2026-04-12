@@ -8,7 +8,9 @@ section_url: /myteamlive/index
 
 MyTeamLive has three independent network choices: one for how Broadcaster sends the live stream to viewers, one for how the Broadcaster and Remote Control talk to each other, and one for how the Broadcaster and any Remote Cameras talk to each other. All are configured during the Go Live flow.
 
----
+<p style="text-align:center;">
+  <img src="/images/RemoteDevices.png" alt="Remote Devices Step" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
 
 ## Streaming: How Your Video Reaches Viewers
 

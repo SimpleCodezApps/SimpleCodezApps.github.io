@@ -6,7 +6,9 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-MyTeamLive works with YouTube, Twitch, Facebook, and any RTMP/RTMPS service to let you stream games with overlays for scores, events, custom messages, and Celly Stickers.
+<p style="text-align:center;">
+  <img src="/images/CameraViewRaw.png" alt="Camera View" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
 
 This walkthrough will use the local recording option to get you up to speed quickly.
 

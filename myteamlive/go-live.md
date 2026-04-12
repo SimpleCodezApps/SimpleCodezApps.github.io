@@ -6,8 +6,11 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-
 Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Broadcaster Camera View.
+
+<p style="text-align:center;">
+  <img src="/images/SelectLiveStream.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
 
 ## Before You Start
 1. Add at least one Live Stream destination in the [Live Streams Tab](live-streams).
