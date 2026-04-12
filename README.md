@@ -17,13 +17,13 @@ excerpt: "Live stream your games with a built-in scoreboard, overlays, and easy-
 ## Features
 
 - **Live Scoreboard** --- Stream with a full scoreboard: period clock, shots on goal, and penalties
-- **Custom Overlays** --- Goals, penalties, player shoutouts, and team messages
-- **Celly Stickers** --- Celebrate big plays with fun stickers
-- **Standby Mode** --- Intermission screen between periods
-- **Local Recording** --- Record to upload or share later
-- **Multi-Platform** --- YouTube, Twitch, Facebook, and more
 - **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
 - **Remote Control** --- Run the scoreboard from another MyTeamLive device
+- **Custom Overlays** --- Goals, penalties, player shoutouts, and team messages
+- **Sponsor Logos** --- Watermark your broadcast with sponsor logos
+- **Celly Stickers** --- Celebrate big plays with fun stickers
+- **Multi-Platform** --- YouTube, Twitch, Facebook, and more
+- **Local Recording** --- Record to upload or share later
 
 ## Get Started
 
