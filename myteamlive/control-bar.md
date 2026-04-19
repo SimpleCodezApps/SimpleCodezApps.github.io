@@ -19,9 +19,8 @@ streaming. It combines real-time indicators with broadcast controls.
 - Broadcast status: Off-Air, Standby, or Live.
 - Device orientation icon (portrait or landscape).
 - Headphone connection indicator.
-- Recording status indicator.
-- Network status icon: shows a WiFi icon when streaming over WiFi, or a cellular bars icon when Force Cellular Stream is active. A slash through the icon means not connected or not streaming.
-- Current upload speed in KBps.
+- **Recording mode**: a film icon shows recording status (gray = not recording, green = recording, yellow = dropped frames, red = error). Only shown in Local Recording mode.
+- **Streaming mode**: a WiFi or cellular-bars icon shows network status; a slash through it means not connected. Followed by the current upload speed in KBps. Only shown when streaming. If a stream fails and you continue as a local recording, the stream icon is replaced by the film icon.
 
 ## Controls (Right Side)
 

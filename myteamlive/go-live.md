@@ -23,11 +23,10 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Pick Home and Away teams.
 4. Configure device name, Remote Control, and Remote Cameras.
 5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
-6. Choose whether to save a local copy of the stream.
-7. Review FPS and Quality; adjust if needed.
-8. Tap **Go Live** to open the Broadcaster Camera View.
-9. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
-10. Tap Play to unmute and broadcast the live camera feed to viewers.
+6. Review FPS and Quality; adjust if needed.
+7. Tap **Go Live** to open the Broadcaster Camera View.
+8. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
+9. Tap Play to unmute and broadcast the live camera feed to viewers.
 
 ## Starting with a Connected Account
 1. Choose a signed-in account (YouTube or Twitch).
@@ -36,11 +35,10 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Pick Home and Away teams.
 5. Configure device name, Remote Control, and Remote Cameras.
 6. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
-7. Choose whether to save a local copy of the stream.
-8. Review FPS and Quality.
-9. Tap **Go Live** to open the Broadcaster Camera View.
-10. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
-11. Tap Play to unmute and broadcast the live camera feed to viewers.
+7. Review FPS and Quality.
+8. Tap **Go Live** to open the Broadcaster Camera View.
+9. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
+10. Tap Play to unmute and broadcast the live camera feed to viewers.
 
 ## Starting with Local Recording Only
 1. Choose **Record Locally Only**.
@@ -61,10 +59,10 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 - Tap Pause to show the intermission screen and mute audio without ending the stream.
 
 ## Connection Retry
-If the connection to the server is lost, a dialog will give you three options:
+If the connection to the server is lost, a dialog gives you three options:
 
-1. Retry: Attempt to reconnect to the server and go back to Standby.
-2. Continue with local recording: Go back to Standby, but proceed with a local recording that can be uploaded later.
+1. Reconnect: Attempt to reconnect to the server and go back to Standby.
+2. Start Recording: Switch to local recording only and continue the session without a network connection.
 3. Close Camera View: Close the Broadcaster Camera View.
 
 ## Finish Up

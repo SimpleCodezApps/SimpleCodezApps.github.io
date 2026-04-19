@@ -29,10 +29,11 @@ Configure Remote Cameras in the **Remote Devices** step (step 4) of the Go Live 
 
 When Remote Cameras are configured, a column of camera thumbnails appears along the left side of the screen.
 
-- The active camera is shown in the the Camera View.
+- The active camera is shown in the Camera View.
 - Tap any Remote Camera thumbnail to switch the broadcast to that camera.
 - When a Remote Camera is active, the Broadcaster Camera is shown in the list of thumbnails.
 - A disconnected camera slot is shown with a slash icon; it can't be selected until the device connects.
+- Tap the expand icon next to a thumbnail to enlarge that slot to a full-column preview (3× size). Tap the collapse icon to return to the full list of thumbnails.
 
 ---
 
