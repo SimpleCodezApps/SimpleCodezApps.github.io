@@ -28,6 +28,3 @@ Use the Saved Recordings section in the More tab to review, share, or remove the
 ## Delete a Recording
 1. Swipe left on a recording and tap **Delete**.
 2. Confirm to remove the MP4 from the device. This cannot be undone.
-
-## Tips
-- Keep **Save Recording** enabled when you want a local archive; disable it to conserve storage.
