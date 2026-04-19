@@ -44,11 +44,22 @@ Many services let you stop and restart a stream at the same quality and FPS with
 
 ## The Remote Control disconnected mid stream?
 
-You can reconnect the Remote Control any time while the Broadcaster Camera View is open.
+Reconnect the Remote Control any time while the Broadcaster Camera View is open.
 
 ## The Remote Camera disconnected mid stream?
 
-You can reconnect the Remote Camera any time while the Broadcaster Camera View is open.
+Reconnect the Remote Camera any time while the Broadcaster Camera View is open.
+
+## Having trouble recording on your device?
+
+When you record locally, the app first converts the raw camera feed into a format that can be saved, then writes it to your device’s storage. This process can be demanding, especially on older phones.
+
+If you’re running into issues:
+
+* On older devices, try lowering your settings to 720p at 30 FPS.
+* On newer devices (iPhone 17 and above), you should be able to record smoothly at 1080p at 60 FPS.
+
+Adjusting these settings can help improve performance and ensure a smoother recording experience.
 
 ## How do I get team logos?
 

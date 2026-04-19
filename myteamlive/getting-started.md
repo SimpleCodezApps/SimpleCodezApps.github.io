@@ -59,7 +59,7 @@ This walkthrough will use the local recording option to get you up to speed quic
 4. Along the bottom of the screen are the buttons for four control panels.
 5. Make sure you are in landscape mode; the orientation indicator (next to the status) should be landscape and green.
 6. We recommend using either a wired or Bluetooth headset for commentary. When a headset is connected, the headphones indicator will be green.
-7. The recording indicator and network status are currently gray.
+7. The recording indicator is currently gray indicating no activity.
 8. Tap the info icon to view details of the current session.
 9. Dismiss the info dialog by tapping the unfilled dialog close button below the filled Camera View close button.
 10. Use the microphone icon to mute/unmute audio.

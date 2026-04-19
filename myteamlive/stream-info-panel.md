@@ -21,4 +21,5 @@ The Camera Status surfaces telemetry so you can monitor the broadcast without le
 - Endpoint: ingest URL and stream key in use.
 - Publish State: detailed encoder state beyond the simple broadcast label.
 - Stream State: detailed network status beyond the control bar indicator.
+- Recording State: status and dropped frame details.
 - Audio Device: currently active microphone.
