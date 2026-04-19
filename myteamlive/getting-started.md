@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 <p style="text-align:center;">
-  <img src="/images/CameraViewRaw.png" alt="Camera View" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/CameraView.png" alt="Camera View" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 This walkthrough will use the local recording option to get you up to speed quickly.

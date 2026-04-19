@@ -12,7 +12,7 @@ header:
 excerpt: "Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
 ---
 
-![Camera view preview](/images/CameraViewRaw.png){: .align-center style="max-width:100%;border-radius:12px;margin-bottom:2rem;"}
+![Camera view preview](/images/CameraView.png){: .align-center style="max-width:100%;border-radius:12px;margin-bottom:2rem;"}
 
 ## Features
 

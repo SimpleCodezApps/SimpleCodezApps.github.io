@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 <p style="text-align:center;">
-  <img src="/images/CameraViewRawClosed.png" alt="Camera view preview" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/CameraView.png" alt="Camera view preview" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 MyTeamLive lets you live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface:
