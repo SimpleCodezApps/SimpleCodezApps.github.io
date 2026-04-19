@@ -26,6 +26,9 @@ The mute button will show a large and centered muted icon on the stream by defau
 ## Control Bar
 Use the top control bar to start or pause publishing, mute audio, stop, and monitor stream state. Learn more in the [Control Bar guide](control-bar).
 
+## Quick Control Bar
+Use the Hockey [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.
+
 ## Zoom Tools
 Open the [Zoom](zoom) slider on the right edge to adjust magnification. Preset buttons let you jump between near, medium, and far framing.
 
