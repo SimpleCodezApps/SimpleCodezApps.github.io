@@ -109,7 +109,7 @@ This walkthrough will use the local recording option to get you up to speed quic
 6. Tap **OK** when the save is completed.
 7. The recording is now in Photos and can be shared or uploaded from there.
 
-# Streaming
+## Streaming
 
 We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts.
 

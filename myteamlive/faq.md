@@ -6,7 +6,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-## Should I turn on do not distrub?
+## Should I turn on do not disturb?
 
 Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions.
 
