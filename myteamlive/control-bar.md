@@ -34,4 +34,7 @@ streaming. It combines real-time indicators with broadcast controls.
 Use the interactive preview inside the app's Help section to see how each
 control changes the indicators.
 
-Hide the on screen controls to see the outgoing feed. Tap the show screen controls icon to switch back.
+Hide the on screen controls to see the outgoing feed. Tap the show screen controls icon to make the controls visible again.
+<p style="text-align:center;">
+  <img src="/images/CameraViewHidden.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
