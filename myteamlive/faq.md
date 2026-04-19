@@ -6,6 +6,10 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
+## Should I turn on do not distrub?
+
+Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions.
+
 ## Should I film in portrait orientation?
 
 Streams are designed for landscape orientation; portrait will be letterboxed on most platforms.
