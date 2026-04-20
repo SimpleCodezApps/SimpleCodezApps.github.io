@@ -63,7 +63,7 @@ If the connection to the server is lost, a dialog gives you three options:
 
 1. Reconnect: Attempt to reconnect to the server and go back to Standby.
 2. Start Recording: Switch to local recording only and continue the session without a network connection.
-3. Close Camera View: Close the Broadcaster Camera View.
+3. Close Camera View: Terminate the stream and close the Broadcaster Camera View
 
 ## Finish Up
 1. Tap Stop to end the broadcast.

@@ -38,7 +38,7 @@ Streams over your carrier's mobile data network. This is selected automatically 
 
 No network connection is used. The game is saved directly to your device and can be uploaded or shared later.
 
-**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local copy without a simultaneous live stream.
+**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local recording instead of a live stream.
 
 See [Saved Recordings](more-recordings).
 

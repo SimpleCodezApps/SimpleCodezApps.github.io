@@ -12,7 +12,7 @@ Yes, switching to another app will disconnect the camera as a privacy feature. T
 
 ## Should I film in portrait orientation?
 
-Streams are designed for landscape orientation; portrait will be letterboxed on most platforms.
+Yes, the app is designed to stream in landscape orientation; portrait will be letterboxed on most platforms.
 
 ## Do I need a microphone for audio?
 
@@ -50,7 +50,7 @@ Reconnect the Remote Control any time while the Broadcaster Camera View is open.
 
 Reconnect the Remote Camera any time while the Broadcaster Camera View is open.
 
-## Having trouble recording on your device?
+## Having trouble recording locally on your device?
 
 When you record locally, the app first converts the raw camera feed into a format that can be saved, then writes it to your device’s storage. This process can be demanding, especially on older phones.
 
