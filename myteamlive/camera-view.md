@@ -40,7 +40,14 @@ Open panels along the bottom edge to manage:
 - Sport-specific event prompts ([Events Panel](events-panel))
 
 ## Camera Sources
-When [Remote Cameras](remote-camera) are configured, a column of camera thumbnails appears next to the Quick Control Bar. Tap a thumbnail to switch the broadcast to that camera. The active source fills the main preview; the column shows all other available slots. A disconnected slot is shown with a slash icon and can't be selected until the device connects.
+
+When [Remote Cameras](remote-camera) are configured, a column of camera thumbnails appears next to the Quick Control Bar. Tap a thumbnail to switch the broadcast to that camera. The active source fills the main preview; the column shows all other available slots.
+
+<p style="text-align:center;">
+  <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+Tap the expand icon next to a thumbnail to enlarge that slot to a full-column preview (3× size). A disconnected slot is shown with a slash icon and can't be selected until the device connects.
 
 ## Remote Control
 When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim control.

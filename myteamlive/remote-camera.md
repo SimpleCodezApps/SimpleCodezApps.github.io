@@ -33,6 +33,11 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 - Tap any Remote Camera thumbnail to switch the broadcast to that camera.
 - When a Remote Camera is active, the Broadcaster Camera is shown in the list of thumbnails.
 - A disconnected camera slot is shown with a slash icon; it can't be selected until the device connects.
+
+<p style="text-align:center;">
+  <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 - Tap the expand icon next to a thumbnail to enlarge that slot to a full-column preview (3× size). Tap the collapse icon to return to the full list of thumbnails.
 
 ---
@@ -65,6 +70,10 @@ Any device that can stream RTMP — such as a GoPro camera — can be used as a 
 ## Remote Camera Live View
 
 The secondary device shows a full-screen live view with its own control bar and zoom controls.
+
+<p style="text-align:center;">
+  <img src="/images/RemoteCamera.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
 
 - Use the control bar to start, pause, and stop sending video.
 - Zoom and focus work the same as on the primary device.
