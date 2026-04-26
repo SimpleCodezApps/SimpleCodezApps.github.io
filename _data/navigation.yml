@@ -32,8 +32,8 @@ docs:
         url: /myteamlive/teams-tab
       - title: "Live Streams Tab"
         url: /myteamlive/live-streams
-      - title: "More Tab / Account"
-        url: /myteamlive/more-account
+      - title: "More Tab / Subscription"
+        url: /myteamlive/more-subscription
       - title: "More Tab / Remote Control"
         url: /myteamlive/remote-control
       - title: "More Tab / Remote Camera"
