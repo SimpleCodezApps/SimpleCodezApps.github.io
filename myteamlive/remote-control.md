@@ -38,3 +38,7 @@ The Remote Control UI replaces the Clock, Scoreboard, Events, and Messages panel
 - The Broadcaster automatically disconnects the Remote Control when the Camera View is closed.
 - If the link drops, the Broadcaster Camera View shows "Disconnected" next to the Remote Control toggle.
 - If the link drops, the Remote Control returns to the connection screen.  Re-enter the PIN and tap **Connect**.
+
+## Tips
+- If you are using **Local-only**, you need to remain relatively close (up to 50 feet) to the broadcaster.
+- You do not need a subscription to use MyTeamLive as a remote control.
