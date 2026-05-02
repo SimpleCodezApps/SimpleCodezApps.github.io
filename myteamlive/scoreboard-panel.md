@@ -10,7 +10,7 @@ section_url: /myteamlive/index
 Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
 
 ## Basics
-- **Show Scoreboard** toggles the overlay visibility.
+- **Show Scoreboard** toggles the scoreboard visibility.
 - **Game Over** marks the matchup as finished.
 - Home and Away steppers adjust scores.
 

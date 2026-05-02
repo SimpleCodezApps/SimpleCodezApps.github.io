@@ -53,7 +53,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel) and [Clock Panel](clock-panel).
-- Show overlays via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
+- Show custom graphics via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
 - Use the [Control Bar](control-bar) to mute, pause, or stop.
 - Adjust framing with the [Zoom](zoom) slider; reset with the magnifying glass button.
 - Tap Pause to show the intermission screen and mute audio without ending the stream.

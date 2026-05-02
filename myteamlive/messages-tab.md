@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 
-Create reusable overlays so you can trigger announcements without retyping.
+Create reusable graphics so you can trigger announcements without retyping.
 
 ## Celly Stickers
 - Celly Stickers are transparent PNG or JPG images you create from photos.
@@ -15,9 +15,9 @@ Create reusable overlays so you can trigger announcements without retyping.
 - On iOS 16 or later, long-press a subject in Photos to lift it and choose **Share > Save Image**. [Make a Celly Sticker in Photos](#make-a-celly-sticker-in-photos)
 - Turn on the default Celly Stickers in the Messages tab for ready-made graphics.
 
-## Add a Custom Message Overlay
+## Add a Custom Message
 1. Open the Messages tab and tap **Add Message**.
-2. Name the overlay.
+2. Name the message.
 3. Pick a format: text only, text on background, team text, or team text with custom colors.
 4. Select a sport.
 5. Adjust text and background colors where the layout allows.
@@ -25,26 +25,27 @@ Create reusable overlays so you can trigger announcements without retyping.
 7. Use the live preview to verify layout; choose a team to preview team formats.
 8. Tap **Save**.
 
-## Add a Celly Sticker Overlay
+## Add a Celly Sticker
 1. In Messages, tap **Add Celly Sticker**.
-2. Name the overlay and assign a sport.
+2. Name the sticker and assign a sport.
 3. Pick a photo from your library.
 4. Set the display duration and review the preview.
 5. Tap **Save**.
 
-## Add a Logo Overlay
-Logo Overlays are persistent logos or images that stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+## Add a Stream Logo
+Stream Logos appear in the bottom right of the live stream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+Each Stream Logo can consist of one or more images which will be shown in a looping sequence carousel style.
 
-1. In Messages, tap **Add Logo Overlay**.
-2. Name the logo overlay and assign a sport.
+1. In Messages, tap **Add Stream Logo**.
+2. Name the logo and assign a sport.
 3. Choose a size: **Small** (10% of screen height), **Medium** (15%), or **Large** (20%).
-4. Tap **Add Frame** and pick an image from your photo library.
+4. Tap **Add Image** and pick an image from your photo library.
 5. Set the duration for the frame (3s, 5s, 10s, 15s, or 30s).
-6. Optionally tap **Add Frame** again to add more frames.
+6. Optionally tap **Add Image** again to add more images.
 7. Review the preview to see placement in the bottom-right corner.
 8. Tap **Save**.
 
-Logo Overlays have no overall duration—they remain visible until you manually dismiss them during a broadcast. When a logo overlay has multiple frames, they cycle automatically at each frame's set interval. Drag frames to reorder; swipe to delete.
+Stream Logos have no overall duration—they remain visible until you manually dismiss them during a broadcast. When a logo has multiple images, they cycle automatically at each images's set interval. Drag images to reorder; swipe to delete.
 
 ## Make a Celly Sticker in Photos
 1. Open Photos and choose an image with a clear subject.
@@ -56,5 +57,5 @@ Logo Overlays have no overall duration—they remain visible until you manually 
 ## Tips
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
-- Logo overlays work best with transparent PNG images so your video shows through around the logo.
-- Multi-frame logo overlays cycle through each image at its set interval—use them to rotate sponsor logos or alternate branding.
+- Stream Logos work best with transparent PNG images so your video shows through around the logo.
+- Multi-image stream logos cycle through each image at its set interval—use them to rotate sponsor logos or alternate branding.

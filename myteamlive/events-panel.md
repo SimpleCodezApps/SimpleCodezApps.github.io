@@ -7,11 +7,11 @@ section_url: /myteamlive/index
 ---
 
 
-Trigger sport-specific overlays that automatically include a team name and logo.
+Trigger sport-specific graphics that automatically include a team name and logo.
 
 ## Basics
 1. Choose the target team (Home or Away).
-2. Optionally override how long the overlay stays on screen.
+2. Optionally override how long the graphic stays on screen.
 3. Tap a preset to show it immediately during the broadcast.
 
 ## Available Presets
@@ -21,4 +21,4 @@ Trigger sport-specific overlays that automatically include a team name and logo.
 
 ## Tips
 - Messages inherit the selected team’s colors and logo.
-- Use the [Messages Panel](messages-panel) for custom overlays and Celly Stickers.
+- Use the [Messages Panel](messages-panel) for custom graphics and Celly Stickers.
