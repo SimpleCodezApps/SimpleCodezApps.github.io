@@ -44,8 +44,8 @@ This walkthrough will use the local recording option to get you up to speed quic
 12. Toggle _Show Scorebug Immediately_ on.
 13. Leave _Advantage Mode_ set to _Manual_.
 14. In the _Muted Overlay_ section, select _Large Centered_.
-15. In the _Video Settings_ section, select _60 fps_.
-16. Select _1080p_.
+15. In the _Video Settings_ section, select _30 fps_.
+16. Select _720p_.
 17. Tap **Start Recording**.
 
 ## Broadcaster Camera View
