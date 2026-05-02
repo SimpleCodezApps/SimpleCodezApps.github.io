@@ -14,7 +14,7 @@ section_url: /myteamlive/index
 The Broadcaster Camera View combines the live stream preview with the on screen controls and remote cameras.
 
 ## Preview
-The live stream preview shows exactly what the audience sees, including the ScoreBug, celly stickers, messages, and the stream logo.
+The live stream preview shows exactly what the audience sees, including the ScoreBug, celly stickers, messages, and the stream brand.
 
 > All on-screen controls are only visible on your screen.
 
