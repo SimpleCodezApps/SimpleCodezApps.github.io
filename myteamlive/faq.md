@@ -18,6 +18,10 @@ Yes, the app is designed to stream in landscape orientation; portrait will be le
 
 The built-in microphone is used by default. Wired or Bluetooth headsets with a mic improve the quality of the audio and reduce the ambient noise.
 
+## Do remote cameras support audio?
+
+No. The audio from the broadcaster camera is layered over the entire stream.
+
 ## Why am I missing the first/last seconds of the stream?
 
 This happens often on YouTube and other streaming platforms. The fix is to stream the start or end intermission screen for 5 to 15 seconds before starting or after ending the game.
@@ -27,6 +31,10 @@ This happens often on YouTube and other streaming platforms. The fix is to strea
 Connections fail if the stream key is wrong. Double-check it in Live Streams.
 
 Also, some firewalls will block outbound RTMP/RTMPS and prevent connections.
+
+## The remote control/camera cannot connect to the broadcaster?
+
+Not all venues allow devices to see each other on their WiFi network. You can verify connectivity on the [Remote Devices](network-connection) step of the Go Live setup.
 
 ## What is the network indicator telling me about the stream?
 
