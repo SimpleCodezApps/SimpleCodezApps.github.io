@@ -6,7 +6,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-Remote Cameras let a secondary device stream from a different camera angle. The primary device runs the broadcast and scoreboard; secondary devices send their camera feed to the Broadcaster. Secondary devices can be:
+Remote Cameras let a secondary device stream from a different camera angle. The primary device runs the broadcast and scoreboard; secondary devices send their video feed to the Broadcaster (audio stays with the broadcaster microphone). Secondary devices can be:
 
 - **Another MyTeamLive device** — uses the Remote Camera screen in the More tab to connect over WiFi or Local network.
 - **Any RTMP-capable device** — such as a GoPro camera or other hardware encoder. Connect over WiFi (only) using the RTMP URL from the Camera Connection list on the Broadcaster.
