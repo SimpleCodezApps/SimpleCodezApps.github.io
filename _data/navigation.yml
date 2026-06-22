@@ -49,6 +49,8 @@ docs:
         url: /myteamlive/quick-control-bar
       - title: "Zoom and Focus"
         url: /myteamlive/zoom
+      - title: "Controls Panel"
+        url: /myteamlive/control-options-panel
       - title: "Clock Panel"
         url: /myteamlive/clock-panel
       - title: "Scoreboard Panel"
