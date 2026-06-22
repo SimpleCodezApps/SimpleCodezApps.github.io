@@ -30,8 +30,8 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 The Remote Control UI replaces the Clock, Scoreboard, Events, and Messages panels on the Broadcaster but does not control any of the LiveStream or zoom controls.
 
 ## Taking Control Back for the Broadcaster
-- Use the Remote Control toggle to bring control back to the Broadcaster without disconnecting the Remote Control.
-- The PIN for the Camera is shown next to the Remote Control toggle.
+- Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
+- Use the **Enable Remote Control** toggle in that panel to bring control back to the Broadcaster without disconnecting the Remote Control.
 
 ## Disconnecting and Reconnecting
 - Tap **Disconnect** on the Remote Control to disconnect from the Broadcaster.

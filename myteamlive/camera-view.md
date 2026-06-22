@@ -21,7 +21,7 @@ The live stream preview shows exactly what the audience sees, including the Scor
 ## Audio
 Audio uses a wired or Bluetooth headset when connected; otherwise it uses the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall come from a wired setup.
 
-The mute button will show a large and centered muted icon on the stream by default. Other options available are no icon at all (not recommended) or a smaller icon in the top right.
+The mute button shows a muted icon on the stream while audio is muted. Size and position are configurable in the Control Options panel below.
 
 ## Control Bar
 Use the top control bar to start or pause publishing, mute audio, stop, and monitor stream state. Learn more in the [Control Bar guide](control-bar).
@@ -38,6 +38,8 @@ Open panels along the bottom edge to manage:
 - Scoreboard, including sport-specific states ([Scoreboard Panel](scoreboard-panel))
 - Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Sport-specific event prompts ([Events Panel](events-panel))
+- Remote Control status and PIN ([Remote Control Panel](remote-control))
+- ScoreBug, mute overlay, recording timer, and Stream Brand settings ([Control Options Panel](control-options-panel))
 
 ## Camera Sources
 
@@ -48,6 +50,3 @@ When [Remote Cameras](remote-camera) are configured, a column of camera thumbnai
 </p>
 
 Tap the expand icon next to a thumbnail to enlarge that slot to a full-column preview (3× size). A disconnected slot is shown with a slash icon and can't be selected until the device connects.
-
-## Remote Control
-When [Remote Control](remote-control) is connected, toggle the Remote Control switch if you need to reclaim control.

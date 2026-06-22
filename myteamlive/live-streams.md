@@ -28,8 +28,8 @@ Guides: [YouTube Account](youtube-account) · [Twitch Account](twitch-account)
 1. Tap **Add Live Stream**.
 2. Enter a name for the destination.
 3. Pick a service to auto-fill the ingest URL or choose Custom.
-4. Enter the URL (if needed) and stream key from your service.
+4. Enter the URL (if needed) and stream key from your service. Both are required for YouTube, Twitch, and Facebook before **Save** enables.
 5. Tap **Save**.
-6. Tap an endpoint to edit it or swipe left to delete.
+6. Tap an endpoint to edit it or swipe left to delete. The endpoint row shows the complete destination URL so you can confirm it before going live.
 
 Guides: [YouTube Endpoint](youtube-endpoint) · [Twitch Endpoint](twitch-endpoint) · [Facebook Endpoint](facebook-endpoint)

@@ -22,7 +22,9 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 2. Select the sport.
 3. Pick Home and Away teams.
 4. Configure device name, Remote Control, and Remote Cameras.
-5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
+5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+
+    A landscape indicator on this step will show if the device is in landscape orientation.
 6. Review FPS and Quality; adjust if needed.
 7. Tap **Go Live** to open the Broadcaster Camera View.
 8. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
@@ -34,7 +36,9 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Select the sport.
 4. Pick Home and Away teams.
 5. Configure device name, Remote Control, and Remote Cameras.
-6. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Quick Control Bar, Show Shots on Goal, and alignment.
+6. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+
+    A landscape indicator on this step will show if the device is in landscape orientation.
 7. Review FPS and Quality.
 8. Tap **Go Live** to open the Broadcaster Camera View.
 9. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
@@ -45,7 +49,9 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 2. Select the sport.
 3. Pick Home and Away teams.
 4. Configure device name, Remote Control, and Remote Cameras.
-5. On the confirmation step, review Hockey ScoreBug settings (hockey only).
+5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+
+    A landscape indicator appears on this step if the device is in landscape orientation.
 6. Confirm FPS and Quality.
 7. Tap **Start Recording** to open the Broadcaster Camera View.
 8. Tap Play/Pause on the control bar to start recording in Standby.
