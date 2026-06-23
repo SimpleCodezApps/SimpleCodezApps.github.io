@@ -9,7 +9,7 @@ section_url: /myteamlive/index
 Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Broadcaster Camera View.
 
 <p style="text-align:center;">
-  <img src="/images/SelectLiveStream.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/VideoSettings.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 ## Before You Start
@@ -22,8 +22,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 2. Choose a saved endpoint.
 3. Select the sport.
 4. Pick Home and Away teams.
-5. Configure device name, Remote Control, and Remote Cameras.
-6. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+5. Review device name, Remote Control, and Remote Cameras settings.
+6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 7. Review the summary, including destination, video settings, and network.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
@@ -37,8 +37,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. For YouTube, fill in title, description, and privacy.
 4. Select the sport.
 5. Pick Home and Away teams.
-6. Configure device name, Remote Control, and Remote Cameras.
-7. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+6. Review device name, Remote Control, and Remote Cameras settings.
+7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 8. Review the summary, including destination, video settings, and network.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
@@ -51,8 +51,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 2. Choose **Record Locally Only**.
 3. Select the sport.
 4. Pick Home and Away teams.
-5. Configure device name, Remote Control, and Remote Cameras.
-6. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+5. Review device name, Remote Control, and Remote Cameras settings.
+6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 7. Review the summary, including video settings.
 
     A landscape indicator appears on this step if the device is in landscape orientation.
