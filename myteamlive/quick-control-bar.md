@@ -12,7 +12,7 @@ The Hockey Quick Control Bar is a compact floating panel that gives you one-tap 
   <img src="/images/CameraViewQuickControlBar.png" alt="Quick Control Bar" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-It is only available when using the Hockey scorebug and can be enabled or disabled in the Hockey ScoreBug settings on the Go Live confirmation step, or via the **Quick Control Bar** toggle in the [Scoreboard Panel](scoreboard-panel).
+It is only available when using the Hockey scorebug and can be enabled or disabled in the Hockey ScoreBug settings on the Go Live Controls step, or via the **Quick Control Bar** toggle in the [Scoreboard Panel](scoreboard-panel).
 
 ## When the Clock Is Enabled
 

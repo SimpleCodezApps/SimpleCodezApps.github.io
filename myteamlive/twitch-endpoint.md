@@ -31,10 +31,11 @@ _Do this once, update if the stream key is changed._
 ## Go Live
 
 1. Open the [Go Live Tab](go-live).
-2. Select the Twitch endpoint.
-3. Configure sport, teams, remote devices, and video settings.
-4. Tap **Go Live** and use Play/Pause to enter Standby.
-5. Tap Play to start sending video; Twitch begins the broadcast immediately.
+2. Select FPS and Quality.
+3. Select the Twitch endpoint.
+4. Configure sport, teams, remote devices, and controls.
+5. Tap **Go Live** and use Play/Pause to enter Standby.
+6. Tap Play to start sending video; Twitch begins the broadcast immediately.
 
 ## End the Broadcast
 Press **Stop** to end the live video stream; then press **Close** to close the Broadcaster Camera View.

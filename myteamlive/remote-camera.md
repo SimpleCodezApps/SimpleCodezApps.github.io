@@ -15,12 +15,12 @@ Remote Cameras let a secondary device stream from a different camera angle. The 
 
 ## Broadcaster Setup (Primary Device)
 
-Configure Remote Cameras in the **Remote Devices** step (step 4) of the Go Live flow.
+Configure Remote Cameras in the **Remote Devices** step (step 5) of the Go Live flow.
 
 1. Enable the **Remote Cameras** toggle.
 2. Choose a network: **WiFi** for range across the venue; **Local** (Bluetooth/peer) when on cellular or WiFi is unreliable.
 3. Under **Camera Connections**, tap **Add Camera** to configure each camera connection with a name. If Remote Cameras is enabled with no connections added, a warning reminds you to add one before continuing.
-4. Use the connection's RTMP URL with the remote camera device so they can connect. (If the remote camera is streaming while still on step 4, you will see a preview.)
+4. Use the connection's RTMP URL with the remote camera device so they can connect. (If the remote camera is streaming while still on step 5, you will see a preview.)
 5. When the broadcast starts, available remote cameras appear in the camera switcher along the left side of the screen. If the remote camera is streaming, you will see a preview.
 
 ---

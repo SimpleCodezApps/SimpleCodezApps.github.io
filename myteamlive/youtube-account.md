@@ -22,15 +22,16 @@ Broadcast directly to a signed-in YouTube channel.
 ## Go Live with an Account
 
 1. Open the [Go Live Tab](go-live).
-2. Select the connected YouTube account.
-3. Enter a title and description.
-4. Choose a privacy level (Public, Unlisted, Private).
-5. Toggle **Made for Kids** as needed.
-6. Configure sport, teams, remote devices, and video settings.
-7. Tap **Go Live** to open the Broadcaster Camera View.
-8. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends
+2. Select FPS and Quality.
+3. Select the connected YouTube account.
+4. Enter a title and description.
+5. Choose a privacy level (Public, Unlisted, Private).
+6. Toggle **Made for Kids** as needed.
+7. Configure sport, teams, remote devices, and controls.
+8. Tap **Go Live** to open the Broadcaster Camera View.
+9. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends
    the intermission screen with muted audio.
-9. Tap Play to unmute and broadcast the live camera feed.
+10. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
 

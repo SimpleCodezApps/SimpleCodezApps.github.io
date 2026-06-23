@@ -14,7 +14,7 @@ MyTeamLive has three independent network choices: one for how Broadcaster sends 
 
 ## Streaming: How Your Video Reaches Viewers
 
-Choose your streaming connection in the **Network** section at the top of the Select Live Stream step (step 1).
+Choose your streaming connection in the **Network** section on the Video Settings step (step 1).
 
 > Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
 
@@ -46,7 +46,7 @@ See [Saved Recordings](more-recordings).
 
 ## Remote Control: How the Remote Control Connects
 
-Choose the remote control network in the **Remote Control** section on the Remote Devices step (step 4). The app selects the best option automatically, but you can override it.
+Choose the remote control network in the **Remote Control** section on the Remote Devices step (step 5). The app selects the best option automatically, but you can override it.
 
 ### WiFi (default when on WiFi)
 
@@ -72,7 +72,7 @@ Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer 
 
 ## Remote Cameras: How Secondary Cameras Connect
 
-Choose the remote camera network in the **Remote Cameras** section on the Remote Devices step (step 4). The same WiFi vs. Local options apply as for Remote Control.
+Choose the remote camera network in the **Remote Cameras** section on the Remote Devices step (step 5). The same WiFi vs. Local options apply as for Remote Control.
 
 See [Remote Camera](remote-camera) for full setup instructions.
 
