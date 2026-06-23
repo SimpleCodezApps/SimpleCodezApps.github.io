@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 <p style="text-align:center;">
-  <img src="/images/CameraView.png" alt="Camera View" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/GettingStarted.png" alt="Camera View" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 This walkthrough will use the local recording option to get you up to speed quickly.
@@ -31,32 +31,33 @@ This walkthrough will use the local recording option to get you up to speed quic
 ## Go Live
 
 1. Tap the [Go Live Tab](go-live).
-2. Select _Record Locally Only_.
-3. Tap **Next**.
-4. Select _Hockey_.
-5. Tap **Next**.
-6. Select the home team.
-7. Select the away team.
+2. In the _Video Settings_ section, select _30 fps_.
+3. Select _720p_.
+4. Tap **Next**.
+5. Select _Record Locally Only_.
+6. Tap **Next**.
+7. Select _Hockey_.
 8. Tap **Next**.
-9. Tap **Next** (skip using a Remote Control or Camera).
-10. In the _Hockey Scorebug_ section, toggle _Show Clock_ on.
-11. Toggle _Show Shots on Goal_ on.
-12. Toggle _Show Scorebug Immediately_ on.
-13. Leave _Advantage Mode_ set to _Manual_.
-14. In the _Muted Overlay_ section, select _Large Centered_.
-15. In the _Video Settings_ section, select _30 fps_.
-16. Select _720p_.
-17. Tap **Start Recording**.
+9. Select the home team.
+10. Select the away team.
+11. Tap **Next**.
+12. Tap **Next** (skip using a Remote Control or Camera).
+13. In the _Hockey Scorebug_ section, toggle _Show Clock_ on.
+14. Toggle _Show Shots on Goal_ on.
+15. Toggle _Show Scorebug Immediately_ on.
+16. In the _Muted Overlay_ section, select _Large_.
+17. Tap **Next**.
+18. Tap **Start Recording**.
 
 ## Broadcaster Camera View
 
 <p style="text-align:center;">
-  <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/GettingStartedLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 1. The Camera View status indicator in the top left corner shows **Off–Air**.
 2. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
 3. On the right side are the [Zoom](zoom) controls.
-4. Along the bottom of the screen are the buttons for four control panels.
+4. Along the bottom of the screen are the buttons for five control panels.
 5. Make sure you are in landscape mode; the orientation indicator (next to the status) should be landscape and green.
 6. We recommend using either a wired or Bluetooth headset for commentary. When a headset is connected, the headphones indicator will be green.
 7. The recording indicator is currently gray indicating no activity.
@@ -74,7 +75,7 @@ This walkthrough will use the local recording option to get you up to speed quic
 4. Dismiss the scoreboard dialog.
 5. Check the updated score and shot count.
 6. Tap the [Clock](clock-panel) icon.
-7. Tap the **15m** preset, then tap **Update Clock** to set the clock to 15:00.
+7. Tap the **15m** preset, then tap **Set Clock** to set the clock to 15:00.
 8. Dismiss the clock dialog and check the updated clock.
 9. Tap the [Clock](clock-panel) icon.
 10. Tap **Start Clock** to start the clock.

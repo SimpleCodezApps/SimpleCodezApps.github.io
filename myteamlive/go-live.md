@@ -18,44 +18,47 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Add any custom messages or Celly Stickers in the [Messages Tab](messages-tab).
 
 ## Starting with a Live Stream Endpoint
-1. Choose a saved endpoint. Optionally tap **Speed Test** to check your connection.
-2. Select the sport.
-3. Pick Home and Away teams.
-4. Configure device name, Remote Control, and Remote Cameras.
-5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
-
-    A landscape indicator on this step will show if the device is in landscape orientation.
-6. Review FPS and Quality; adjust if needed.
-7. Tap **Go Live** to open the Broadcaster Camera View.
-8. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
-9. Tap Play to unmute and broadcast the live camera feed to viewers.
-
-## Starting with a Connected Account
-1. Choose a signed-in account (YouTube or Twitch).
-2. For YouTube, fill in title, description, and privacy. Optionally tap **Speed Test** to check your connection.
+1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+2. Choose a saved endpoint.
 3. Select the sport.
 4. Pick Home and Away teams.
 5. Configure device name, Remote Control, and Remote Cameras.
-6. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+6. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+7. Review the summary, including destination, video settings, and network.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
-7. Review FPS and Quality.
 8. Tap **Go Live** to open the Broadcaster Camera View.
 9. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
 10. Tap Play to unmute and broadcast the live camera feed to viewers.
 
+## Starting with a Connected Account
+1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+2. Choose a signed-in account (YouTube or Twitch).
+3. For YouTube, fill in title, description, and privacy.
+4. Select the sport.
+5. Pick Home and Away teams.
+6. Configure device name, Remote Control, and Remote Cameras.
+7. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+8. Review the summary, including destination, video settings, and network.
+
+    A landscape indicator on this step will show if the device is in landscape orientation.
+9. Tap **Go Live** to open the Broadcaster Camera View.
+10. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.
+11. Tap Play to unmute and broadcast the live camera feed to viewers.
+
 ## Starting with Local Recording Only
-1. Choose **Record Locally Only**.
-2. Select the sport.
-3. Pick Home and Away teams.
-4. Configure device name, Remote Control, and Remote Cameras.
-5. On the confirmation step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+2. Choose **Record Locally Only**.
+3. Select the sport.
+4. Pick Home and Away teams.
+5. Configure device name, Remote Control, and Remote Cameras.
+6. On the Controls step, review Hockey ScoreBug settings (hockey only): enable or disable Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and alignment.
+7. Review the summary, including video settings.
 
     A landscape indicator appears on this step if the device is in landscape orientation.
-6. Confirm FPS and Quality.
-7. Tap **Start Recording** to open the Broadcaster Camera View.
-8. Tap Play/Pause on the control bar to start recording in Standby.
-9. Tap Play to record the live camera feed.
+8. Tap **Start Recording** to open the Broadcaster Camera View.
+9. Tap Play/Pause on the control bar to start recording in Standby.
+10. Tap Play to record the live camera feed.
 
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel) and [Clock Panel](clock-panel).
