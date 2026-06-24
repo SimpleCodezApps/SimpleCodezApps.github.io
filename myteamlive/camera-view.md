@@ -34,12 +34,12 @@ Open the [Zoom](zoom) slider on the right edge to adjust magnification. Preset b
 
 ## Control Panels
 Open panels along the bottom edge to manage:
+- On screen control options like the mute overlay, recording timer, and other control settings ([Control Options Panel](control-options-panel))
 - Clock, sport-specific clock controls ([Clock Panel](clock-panel))
 - Scoreboard, including sport-specific states ([Scoreboard Panel](scoreboard-panel))
-- Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Sport-specific event prompts ([Events Panel](events-panel))
+- Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Remote Control status and PIN ([Remote Control Panel](remote-control))
-- ScoreBug, mute overlay, recording timer, and Stream Brand settings ([Control Options Panel](control-options-panel))
 
 ## Camera Sources
 
