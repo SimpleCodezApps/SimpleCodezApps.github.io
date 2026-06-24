@@ -20,7 +20,7 @@ Configure Remote Cameras in the **Remote Devices** step (step 5) of the Go Live 
 1. Enable the **Remote Cameras** toggle.
 2. Choose a network: **WiFi** for range across the venue; **Local** (Bluetooth/peer) when on cellular or WiFi is unreliable.
 3. Under **Camera Connections**, tap **Add Camera** to configure each camera connection with a name. If Remote Cameras is enabled with no connections added, a warning reminds you to add one before continuing.
-4. Use the connection's RTMP URL with the remote camera device so they can connect. (If the remote camera is streaming while still on step 5, you will see a preview.)
+4. Use the connection's RTMP URL with the remote camera device so they can connect. (If the remote camera starts streaming while still on step 5, you will see a preview.)
 5. When the broadcast starts, available remote cameras appear in the camera switcher along the left side of the screen. If the remote camera is streaming, you will see a preview.
 
 ---
@@ -29,16 +29,16 @@ Configure Remote Cameras in the **Remote Devices** step (step 5) of the Go Live 
 
 When Remote Cameras are configured, a column of camera thumbnails appears along the left side of the screen.
 
-- The active camera is shown in the Camera View.
+- The active camera is shown in the Broadcaster Camera View.
 - Tap any Remote Camera thumbnail to switch the broadcast to that camera.
-- When a Remote Camera is active, the Broadcaster Camera is shown in the list of thumbnails.
-- A disconnected camera slot is shown with a slash icon; it can't be selected until the device connects.
+- When a Remote Camera is active, the Broadcaster Camera will appear in the list of thumbnails and can be selected to switch the broadcast.
+- A disconnected camera is shown with a slash icon; it can't be selected until the remote camera connects.
 
 <p style="text-align:center;">
   <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-- Tap the expand icon next to a thumbnail to enlarge that slot to a larger preview (3× size). Tap the collapse icon to return to the full list of thumbnails.
+- Tap the PiP icon next to a thumbnail to enlarge that slot to a larger preview (3× size). Tap the PiP icon again to return to the full list of thumbnails.
 
 ---
 
@@ -63,7 +63,7 @@ Any device that can stream RTMP — such as a GoPro camera — can be used as a 
 
 1. On the broadcaster, enable **Remote Cameras** and add a camera connection.
 2. Copy or share the camera connection using the copy or share icon. This will give you the **RTMP URL** for this connection.
-3. Enter that RTMP URL into the RTMP settings on your device (e.g., GoPro Quik live stream settings).
+3. Enter that RTMP URL into the RTMP settings on your device (e.g. GoPro Quik live stream settings).
 4. Start streaming on the device. The live stream will show with the connection name on the Broadcaster.
 
 

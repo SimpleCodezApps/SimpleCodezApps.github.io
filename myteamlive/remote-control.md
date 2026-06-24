@@ -8,7 +8,7 @@ section_url: /myteamlive/index
 
 Remote Control lets a second phone manage the scoreboard, events, and messages while the Broadcaster streams.
 
-## Prepare the Camera
+## Prepare the Broadcaster
 1. In Go Live, advance to the **Remote Devices** step (step 5 of 7).
 2. Optionally, give the Broadcaster a recognizable device name (for example, "Jane's Phone").
 3. Check the **Network connection** indicator. When on WiFi the connection uses a faster network link; when not on WiFi it falls back to a local Bluetooth/peer connection automatically.
@@ -27,7 +27,7 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 7. Once the Broadcaster opens their Camera View, the Remote Control UI will appear.
 
 ## Using the Remote Control
-The Remote Control UI replaces the Clock, Scoreboard, Events, and Messages panels on the Broadcaster but does not control any of the LiveStream or zoom controls.
+Use the Remote Control to control the ScoreBug, Events, and Messages on the Broadcaster.
 
 ## Taking Control Back for the Broadcaster
 - Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
