@@ -43,10 +43,16 @@ Open panels along the bottom edge to manage:
 
 ## Camera Sources
 
-When [Remote Cameras](remote-camera) are configured, a column of camera thumbnails appears next to the Quick Control Bar. Tap a thumbnail to switch the broadcast to that camera. The active source fills the main preview; the column shows all other available slots.
+When [Remote Cameras](remote-camera) are configured, a Camera List icon appears. Tap it to show or hide the list of remote cameras.
+Tap a camera thumbnail to switch the broadcast to that camera.
 
 <p style="text-align:center;">
   <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-Tap the expand icon next to a thumbnail to enlarge that slot to a full-column preview (3× size). A disconnected slot is shown with a slash icon and can't be selected until the device connects.
+Tap the PiP icon next to a thumbnail to view a larger preview (3× size).
+A disconnected camera is shown with a slash icon and can't be selected until the device connects.
+
+## Elapsed Timer
+
+Use the Control Options panel to show or hide an elapsed stream timer for an exact timestamp on the stream. There is an option to view it only on the Broadcaster Camera View or to also send it out on the stream.
