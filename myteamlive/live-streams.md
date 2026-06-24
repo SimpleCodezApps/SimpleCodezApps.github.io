@@ -7,7 +7,11 @@ section_url: /myteamlive/index
 ---
 
 
-Use the Live Streams tab to connect MyTeamLive with YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
+<p style="text-align:center;">
+  <img src="/images/LiveStreamsTab.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+Use the Live Streams tab to configure MyTeamLive for YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
 
 ## Choosing a Service
 - **YouTube** supports on-demand and scheduled broadcasts. Stream directly with your account or configure a shared stream key. **YouTube** also makes it easy to download a copy of the video.
