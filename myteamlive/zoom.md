@@ -6,9 +6,6 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-
-Tap the screen to focus the camera on a point of interest.
-
 <p style="text-align:center;">
   <img src="/images/CameraViewZoom.png" alt="Zoom slider view" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
@@ -29,6 +26,9 @@ Use the vertical slider on the right edge of the Camera View to adjust magnifica
 ## Pinch to Zoom
 
 Use the pinch gesture to zoom in and out. The slider will change with the gesture.
+
+## AutoFocus
+Tap the screen to focus the camera on a point of interest.
 
 ## Show or Hide the Slider
 Use the toggle beneath the slider to hide or reveal it. Preset buttons stay visible even when the slider is hidden.
