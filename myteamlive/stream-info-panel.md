@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 
-The Camera Status surfaces telemetry so you can monitor the broadcast without leaving the Camera View.
+Monitor the live stream status without leaving the Camera View.
 
 ## Details
 
@@ -19,7 +19,10 @@ The Camera Status surfaces telemetry so you can monitor the broadcast without le
 - FPS: target frame rate (30 or 60).
 - Current FPS: measured frame rate.
 - Endpoint: ingest URL and stream key in use.
-- Publish State: detailed encoder state beyond the simple broadcast label.
-- Stream State: detailed network status beyond the control bar indicator.
-- Recording State: status and dropped frame details.
-- Audio Device: currently active microphone.
+- Publish State: Ready, Standby, Publishing, Paused, Finished, Aborted.
+- Stream State: Ready, Working, Good, Unstable, Closed, Aborted.
+- Connection State: Closed, Connecting, Open, Closing.
+- Recording State: status, bitrate, and dropped frame details.
+- Audio Device: currently actived device.
+- Audio Input: currently active microphone.
+- Remote Cameras: endpoint and list of configured remote cameras and status.
