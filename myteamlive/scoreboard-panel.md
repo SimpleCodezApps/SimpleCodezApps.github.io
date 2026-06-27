@@ -7,24 +7,29 @@ section_url: /myteamlive/index
 ---
 
 
-Toggle the on-stream scoreboard, adjust scores, and manage sport-specific info.
+Adjust scores and sport-specific info.
 
-## Basics
-- **Show Scoreboard** toggles the scoreboard visibility.
-- **Game Over** marks the matchup as finished.
+## Generic Scorebug
 - Home and Away steppers adjust scores.
 
-## Hockey Controls
-- **Period** selects 1st, 2nd, 3rd, or OT.
+## Hockey Scorebug
 - **Shots on Goal** steppers track shots.
-- **Quick Control Bar** toggles the floating clock and penalty shortcut bar on or off. See [Quick Control Bar](quick-control-bar).
+- **Period** selects 1st, 2nd, 3rd, or OT.
+- **Game Over** toggle to show score as Final
 
-If the clock is disabled:
-- **Power Play** shows which team has the advantage.
-- **Player Advantage** show on-ice strength.
+If the **Show Clock** option is disabled:
+
+<p style="text-align:center;">
+  <img src="/images/ScoreboardNoClock.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+- **Power Play** selects a side for a power play.
+- **Player Advantage** select the on-ice strength.
+- **Empty Net** indicates which team has pulled their goalie. An empty net adds an extra skater for that team.
+- **Skaters** sets the base number of skaters (5v5, 4v4, or 3v3).
 
 ## Soccer Controls
-- **Period** selects First Half, Second Half, Extra Time, or PKs (when available).
-- **Red Cards** track cards for each team.
+- **Period** selects Half, Extra Time, or Penalties.
+- **Red Cards** track red cards for each team.
 
 Use the interactive help demo in the app to experiment without affecting a live game.
