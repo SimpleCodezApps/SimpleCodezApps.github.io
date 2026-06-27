@@ -17,7 +17,6 @@ Trigger sport-specific graphics that automatically include a team name and logo.
 ## Available Presets
 - **Hockey:** Goal, Minor/Major/Misconduct/Match Penalty, Coincidental Penalties, Penalty Shot, Offsides.
 - **Soccer:** Foul, Direct or Indirect Kick, Offsides, Penalty, Goal, Throw-in, Corner Kick, Yellow, Red, or Double Yellow Card.
-- Other sports may not have presets.
 
 ## Tips
 - Messages inherit the selected team’s colors and logo.
