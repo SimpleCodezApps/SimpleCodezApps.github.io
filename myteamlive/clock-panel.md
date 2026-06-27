@@ -31,7 +31,7 @@ The Game Clock runs down to 0. If you reset the Game Clock and there are active 
   <img src="/images/ClockPenalties.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-Shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
+When the **Penalties** option is on, shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
 
 Use the preset buttons (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
 
@@ -42,12 +42,13 @@ Penalty clocks run with the game clock. A penalty clock that goes to 0 expires a
 When the **Player Advantage** option is set to *Automatic*, penalties affect the calculated player advantage. For example, one home penalty changes 5v5 to 5v4 (away power play).
 
 
-## Hockey Player Advantage
+## Hockey Power Play and Player Advantage
 
 <p style="text-align:center;">
-  <img src="/images/ClockPanelManual.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/ClockPlayerAdvantage.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
+- **Power Play** selects a side for a power play if the **Penalties** option is off.
 - **Player Advantage** select the on-ice strength. Disabled when the **Player Advantage** option is set to *Automatic*.
 - **Empty Net** indicates which team has pulled their goalie. An empty net adds an extra skater for that team.
 - **Skaters** sets the base number of skaters (5v5, 4v4, or 3v3).
