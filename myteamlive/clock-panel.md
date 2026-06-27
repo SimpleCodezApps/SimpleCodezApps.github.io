@@ -6,11 +6,16 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-Manage the game clock, player advantage, and penalties on the scorebug.
+Manage the game clock; and penalties and the player advantage for Hockey. Turn off the clock option to disable and hide the clock.
 
-> Only available when using the Ribbon scorebug with Hockey.
+> Only available with Hockey or Soccer.
 
 ## Clock
+
+<p style="text-align:center;">
+  <img src="/images/ClockPanel.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 - **Start Clock** starts the game clock.
 - **Stop Clock** stops the game clock.
 
@@ -20,33 +25,33 @@ The Game Clock runs down to 0. If you reset the Game Clock and there are active 
 
 - **Clear Clock** sets the Game Clock to 00:00.
 
-## Hockey Controls
+## Hockey Penalties
 
-### Advantage Mode
-
-Controls how the player advantage (5v5, 5v4, etc.) is determined:
-
-- **Manual**: You select the player advantage directly using the Player Advantage picker.
-- **Automatic**: The player advantage is calculated automatically based on active penalties, empty net status, and the skaters setting.
-
-### Player Advantage Controls
-
-- **Player Advantage** select the on-ice strength (only editable in Manual mode).
-- **Empty Net** indicates which team (if any) has pulled their goalie. An empty net adds an extra skater for that team.
-- **Skaters** sets the base number of skaters (5v5, 4v4, or 3v3). Use 3v3 for overtime periods that use 3-on-3 rules.
-
-### Penalties
+<p style="text-align:center;">
+  <img src="/images/ClockPenalties.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
 
 Shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
 
 Use the preset buttons (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
 
-Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
-
 Use the double minor toggle to indicate a double minor. When the first minor expires or is cleared, it starts the clock on the second minor.
 
-In Automatic mode, penalties affect the calculated player advantage. For example, one home penalty changes 5v5 to 5v4 (away power play).
+Penalty clocks run with the game clock. A penalty clock that goes to 0 expires and is removed. If a side has multiple penalties, a **+** will indicate that there are other penalties counting down.
 
-## Soccer Controls
+When the **Player Advantage** option is set to *Automatic*, penalties affect the calculated player advantage. For example, one home penalty changes 5v5 to 5v4 (away power play).
+
+
+## Hockey Player Advantage
+
+<p style="text-align:center;">
+  <img src="/images/ClockPanelManual.png" alt="Clock Control Panel" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+- **Player Advantage** select the on-ice strength. Disabled when the **Player Advantage** option is set to *Automatic*.
+- **Empty Net** indicates which team has pulled their goalie. An empty net adds an extra skater for that team.
+- **Skaters** sets the base number of skaters (5v5, 4v4, or 3v3).
+
+## Soccer Additional Time
 
 Additional time will show to the right of the clock time in the scorebug.
