@@ -30,14 +30,14 @@ Advantage Mode controls the on-ice strength on the scorebug. Automatic updates o
 - **Mode** sets the elapsed recording timer mode: Off, Broadcaster (visible only on your screen), or On Stream (visible to your audience)
 - **Position** Timer in Bottom Left or Bottom Right
 
-Position is disabled when Mode is Off. The position cannot be the same as the Stream Brand position.
+Position is disabled when Mode is Off. The position cannot be the same as the Brand position.
 
-## Stream Brands
+## Brands
 - **Position** Brand in Bottom Left or Bottom Right
 
-Disabled when no Stream Brand image is configured. The position cannot be the same as the Recording Timer position.
+Disabled when no Brand image is configured. The position cannot be the same as the Recording Timer position.
 
-Learn how to configure a Stream Brand in the [Messages Tab](messages-tab).
+Learn how to configure a Brand in the [Messages Tab](messages-tab).
 
 ## Muted Overlay
 - **Size** sets the muted icon size: None, Small, or Large.
