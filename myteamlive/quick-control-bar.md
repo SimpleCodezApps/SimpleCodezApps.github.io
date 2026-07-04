@@ -12,9 +12,37 @@ The Quick Control Bar is a compact floating panel that gives you one-tap access 
   <img src="/images/CameraViewQuickControlBar.png" alt="Quick Control Bar" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
+## Hockey
+
+The Hockey Quick Control Bar has three configurations:
+
+### When the Clock Is Enabled and Penalties Are Enabled
+
+- The current clock time.
+- A **Start/Stop** button to run or pause the game clock.
+- Active penalty clocks for Away and Home — tap a penalty to clear it. If there are no active penalties, the display shows "None".
+
+### When the Clock Is Enabled and Penalties Are Disabled
+
+- The current clock time.
+- A **Start/Stop** button to run or pause the game clock.
+- **Away PP** and **Home PP** toggles.
+
+### When the Clock Is Disabled
+
+- **Away PP** — tap to toggle an Away power play on or off.
+- **Home PP** — tap to toggle a Home power play on or off.
+
+## Soccer
+
+The Soccer Quick Control Bar shows the clock:
+
+- The current elapsed time.
+- A **Start/Stop** button to run or pause the game clock.
+
 ## Shootout Mode
 
-When the Hockey or Soccer period is set to **SO** (Shootout or Penalty Shootout), the bar switches to shootout entry mode and replaces all other controls.
+When the Hockey or Soccer period is set to **SO** (shootout), the bar switches to shootout entry mode.
 
 <p style="text-align:center;">
   <img src="/images/CameraViewQuickControlBarShootout.png" alt="Quick Control Bar in shootout mode" style="max-width:100%;height:auto;border-radius:12px;">
@@ -27,34 +55,6 @@ The bar shows two columns separated by a divider:
 
 Both columns are disabled once a winner is determined. Use the Scoreboard Panel to undo entries or reset the shootout.
 
-## Hockey
-
-Outside of shootout mode, Hockey has three configurations:
-
-### When the Clock Is Enabled and Penalties Are Disabled
-
-- The current clock time.
-- A **Start/Stop** button to run or pause the game clock.
-- **Away PP** and **Home PP** toggles.
-
-### When the Clock Is Enabled and Penalties Are Enabled
-
-- The current clock time.
-- A **Start/Stop** button to run or pause the game clock.
-- Active penalty clocks for Away and Home — tap a penalty to clear it. If there are no active penalties, the display shows "None".
-
-### When the Clock Is Disabled
-
-- **Away PP** — tap to toggle an Away power play on or off.
-- **Home PP** — tap to toggle a Home power play on or off.
-
-## Soccer
-
-Outside of shootout mode, the bar shows the clock when enabled:
-
-- The current elapsed time.
-- A **Start/Stop** button to run or pause the game clock.
-
-## Visibility
+## Remote Control
 
 The Quick Control Bar is hidden automatically when Remote Control is active, since those controls are managed from the Remote Control device.
