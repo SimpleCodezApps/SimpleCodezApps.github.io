@@ -4,4 +4,10 @@ sidebar:
   nav: "docs"
 ---
 
+{% if page.url contains 'third-party-notices' %}
+<div class="third-party-notice">
 {{ content }}
+</div>
+{% else %}
+{{ content }}
+{% endif %}
