@@ -12,12 +12,12 @@ During a broadcast, use the Messages panel to trigger custom messages, Celly Sti
 ## Basics
 1. Pick Home or Away for team-based messages.
 2. Override the on-screen duration if needed.
-3. Tap a message to display it immediately.
+3. Tap a message to show it.
 
 ## Using Brands
 Brands are persistent and stay visible in the bottom-right corner until you remove them.
 
-1. Tap a Brand in the Messages panel to display it immediately.
+1. Tap a Brand in the Messages panel to show it.
 2. The brand remains on screen until you tap it again to dismiss it.
 3. Only one brand can be active at a time—tapping a new brand  replaces the current one.
 

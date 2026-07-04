@@ -12,7 +12,7 @@ Trigger sport-specific graphics that automatically include a team name and logo.
 ## Basics
 1. Choose the target team (Home or Away).
 2. Optionally override how long the graphic stays on screen.
-3. Tap a preset to show it immediately during the broadcast.
+3. Tap an event to show it.
 
 ## Available Presets
 - **Hockey:** Goal, Minor/Major/Misconduct/Match Penalty, Coincidental Penalties, Penalty Shot, Offsides.

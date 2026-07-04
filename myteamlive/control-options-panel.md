@@ -6,7 +6,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-Adjust setting for displaying controls and graphics on the broadcast such as the mute indicator, recording timer. These can be set as part of the Go Live steps or by opening the Controls panel in the Broadcaster.
+Adjust setting for displaying controls and graphics on the broadcast such as the mute indicator and the recording timer. These can be set as part of the Go Live steps or by opening the Controls panel in the Broadcaster later.
 
 <p style="text-align:center;">
   <img src="/images/ControlsOptions.png" alt="Quick Control Bar" style="max-width:100%;height:auto;border-radius:12px;">
@@ -25,6 +25,9 @@ Adjust setting for displaying controls and graphics on the broadcast such as the
 - **Advantage Mode** (Manual / Automatic)
 
 Advantage Mode controls the on-ice strength on the scorebug. Automatic updates on-ice strength when penalties are entered. Manual shows a picker for the on-ice strength.
+
+### Soccer Specific
+- **Quick Control Bar**
 
 ## Recording Timer
 - **Mode** sets the elapsed recording timer mode: Off, Broadcaster (visible only on your screen), or On Stream (visible to your audience)
