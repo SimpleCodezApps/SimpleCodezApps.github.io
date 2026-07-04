@@ -124,6 +124,6 @@ Move the loupe tool to the color you want to use.
 
 ## Streaming
 
-We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts.
+We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts. Watch our short [YouTube setup walkthrough](https://youtu.be/GPWg77zxQ6s).
 
 Using a [YouTube Account](youtube-account) directly is easier, but the stream will always be on your account's channel.

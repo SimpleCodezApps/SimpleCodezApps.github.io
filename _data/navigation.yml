@@ -11,6 +11,8 @@ main:
 docs:
   - title: "Getting Started"
     children:
+      - title: "MyTeamLive Overview"
+        url: /myteamlive/index
       - title: "Quick Start Guide"
         url: /myteamlive/getting-started
       - title: "FAQ"
