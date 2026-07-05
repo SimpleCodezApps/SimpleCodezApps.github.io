@@ -58,6 +58,10 @@ Reconnect the Remote Control any time while the Broadcaster Camera View is open.
 
 Reconnect the Remote Camera any time while the Broadcaster Camera View is open.
 
+## What happens if recording fails mid-session?
+
+If the app cannot continue writing to the recording file (for example, because storage is full), a Recording Error dialog appears. You can restart recording into a new file, switch to streaming only (if you are live), or close the Camera View. If a restart also fails, only the streaming-only and close options remain.
+
 ## Having trouble recording locally on your device?
 
 When you record locally, the app first converts the raw camera feed into a format that can be saved, then writes it to your device’s storage. This process can be demanding, especially on older phones.

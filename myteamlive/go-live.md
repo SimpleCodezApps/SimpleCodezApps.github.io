@@ -67,12 +67,21 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 - Adjust framing with the [Zoom](zoom) slider; reset with the magnifying glass button.
 - Tap Pause to show the intermission screen and mute audio without ending the stream.
 
-## Connection Retry
-If the connection to the server is lost, a dialog gives you three options:
+## Connection Lost
 
-1. Reconnect: Attempt to reconnect to the server and go back to Standby.
-2. Start Recording: Switch to local recording only and continue the session without a network connection.
-3. Close Camera View: Terminate the stream and close the Broadcaster Camera View
+If the connection to the streaming server is lost mid-broadcast, a dialog appears with three options:
+
+1. **Reconnect**: Attempt to reconnect to the server and return to Standby.
+2. **Start Recording**: Switch to local recording only and continue the session without a network connection.
+3. **Close**: End the session and close the Broadcaster Camera View.
+
+## Recording Error
+
+If a recording error occurs during a session, a dialog appears. The options depend on whether the error may be recoverable:
+
+- **Restart Recording**: Start a new recording file and continue. Appears when the error may be transient. If the restart also fails, only the options below are shown.
+- **Continue Streaming Only**: Stop recording and continue streaming without saving locally. Only available when streaming.
+- **Close**: End the session and close the Broadcaster Camera View.
 
 ## Finish Up
 1. Tap Stop to end the broadcast.
