@@ -24,7 +24,7 @@ Audio uses a wired or Bluetooth headset when connected; otherwise it uses the bu
 The mute button shows a muted icon on the stream while audio is muted. Size and position are configurable in the Control Options panel below.
 
 ## Control Bar
-Use the top control bar to start or pause publishing, mute audio, stop, and monitor stream state. Learn more in the [Control Bar guide](control-bar).
+Use the top control bar to start or pause publishing, mute audio, stop, and monitor stream state. Learn more about the [Control Bar](control-bar).
 
 ## Quick Control Bar
 Use the Hockey [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.
@@ -41,7 +41,7 @@ Open panels along the bottom edge to manage:
 - Custom messages and Celly Stickers ([Messages Panel](messages-panel))
 - Remote Control status and PIN ([Remote Control Panel](remote-control))
 
-## Camera Sources
+## Remote Cameras
 
 When [Remote Cameras](remote-camera) are configured, a Camera List icon appears. Tap it to show or hide the list of remote cameras.
 Tap a camera thumbnail to switch the broadcast to that camera.

@@ -32,6 +32,10 @@ Connections fail if the stream key is wrong. Double-check it in Live Streams.
 
 Also, some firewalls will block outbound RTMP/RTMPS and prevent connections.
 
+## Still having networking issues?
+
+Rebooting your phone can clear up many networking problems by resetting its WiFi and cellular connections. Try a reboot before digging into other troubleshooting steps.
+
 ## The remote control/camera cannot connect to the broadcaster?
 
 Not all venues allow devices to see each other on their WiFi network. You can verify connectivity on the [Remote Devices](network-connection) step of the Go Live setup.
@@ -66,10 +70,7 @@ If the app cannot continue writing to the recording file (for example, because s
 
 When you record locally, the app first converts the raw camera feed into a format that can be saved, then writes it to your device’s storage. This process can be demanding, especially on older phones.
 
-If you’re running into issues:
-
-* On older devices, try lowering your settings to 720p at 30 FPS.
-* On newer devices (iPhone 17 and above), you should be able to record smoothly at 1080p at 60 FPS.
+If you’re running into issues use the lowest quality setting to 720p at 30 FPS and do not save a local copy if you are streaming.
 
 Adjusting these settings can help improve performance and ensure a smoother recording experience.
 
