@@ -18,10 +18,10 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Add any custom messages or Celly Stickers in the [Messages Tab](messages-tab).
 
 ## Starting with a Live Stream Endpoint
-1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
-2. Choose a saved endpoint.
-3. Select the sport.
-4. Pick Home and Away teams.
+1. Select the sport.
+2. Pick Home and Away teams.
+3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+4. Choose a saved endpoint.
 5. Review device name, Remote Control, and Remote Cameras settings.
 6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 7. Review the summary, including destination, video settings, and network.
@@ -32,11 +32,11 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 10. Tap Play to unmute and broadcast the live camera feed to viewers.
 
 ## Starting with a Connected Account
-1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
-2. Choose a signed-in account (YouTube or Twitch).
-3. For YouTube, fill in title, description, and privacy.
-4. Select the sport.
-5. Pick Home and Away teams.
+1. Select the sport.
+2. Pick Home and Away teams.
+3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+4. Choose a signed-in account (YouTube or Twitch).
+5. For YouTube, fill in title, description, and privacy.
 6. Review device name, Remote Control, and Remote Cameras settings.
 7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 8. Review the summary, including destination, video settings, and network.
@@ -47,10 +47,10 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 11. Tap Play to unmute and broadcast the live camera feed to viewers.
 
 ## Starting with Local Recording Only
-1. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
-2. Choose **Record Locally Only**.
-3. Select the sport.
-4. Pick Home and Away teams.
+1. Select the sport.
+2. Pick Home and Away teams.
+3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
+4. Choose **Record Locally Only**.
 5. Review device name, Remote Control, and Remote Cameras settings.
 6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
 7. Review the summary, including video settings.

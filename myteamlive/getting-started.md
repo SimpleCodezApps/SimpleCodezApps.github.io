@@ -43,15 +43,15 @@ Move the loupe tool to the color you want to use.
 ## Go Live
 
 1. Tap the [Go Live Tab](go-live).
-2. In the _Video Settings_ section, select _30 fps_.
-3. Select _720p_.
-4. Tap **Next**.
-5. Select _Record Locally Only_.
+2. Select _Hockey_.
+3. Tap **Next**.
+4. Select the home team.
+5. Select the away team.
 6. Tap **Next**.
-7. Select _Hockey_.
-8. Tap **Next**.
-9. Select the home team.
-10. Select the away team.
+7. In the _Video Settings_ section, select _30 fps_.
+8. Select _720p_.
+9. Tap **Next**.
+10. Select _Record Locally Only_.
 11. Tap **Next**.
 12. Tap **Next** (skip using a Remote Control or Camera).
 13. In the _Hockey Scorebug_ section, toggle _Show Clock_ on.

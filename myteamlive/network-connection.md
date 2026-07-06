@@ -14,7 +14,7 @@ MyTeamLive has three independent network choices: one for how Broadcaster sends 
 
 ## Streaming: How Your Video Reaches Viewers
 
-Choose your streaming connection in the **Network** section on the Video Settings step (step 1).
+Choose your streaming connection in the **Network** section on the Video Settings step (step 3).
 
 > Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
 
