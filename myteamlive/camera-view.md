@@ -33,6 +33,11 @@ Use the Hockey [Quick Control Bar](quick-control-bar) to start and stop the cloc
 Open the [Zoom](zoom) slider on the right edge to adjust magnification. Preset buttons let you jump between near, medium, and far framing.
 
 ## Control Panels
+
+<p style="text-align:center;">
+  <img src="/images/ControlPanels.png" alt="Quick Control Bar" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 Open panels along the bottom edge to manage:
 - On screen control options like the mute overlay, recording timer, and other control settings ([Control Options Panel](control-options-panel))
 - Clock, sport-specific clock controls ([Clock Panel](clock-panel))
