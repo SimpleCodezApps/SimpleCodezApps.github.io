@@ -33,6 +33,9 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 ## Using the Remote Control
 Use the Remote Control to control the ScoreBug, Events, and Messages on the Broadcaster.
 
+## Control Options
+Tap the Control Options icon in the toolbar to adjust the scorebug, muted overlay, recording timer, and brand position from the Remote Control — the same settings available in the Broadcaster's [Control Options Panel](control-options-panel).
+
 ## Taking Control Back for the Broadcaster
 - Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
 - Use the **Enable Remote Control** toggle in that panel to bring control back to the Broadcaster without disconnecting the Remote Control.
