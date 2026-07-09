@@ -6,6 +6,10 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
+<p style="text-align:center;">
+  <img src="/images/RemoteControl.png" alt="Quick Control Bar" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 Remote Control lets a second phone manage the scoreboard, events, and messages while the Broadcaster streams.
 
 ## Prepare the Broadcaster
