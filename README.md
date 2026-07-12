@@ -7,8 +7,6 @@ header:
   actions:
     - label: "Quick Start Guide"
       url: /myteamlive/getting-started
-    - label: "Join Beta"
-      url: "https://forms.gle/wdPUWXzVGfPxoLwC8"
 excerpt: "Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
 ---
 
@@ -28,5 +26,3 @@ excerpt: "Live stream your games with a built-in scoreboard, remote control, mul
 ## Get Started
 
 If you're new to streaming, start with YouTube---it's the fastest path to get your team's games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/GPWg77zxQ6s).
-
-MyTeamLive for Apple iOS is currently in beta and is free to use during the beta-test. To join, complete this [short form](https://forms.gle/wdPUWXzVGfPxoLwC8).
