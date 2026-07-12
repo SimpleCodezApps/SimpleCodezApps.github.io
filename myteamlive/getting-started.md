@@ -122,8 +122,10 @@ Move the loupe tool to the color you want to use.
 6. Tap **OK** when the save is completed.
 7. The recording is now in Photos and can be shared or uploaded from there.
 
-## Streaming
+## Getting Started with Streaming
 
-We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts. Watch our short [YouTube setup walkthrough](https://youtu.be/GPWg77zxQ6s).
+Already comfortable with streaming? You can quickly set up endpoints for your favorite platforms---see the platform guides for [YouTube](/myteamlive/youtube-endpoint), [Twitch](/myteamlive/twitch-endpoint), and [Facebook](/myteamlive/facebook-endpoint).
+
+New to streaming? We recommend setting up a [YouTube Endpoint](youtube-endpoint) and streaming with scheduled broadcasts. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).
 
 Using a [YouTube Account](youtube-account) directly is easier, but the stream will always be on your account's channel.

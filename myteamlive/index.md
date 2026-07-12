@@ -23,4 +23,4 @@ MyTeamLive lets you live stream your games with a built-in scoreboard, remote co
 
 [Quick Start Guide](getting-started)
 
-If you’re new to streaming, start with YouTube—it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/GPWg77zxQ6s).
+If you’re new to streaming, start with YouTube—it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).

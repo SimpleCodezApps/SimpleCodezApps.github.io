@@ -27,4 +27,4 @@ excerpt: "Live stream your games with a built-in scoreboard, remote control, mul
 
 Follow the [Quick Start Guide](/myteamlive/getting-started) to record your first game locally---no streaming account required.
 
-Already comfortable with streaming? You can quickly set up endpoints for your favorite platforms---see the platform guides for [YouTube](/myteamlive/youtube-endpoint), [Twitch](/myteamlive/twitch-endpoint), and [Facebook](/myteamlive/facebook-endpoint) setup.
+Already comfortable with streaming? You can quickly set up endpoints for your favorite platforms---see the platform guides for [YouTube](/myteamlive/youtube-endpoint), [Twitch](/myteamlive/twitch-endpoint), and [Facebook](/myteamlive/facebook-endpoint).

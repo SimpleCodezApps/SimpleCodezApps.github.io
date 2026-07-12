@@ -7,7 +7,7 @@ section_url: /myteamlive/index
 ---
 
 
-Schedule a YouTube broadcast and then go live on your device. Watch the tutorial video on [YouTube](https://youtu.be/GPWg77zxQ6s).
+Schedule a YouTube broadcast and then go live on your device. Watch the tutorial video on [YouTube](https://youtu.be/1JOK4eur8jA).
 
 Prefer to sign in to your channel instead? See the [YouTube Account Guide](youtube-account).
 
