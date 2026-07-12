@@ -6,6 +6,16 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
+## What is the difference between a signed-in YouTube account and a configured YouTube endpoint?
+
+A signed-in **account** links your YouTube channel directly to MyTeamLive. You sign in once, then create each broadcast from the app—setting the title, description, privacy, and Made for Kids options right on the [Go Live Tab](go-live). See the [YouTube Account Guide](youtube-account).
+
+A configured **endpoint** uses a stream key instead of signing in. You schedule the broadcast on the web at [studio.youtube.com](https://studio.youtube.com), copy its stream key into MyTeamLive once, and reuse it for future streams. This gives you full control over YouTube's scheduling options—like scheduling a backup broadcast in case of network issues—and works for channels you cannot sign in to. See the [YouTube Endpoint Guide](youtube-endpoint).
+
+## Can I livestream to Facebook?
+
+Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamLive, and stream to it as an endpoint—see the [Facebook Endpoint Guide](facebook-endpoint). Note that Facebook Live videos remain available for only 30 days after the broadcast, so download or save any streams you want to keep before they expire.
+
 ## Should I turn on do not disturb?
 
 Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions.
