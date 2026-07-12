@@ -9,6 +9,8 @@ section_url: /myteamlive/index
 
 Broadcast directly to a signed-in YouTube channel.
 
+Prefer to use a stream key instead? See the [YouTube Endpoint Guide](youtube-endpoint).
+
 ## Connect Your Account
 
 1. Open the [Live Streams Tab](live-streams).

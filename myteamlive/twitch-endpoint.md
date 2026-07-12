@@ -9,6 +9,8 @@ section_url: /myteamlive/index
 
 Use a stream key to broadcast to any Twitch channel, including shared accounts.
 
+Prefer to link your account instead? See the [Twitch Account Guide](twitch-account).
+
 ## Collect Stream Info on the Web
 
 1. Visit Twitch.com and open the Creator Dashboard.
