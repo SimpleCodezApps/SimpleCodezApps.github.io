@@ -25,4 +25,6 @@ excerpt: "Live stream your games with a built-in scoreboard, remote control, mul
 
 ## Get Started
 
-If you're new to streaming, start with YouTube---it's the fastest path to get your team's games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/GPWg77zxQ6s).
+Follow the [Quick Start Guide](/myteamlive/getting-started) to record your first game locally---no streaming account required.
+
+Already comfortable with streaming? You can quickly set up endpoints for your favorite platforms---see the platform guides for [YouTube](/myteamlive/youtube-endpoint), [Twitch](/myteamlive/twitch-endpoint), and [Facebook](/myteamlive/facebook-endpoint) setup.
