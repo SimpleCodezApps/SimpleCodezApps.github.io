@@ -12,9 +12,9 @@ A broadcaster subscription unlocks live streaming with the built-in scoreboard o
 
 ## Broadcaster Subscription
 
-| Plan    | United States & Canada |
-|---------|------------------------|
-| Monthly | $9.99                  |
-| Yearly  | $39.99                 |
+| Plan    | United States | Canada     |
+|---------|---------------|------------|
+| Monthly | $9.99 USD     | $9.99 CAD  |
+| Yearly  | $39.99 USD    | $39.99 CAD |
 
-Prices are shown in your local currency (USD / CAD) and are billed through the App Store. Manage or cancel your plan anytime in [More → Subscription](/myteamlive/more-subscription). App Store prices are subject to change.
+Prices are billed through the App Store. Manage or cancel your plan anytime in [More → Subscription](/myteamlive/more-subscription). App Store prices are subject to change.
