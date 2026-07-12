@@ -10,3 +10,5 @@ Review your subscription, renewal state, and expiration date. The expiration fie
 
 - Tap **Subscribe** to start a plan if you are not active yet.
 - Tap **Manage in App Store** to change or cancel an existing plan.
+
+See [Pricing](/myteamlive/pricing) for broadcaster subscription plans and prices.

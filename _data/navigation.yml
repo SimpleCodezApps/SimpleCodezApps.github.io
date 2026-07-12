@@ -5,6 +5,8 @@ main:
     url: /myteamlive/index
   - title: "About"
     url: /myteamlive/about
+  - title: "Pricing"
+    url: /myteamlive/pricing
   - title: "FAQ"
     url: /myteamlive/faq
 
@@ -15,6 +17,8 @@ docs:
         url: /myteamlive/index
       - title: "Quick Start Guide"
         url: /myteamlive/getting-started
+      - title: "Pricing"
+        url: /myteamlive/pricing
       - title: "FAQ"
         url: /myteamlive/faq
 
