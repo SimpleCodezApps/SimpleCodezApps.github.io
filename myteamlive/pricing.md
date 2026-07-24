@@ -6,7 +6,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/index
 ---
 
-A broadcaster subscription unlocks live streaming with the built-in scoreboard overlay. Choose a monthly or yearly plan through the App Store.
+A broadcaster subscription unlocks live streaming. Choose a monthly or yearly plan through the App Store.
 
 **No subscription required features:** [Remote Control](/myteamlive/remote-control) and [Remote Camera](/myteamlive/remote-camera) are free—any device can join a broadcaster's session without a subscription.
 
