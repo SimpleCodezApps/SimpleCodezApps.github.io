@@ -21,6 +21,7 @@ MyTeamLive lets you live stream your games with a built-in scoreboard, remote co
   - Multi-platform support: YouTube, Twitch, Facebook, and more
   - Local recording to upload or share later
 
+## Getting Started
 [Quick Start Guide](getting-started)
 
 If you’re new to streaming, start with YouTube—it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).
