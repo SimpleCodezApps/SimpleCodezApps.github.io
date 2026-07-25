@@ -37,7 +37,3 @@ We may modify, suspend, or discontinue the App, or update these Terms, at any ti
 ## Termination
 
 We may suspend or terminate your access to the App at any time for any reason, including violation of these Terms.
-
-## Contact
-
-For questions about these Terms, see [About MyTeamLive](about).
