@@ -14,4 +14,5 @@ Live stream your games with a built-in scoreboard, remote control, multiple came
 
 - **Copyright** — © 2025–2026 SimpleCodez LLC
 - **[Privacy Policy](privacy)** — MyTeamLive collects no personal information.
+- **[Terms of Service](terms)** — Terms governing use of the MyTeamLive app.
 - **[Third Party Notices](third-party-notices)** — Open source licenses for packages included in MyTeamLive.
