@@ -20,6 +20,13 @@
   border-radius: 4px;
 }
 
+.page__hero--overlay .btn:has(.app-store-badge) {
+  padding: 0;
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+
 .third-party-notice pre code {
   font-size: 12px;
 }
