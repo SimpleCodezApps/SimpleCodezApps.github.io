@@ -12,7 +12,7 @@ Stream straight to your own Twitch channel via account linking.
 Prefer to use a stream key instead? See the [Twitch Endpoint Guide](twitch-endpoint).
 
 ## Connect Your Account
-1. Open the [Live Streams Tab](live-streams).
+1. Open the [Livestreams Tab](live-streams).
 2. Tap **Add Account** and choose Twitch.
 3. Sign in and approve the requested permissions.
 

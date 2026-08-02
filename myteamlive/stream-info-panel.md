@@ -7,7 +7,7 @@ section_url: /myteamlive/overview
 ---
 
 
-Monitor the live stream status without leaving the Camera View.
+Monitor the livestream status without leaving the Camera View.
 
 ## Details
 

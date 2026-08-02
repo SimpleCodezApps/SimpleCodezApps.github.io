@@ -33,7 +33,7 @@ Create reusable graphics so you can trigger announcements without retyping.
 5. Tap **Save**.
 
 ## Add a Brand
-Brands appear in the bottom right of the live stream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+Brands appear in the bottom right of the livestream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
 Each Brand can consist of one or more images which will be shown in a looping sequence carousel style.
 
 1. In Messages, tap **Add Brand**.

@@ -38,7 +38,7 @@ This happens often on YouTube and other streaming platforms. The fix is to strea
 
 ## I cannot connect to the server, what should I check first?
 
-Connections fail if the stream key is wrong. Double-check it in Live Streams.
+Connections fail if the stream key is wrong. Double-check it in Livestreams.
 
 Also, some firewalls will block outbound RTMP/RTMPS and prevent connections.
 
@@ -60,7 +60,7 @@ Experience has shown that 720p @ 30 FPS has good quality even at lower speeds (i
 
 If you cannot get a steady connection, you can record the game locally and then upload the video.
 
-## Can I reconnect to an existing live stream?
+## Can I reconnect to an existing livestream?
 
 Many services let you stop and restart a stream at the same quality and FPS without creating a new event.
 

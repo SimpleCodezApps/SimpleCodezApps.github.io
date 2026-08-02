@@ -11,10 +11,10 @@ section_url: /myteamlive/overview
   <img src="/images/CameraViewLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-The Broadcaster Camera View combines the live stream preview with the on screen controls and remote cameras.
+The Broadcaster Camera View combines the livestream preview with the on screen controls and remote cameras.
 
 ## Preview
-The live stream preview shows exactly what the audience sees, including the ScoreBug, celly stickers, messages, and the brand.
+The livestream preview shows exactly what the audience sees, including the ScoreBug, celly stickers, messages, and the brand.
 
 > All on-screen controls are only visible on your screen.
 
@@ -56,7 +56,7 @@ When [Remote Cameras](remote-camera) are configured, a Camera List icon appears.
 Tap a camera thumbnail to switch the broadcast to that camera.
 
 <p style="text-align:center;">
-  <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/CameraViewPiP.png" alt="Select Livestream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 Tap the PiP icon next to a thumbnail to view a larger preview (3× size).

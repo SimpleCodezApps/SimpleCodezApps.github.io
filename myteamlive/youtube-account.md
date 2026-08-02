@@ -13,7 +13,7 @@ Prefer to use a stream key instead? See the [YouTube Endpoint Guide](youtube-end
 
 ## Connect Your Account
 
-1. Open the [Live Streams Tab](live-streams).
+1. Open the [Livestreams Tab](live-streams).
 2. Tap **Add Account** and choose YouTube.
 3. Sign in and accept the requested permissions.
 4. Open a browser on your laptop and go to [https://studio.youtube.com](https://studio.youtube.com).

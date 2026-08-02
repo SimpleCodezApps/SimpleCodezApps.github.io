@@ -7,7 +7,7 @@ section_url: /myteamlive/overview
 ---
 
 
-Use the Saved Recordings section in the More tab to review, share, or remove the local MP4 archives created when you select **Record Locally Only** on the Go Live *Select Live Stream* step or toggle **Save Recording** before starting a connected Live Stream.
+Use the Saved Recordings section in the More tab to review, share, or remove the local MP4 archives created when you select **Record Locally Only** on the Go Live *Select Livestream* step or toggle **Save Recording** before starting a connected Livestream.
 
 ## Locate Recordings
 - Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livestream multiple times).

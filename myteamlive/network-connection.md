@@ -6,7 +6,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/overview
 ---
 
-MyTeamLive has three independent network choices: one for how Broadcaster sends the live stream to viewers, one for how the Broadcaster and Remote Control talk to each other, and one for how the Broadcaster and any Remote Cameras talk to each other. All are configured during the Go Live flow.
+MyTeamLive has three independent network choices: one for how Broadcaster sends the livestream to viewers, one for how the Broadcaster and Remote Control talk to each other, and one for how the Broadcaster and any Remote Cameras talk to each other. All are configured during the Go Live flow.
 
 <p style="text-align:center;">
   <img src="/images/RemoteDevices.png" alt="Remote Devices Step" style="max-width:100%;height:auto;border-radius:12px;">
@@ -38,7 +38,7 @@ Streams over your carrier's mobile data network. This is selected automatically 
 
 No network connection is used. The game is saved directly to your device and can be uploaded or shared later.
 
-**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local recording instead of a live stream.
+**Use when:** you don't have a reliable connection at the venue, or you want a high-quality local recording instead of a livestream.
 
 See [Saved Recordings](more-recordings).
 

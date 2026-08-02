@@ -1,6 +1,6 @@
 ---
 layout: myteamlive
-title: "Live Streams Tab"
+title: "Livestreams Tab"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
 section_url: /myteamlive/overview
@@ -11,7 +11,7 @@ section_url: /myteamlive/overview
   <img src="/images/LiveStreamsTab.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-Use the Live Streams tab to configure MyTeamLive for YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
+Use the Livestreams tab to configure MyTeamLive for YouTube, Twitch, Facebook, or any RTMP/RTMPS service.
 
 ## Choosing a Service
 - **YouTube** supports on-demand and scheduled broadcasts. Stream directly with your account or configure a shared stream key. **YouTube** also makes it easy to download a copy of the video.
@@ -21,15 +21,15 @@ Use the Live Streams tab to configure MyTeamLive for YouTube, Twitch, Facebook, 
 - **Other services** work as long as you have an ingest URL and stream key.
 
 ## Accounts
-1. Open Live Streams and tap **Add Account**.
-2. Choose YouTube or Twitch and sign in. You will be asked to grant MyTeamLive permissions to allow live streaming.
+1. Open Livestreams and tap **Add Account**.
+2. Choose YouTube or Twitch and sign in. You will be asked to grant MyTeamLive permissions to allow livestreaming.
 3. Tap **Save**.
 4. Use the list to refresh tokens or swipe to remove an account.
 
 Guides: [YouTube Account](youtube-account) · [Twitch Account](twitch-account)
 
-## Live Stream Endpoints
-1. Tap **Add Live Stream**.
+## Livestream Endpoints
+1. Tap **Add Livestream**.
 2. Enter a name for the destination.
 3. Pick a service to auto-fill the ingest URL or choose Custom.
 4. Enter the URL (if needed) and stream key from your service. Both are required for YouTube, Twitch, and Facebook before **Save** enables.

@@ -29,7 +29,7 @@ Prefer to sign in to your channel instead? See the [YouTube Account Guide](youtu
 
 ## Configure the Endpoint in MyTeamLive
 
-1. In the [Live Streams Tab](live-streams), tap **Add Live Stream**.
+1. In the [Livestreams Tab](live-streams), tap **Add Livestream**.
 2. Choose YouTube as the service to auto-fill the ingest URL.
 3. Paste the stream key you copied.
 4. Name the destination so you recognize it later.

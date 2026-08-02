@@ -24,7 +24,7 @@ Schedule a Facebook Live event on the web, then stream to it from MyTeamLive.
 
 ## Configure the Endpoint in MyTeamLive
 
-1. In the [Live Streams Tab](live-streams), tap **Add Live Stream**.
+1. In the [Livestreams Tab](live-streams), tap **Add Livestream**.
 2. Choose Facebook as the service to auto-fill the server URL.
 3. Paste the stream key from Facebook.
 4. Enter a recognizable name for this destination.

@@ -9,15 +9,15 @@ section_url: /myteamlive/overview
 Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Broadcaster Camera View.
 
 <p style="text-align:center;">
-  <img src="/images/VideoSettings.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/VideoSettings.png" alt="Select Livestream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 ## Before You Start
-1. Add at least one Live Stream destination in the [Live Streams Tab](live-streams).
+1. Add at least one Livestream destination in the [Livestreams Tab](live-streams).
 2. Create your Home and Away teams in the [Teams Tab](teams-tab).
 3. Add any custom messages or Celly Stickers in the [Messages Tab](messages-tab).
 
-## Starting with a Live Stream Endpoint
+## Starting with a Livestream Endpoint
 1. Select the sport.
 2. Pick Home and Away teams.
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.

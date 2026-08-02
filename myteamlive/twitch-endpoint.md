@@ -22,7 +22,7 @@ Prefer to link your account instead? See the [Twitch Account Guide](twitch-accou
 
 ## Configure the Endpoint in MyTeamLive
 
-1. In the [Live Streams Tab](live-streams), tap **Add Live Stream**.
+1. In the [Livestreams Tab](live-streams), tap **Add Livestream**.
 2. Choose Twitch as the service to auto-fill the ingest URL.
 3. Paste the stream key you copied.
 4. Enter a recognizable name for this destination.

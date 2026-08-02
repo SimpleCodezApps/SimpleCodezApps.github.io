@@ -36,7 +36,7 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 - A disconnected camera is shown with a slash icon; it can't be selected until the remote camera connects.
 
 <p style="text-align:center;">
-  <img src="/images/CameraViewPiP.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/CameraViewPiP.png" alt="Select Livestream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 - Tap the PiP icon next to a thumbnail to enlarge that slot to a larger preview (3× size). Tap the PiP icon again to return to the full list of thumbnails.
@@ -54,7 +54,7 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 5. Select the broadcaster from the list.
 6. Select the camera connection to use with this device.
 7. Tap **Send video as camera [name]** to open the Remote Camera View.
-8. Tap the play icon in the control bar to begin streaming to the Broadcaster. The live stream will show with the connection name on the Broadcaster.
+8. Tap the play icon in the control bar to begin streaming to the Broadcaster. The livestream will show with the connection name on the Broadcaster.
 
 ---
 
@@ -64,8 +64,8 @@ Any device that can stream RTMP — such as a GoPro camera — can be used as a 
 
 1. On the Broadcaster, enable **Remote Cameras** and add a camera connection.
 2. Copy or share the camera connection RTMP URL using the copy or share icon.
-3. Enter that RTMP URL into the RTMP settings on your device (e.g. GoPro Quik live stream settings).
-4. Start streaming on the device. The live stream will show with the connection name on the Broadcaster.
+3. Enter that RTMP URL into the RTMP settings on your device (e.g. GoPro Quik livestream settings).
+4. Start streaming on the device. The livestream will show with the connection name on the Broadcaster.
 
 
 ---
@@ -75,7 +75,7 @@ Any device that can stream RTMP — such as a GoPro camera — can be used as a 
 MyTeamLive when used as a Remote Camera shows a full-screen live view with its own control bar and zoom controls.
 
 <p style="text-align:center;">
-  <img src="/images/RemoteCamera.png" alt="Select Live Stream Step" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/RemoteCamera.png" alt="Select Livestream Step" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 - Use the control bar to start, pause, and stop sending video.
@@ -102,12 +102,12 @@ Using an iPhone with MyTeamLive (no subscription required) to configure the GoPr
 3. Select the camera connection
 4. Copy the RTMP URL
 5. Open the GoPro Quik app
-6. Configure the GoPro live stream by pasting the copied RTMP URL
+6. Configure the GoPro livestream by pasting the copied RTMP URL
 
 Use a device without MyTeamLive to configure the GoPro or similar:
 
 1. Copy the RTMP URL in the Broadcaster Remote Devices setup screen (step 5).
 2. Share the RTMP URL (via messages or email or similar) to the configuring device.
 3. Open the GoPro Quik app
-4. Configure the GoPro live stream by pasting the shared RTMP URL
+4. Configure the GoPro livestream by pasting the shared RTMP URL
 
