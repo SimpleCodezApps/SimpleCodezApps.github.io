@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/youtube-account
 title: "YouTube Account Guide"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

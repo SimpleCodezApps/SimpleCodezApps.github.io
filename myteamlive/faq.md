@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/faq
 title: "FAQ"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

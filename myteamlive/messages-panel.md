@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/messages-panel
 title: "Messages Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

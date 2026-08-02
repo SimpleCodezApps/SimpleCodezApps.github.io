@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/twitch-endpoint
 title: "Twitch Endpoint Guide"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

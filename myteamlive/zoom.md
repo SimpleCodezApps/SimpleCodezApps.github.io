@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/zoom
 title: "Zoom and Focus"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

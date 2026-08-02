@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/teams-tab
 title: "Teams Tab"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

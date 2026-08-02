@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/messages-tab
 title: "Messages Tab"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

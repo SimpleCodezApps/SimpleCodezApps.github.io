@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/facebook-endpoint
 title: "Facebook Endpoint Guide"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

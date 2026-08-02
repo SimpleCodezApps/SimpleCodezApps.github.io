@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/scoreboard-panel
 title: "Scoreboard Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

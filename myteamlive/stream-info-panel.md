@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/stream-info-panel
 title: "Stream Info Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

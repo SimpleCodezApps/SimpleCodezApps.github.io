@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/about
 title: "About MyTeamLive"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

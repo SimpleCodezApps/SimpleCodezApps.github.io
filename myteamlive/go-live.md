@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/go-live
 title: "Go Live Tab"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

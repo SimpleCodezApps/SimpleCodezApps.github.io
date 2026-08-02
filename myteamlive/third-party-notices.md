@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/third-party-notices
 title: "Third Party Notices"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

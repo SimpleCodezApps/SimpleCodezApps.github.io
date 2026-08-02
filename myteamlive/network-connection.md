@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/network-connection
 title: "Streaming & Remote Devices"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/third-party-notices-logboard
 title: "Logboard — License"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

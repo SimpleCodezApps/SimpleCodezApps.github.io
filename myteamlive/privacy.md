@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/privacy
 title: "MyTeamLive Privacy Policy"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

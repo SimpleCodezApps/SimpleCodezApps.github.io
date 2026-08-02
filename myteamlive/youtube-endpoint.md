@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/youtube-endpoint
 title: "YouTube Endpoint Guide"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

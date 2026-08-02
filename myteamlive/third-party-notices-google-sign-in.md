@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/third-party-notices-google-sign-in
 title: "Google Sign-In for iOS — License"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/terms
 title: "MyTeamLive Terms of Service"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/remote-camera
 title: "More Tab / Remote Camera"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

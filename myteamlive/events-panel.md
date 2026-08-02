@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/events-panel
 title: "Events Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

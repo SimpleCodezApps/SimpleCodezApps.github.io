@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/control-options-panel
 title: "Controls Options Panel and Go Live Step (6/7)"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

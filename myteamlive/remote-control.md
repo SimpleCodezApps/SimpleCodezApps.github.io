@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/remote-control
 title: "More Tab / Remote Control"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/more-recordings
 title: "More Tab / Saved Recordings"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

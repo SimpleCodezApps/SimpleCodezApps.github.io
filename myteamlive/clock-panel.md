@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/clock-panel
 title: "Clock Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

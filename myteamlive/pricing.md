@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/pricing
 title: "Pricing"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

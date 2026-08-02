@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/camera-view
 title: "Broadcaster Camera View"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

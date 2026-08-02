@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/control-bar
 title: "Control Bar"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive

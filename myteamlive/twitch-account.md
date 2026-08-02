@@ -1,5 +1,6 @@
 ---
 layout: myteamlive
+permalink: /myteamlive/twitch-account
 title: "Twitch Account Guide"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
