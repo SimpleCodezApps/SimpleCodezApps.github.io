@@ -11,9 +11,9 @@ section_url: /myteamlive/overview
   <img src="/images/CameraView.png" alt="Camera view preview" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-MyTeamLive lets you live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface:
+MyTeamLive lets you livestream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface:
 
-  - Live stream with a full scoreboard: period clock, shots on goal, and penalties
+  - Livestream with a full scoreboard: period clock, shots on goal, and penalties
   - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
   - Remote control from another MyTeamLive device to run the scoreboard and events
   - Custom graphics for goals, penalties, player shoutouts, and team messages

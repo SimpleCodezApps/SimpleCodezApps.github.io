@@ -34,7 +34,7 @@ docs:
         url: /myteamlive/messages-tab
       - title: "Teams Tab"
         url: /myteamlive/teams-tab
-      - title: "Live Streams Tab"
+      - title: "Livestreams Tab"
         url: /myteamlive/live-streams
       - title: "More Tab / Subscription"
         url: /myteamlive/more-subscription

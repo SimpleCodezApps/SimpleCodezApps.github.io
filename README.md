@@ -7,7 +7,7 @@ header:
   actions:
     - label: '<img src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="Download on the App Store" class="app-store-badge">'
       url: "https://www.apple.com"
-excerpt: "Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
+excerpt: "Livestream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
 ---
 
 ![Camera view preview](/images/CameraView.png){: .align-center style="max-width:100%;border-radius:12px;margin-bottom:2rem;"}
