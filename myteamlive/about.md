@@ -10,6 +10,10 @@ Live stream your games with a built-in scoreboard, remote control, multiple came
 
 [![Download on the App Store](/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg){: style="height:44px;"}](https://www.apple.com)
 
+## Contact
+
+Questions or feedback? Reach us at [info@simplecodez.com](mailto:info@simplecodez.com).
+
 ## Legal
 
 - **Copyright** — © 2025–2026 SimpleCodez LLC

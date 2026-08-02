@@ -25,6 +25,9 @@ footer:
     - label: "SimpleCodez LLC"
       icon: "fas fa-fw fa-building"
       url: "/"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:info@simplecodez.com"
 
 defaults:
   - scope:
