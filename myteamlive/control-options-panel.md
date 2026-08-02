@@ -3,7 +3,7 @@ layout: myteamlive
 title: "Controls Options Panel and Go Live Step (6/7)"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 Adjust setting for displaying controls and graphics on the broadcast such as the mute indicator and the recording timer. These can be set as part of the Go Live steps or by opening the Controls panel in the Broadcaster later.

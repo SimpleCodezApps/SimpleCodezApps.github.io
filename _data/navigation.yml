@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Docs"
-    url: /myteamlive/index
+    url: /myteamlive/overview
   - title: "About"
     url: /myteamlive/about
   - title: "Pricing"
@@ -14,7 +14,7 @@ docs:
   - title: "Getting Started"
     children:
       - title: "MyTeamLive Overview"
-        url: /myteamlive/index
+        url: /myteamlive/overview
       - title: "Quick Start Guide"
         url: /myteamlive/getting-started
       - title: "Pricing"

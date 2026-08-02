@@ -3,7 +3,7 @@ layout: myteamlive
 title: "MyTeamLive Terms of Service"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 **Last updated: July 24, 2026**

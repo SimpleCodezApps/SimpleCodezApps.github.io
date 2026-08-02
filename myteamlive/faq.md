@@ -3,7 +3,7 @@ layout: myteamlive
 title: "FAQ"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 ## What is the difference between a signed-in YouTube account and a configured YouTube endpoint?

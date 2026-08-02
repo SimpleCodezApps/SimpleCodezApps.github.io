@@ -3,7 +3,7 @@ layout: myteamlive
 title: "Go Live Tab"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 Use the Go Live tab to configure teams, video settings, and streaming destination before entering the Broadcaster Camera View.

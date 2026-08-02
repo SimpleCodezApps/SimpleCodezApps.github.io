@@ -3,7 +3,7 @@ layout: myteamlive
 title: "More Tab / Remote Camera"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 Use Remote Cameras to stream from a different camera angle. The Broadcaster can switch between its own camera or one of the secondary video feeds (**Important**: audio stays with the broadcaster microphone). Secondary devices can be:

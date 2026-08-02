@@ -3,7 +3,7 @@ layout: myteamlive
 title: "About MyTeamLive"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface.

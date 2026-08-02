@@ -3,7 +3,7 @@ layout: myteamlive
 title: "SimpleAnalytics — License"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 **SimpleAnalytics**

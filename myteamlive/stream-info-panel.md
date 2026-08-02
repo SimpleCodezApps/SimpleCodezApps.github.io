@@ -3,7 +3,7 @@ layout: myteamlive
 title: "Stream Info Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 

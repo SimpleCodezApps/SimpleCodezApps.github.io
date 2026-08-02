@@ -1,27 +1,31 @@
 ---
-layout: myteamlive
+layout: splash
+permalink: /myteamlive/
 title: "MyTeamLive"
-section_logo: /images/MyTeamLive.png
-section_name: MyTeamLive
-section_url: /myteamlive/index
+header:
+  overlay_color: "#1a1a2e"
+  overlay_image: /images/Goal.png
+  actions:
+    - label: '<img src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="Download on the App Store" class="app-store-badge">'
+      url: "https://www.apple.com"
+excerpt: "Live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
 ---
 
-<p style="text-align:center;">
-  <img src="/images/CameraView.png" alt="Camera view preview" style="max-width:100%;height:auto;border-radius:12px;">
-</p>
+![Camera view preview](/images/CameraView.png){: .align-center style="max-width:100%;border-radius:12px;margin-bottom:2rem;"}
 
-MyTeamLive lets you live stream your games with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface:
+## Features
 
-  - Live stream with a full scoreboard: period clock, shots on goal, and penalties
-  - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
-  - Remote control from another MyTeamLive device to run the scoreboard and events
-  - Custom graphics for goals, penalties, player shoutouts, and team messages
-  - Branding for sponsor or team logos
-  - Celly Stickers to celebrate big plays
-  - Multi-platform support: YouTube, Twitch, Facebook, and more
-  - Local recording to upload or share later
+- **Live Scoreboard** --- Stream with a full scoreboard: period clock, shots on goal, and penalties
+- **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
+- **Remote Control** --- Run the scoreboard from another MyTeamLive device
+- **Custom Graphics** --- Goals, penalties, player shoutouts, and team messages
+- **Branding** --- Show sponsor or team logos
+- **Celly Stickers** --- Celebrate big plays with fun stickers
+- **Multi-Platform** --- YouTube, Twitch, Facebook, and more
+- **Local Recording** --- Record to upload or share later
 
-## Getting Started
-[Quick Start Guide](getting-started)
+## Get Started
 
-If you’re new to streaming, start with YouTube—it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).
+Follow the [Quick Start Guide](/myteamlive/getting-started) to record your first game locally---no streaming account required.
+
+Already comfortable with streaming? You can quickly set up endpoints for your favorite platforms---see the platform guides for [YouTube](/myteamlive/youtube-endpoint), [Twitch](/myteamlive/twitch-endpoint), and [Facebook](/myteamlive/facebook-endpoint).

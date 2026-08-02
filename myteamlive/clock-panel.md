@@ -3,7 +3,7 @@ layout: myteamlive
 title: "Clock Panel"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 Manage the game clock; and penalties and the player advantage for Hockey. Turn off the clock option to disable and hide the clock.

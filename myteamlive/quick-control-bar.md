@@ -3,7 +3,7 @@ layout: myteamlive
 title: "Quick Control Bar"
 section_logo: /images/MyTeamLive.png
 section_name: MyTeamLive
-section_url: /myteamlive/index
+section_url: /myteamlive/overview
 ---
 
 The Quick Control Bar is a compact floating panel that gives you one-tap access to the most common controls without opening any panel. It is available for Hockey and Soccer scorebugs and can be enabled or disabled in the Hockey or Soccer ScoreBug settings on the Go Live Controls step, or via the **Quick Control Bar** toggle in the [Control Options Panel](control-options-panel).
