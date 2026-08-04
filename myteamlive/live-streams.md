@@ -9,7 +9,7 @@ section_url: /myteamlive/overview
 
 
 <p style="text-align:center;">
-  <img src="/images/LiveStreamsTab.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/LivestreamsTab.png" alt="Control bar zoomed view" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 Use the Livestreams tab to configure MyTeamLive for YouTube, Twitch, Facebook, or any RTMP/RTMPS service.

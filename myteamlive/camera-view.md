@@ -28,7 +28,7 @@ Audio uses a wired or Bluetooth headset when connected; otherwise it uses the bu
 The mute button shows a muted icon on the stream while audio is muted. Size and position are configurable in the Control Options panel below.
 
 ## Quick Control Bar
-Use the Hockey [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.
+Use the [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.
 
 ## Elapsed Timer
 

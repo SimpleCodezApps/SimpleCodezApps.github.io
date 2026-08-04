@@ -46,6 +46,10 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 
 ## Remote Camera Setup with MyTeamLive on another iPhone (no subscription required)
 
+<p style="text-align:center;">
+  <img src="/images/RemoteCameraSetup.png" alt="Remote Camera setup" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
 1. Open the **More** tab and choose **Remote Camera**.
 2. Set **FPS** and **Quality** to what you want to send. This will default to the Broadcaster settings.
 
