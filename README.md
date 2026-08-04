@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: "MyTeamLive"
 header:
   overlay_color: "#1a1a2e"
   overlay_image: /images/Header.png
