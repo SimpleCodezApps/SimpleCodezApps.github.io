@@ -7,7 +7,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/overview
 ---
 
-A broadcaster subscription unlocks livestreaming. Choose a monthly or yearly plan through the App Store.
+A broadcaster subscription unlocks livestreaming. Choose a monthly or yearly plan through the App Store. All plans include a one week free trial.
 
 **No subscription required features:** [Remote Control](/myteamlive/remote-control) and [Remote Camera](/myteamlive/remote-camera) are free—any device can join a broadcaster's session without a subscription.
 
