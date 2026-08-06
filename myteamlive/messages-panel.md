@@ -16,7 +16,12 @@ During a broadcast, use the Messages panel to trigger custom messages, Celly Sti
 3. Tap a message to show it.
 
 ## Using Brands
-Brands are persistent and stay visible in the bottom-right corner until you remove them.
+
+<p style="text-align:center;">
+  <img src="/images/SoccerControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+Brands are persistent and stay visible in the [configured corner](control-options-panel#brands) until you remove them.
 
 1. Tap a Brand in the Messages panel to show it.
 2. The brand remains on screen until you tap it again to dismiss it.

@@ -34,7 +34,12 @@ Create reusable graphics so you can trigger announcements without retyping.
 5. Tap **Save**.
 
 ## Add a Brand
-Brands appear in the bottom right of the livestream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+
+<p style="text-align:center;">
+  <img src="/images/SoccerControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
+</p>
+
+Brands appear in the [configured corner](control-options-panel#brands) of the livestream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
 Each Brand can consist of one or more images which will be shown in a looping sequence carousel style.
 
 1. In Messages, tap **Add Brand**.
