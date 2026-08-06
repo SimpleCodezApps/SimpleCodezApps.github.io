@@ -24,7 +24,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose a saved endpoint.
 5. Review device name, Remote Control, and Remote Cameras settings.
-6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
+6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
 7. Review the summary, including destination, video settings, and network.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
@@ -39,7 +39,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Choose a signed-in account (YouTube or Twitch).
 5. For YouTube, fill in title, description, and privacy.
 6. Review device name, Remote Control, and Remote Cameras settings.
-7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
+7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
 8. Review the summary, including destination, video settings, and network.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
@@ -53,7 +53,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose **Record Locally Only**.
 5. Review device name, Remote Control, and Remote Cameras settings.
-6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, and Show Shots on Goal.
+6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
 7. Review the summary, including video settings.
 
     A landscape indicator appears on this step if the device is in landscape orientation.

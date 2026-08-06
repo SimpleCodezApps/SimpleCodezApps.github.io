@@ -37,9 +37,12 @@ Advantage Mode controls the on-ice strength on the scorebug. Automatic updates o
 Position is disabled when Mode is Off. The position cannot be the same as the Brand position.
 
 ## Brands
+- **Brand** choose which configured Brand to auto-start with the stream, or None (only in Go Live step)
 - **Position** Brand in Bottom Left or Bottom Right
 
 Disabled when no Brand image is configured. The position cannot be the same as the Recording Timer position.
+
+Selecting a Brand queues it to start automatically once you press Play and the stream goes live — it does not appear immediately when you tap Go Live. Selecting **None** leaves brand messaging off; you can still start any Brand manually from the [Messages Panel](messages-panel) during the broadcast.
 
 Learn how to configure a Brand in the [Messages Tab](messages-tab).
 
