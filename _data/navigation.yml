@@ -3,12 +3,12 @@ main:
     url: /
   - title: "Docs"
     url: /myteamlive/overview
-  - title: "About"
-    url: /myteamlive/about
   - title: "Pricing"
     url: /myteamlive/pricing
   - title: "FAQ"
     url: /myteamlive/faq
+  - title: "About"
+    url: /myteamlive/about
 
 docs:
   - title: "Getting Started"
@@ -21,6 +21,8 @@ docs:
         url: /myteamlive/pricing
       - title: "FAQ"
         url: /myteamlive/faq
+      - title: "About"
+        url: /myteamlive/about
 
   - title: "Tabs & Navigation"
     children:
