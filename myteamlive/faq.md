@@ -13,6 +13,12 @@ A signed-in **account** links your YouTube channel directly to MyTeamLive. You s
 
 A configured **endpoint** uses a stream key instead of signing in. You schedule the broadcast on the web at [studio.youtube.com](https://studio.youtube.com), copy its stream key into MyTeamLive once, and reuse it for future streams. This gives you full control over YouTube's scheduling options—like scheduling a backup broadcast in case of network issues—and works for channels you cannot sign in to. See the [YouTube Endpoint Guide](youtube-endpoint).
 
+## Do I need 50 subscribers to livestream to YouTube?
+
+No. The 50-subscriber requirement applies only to going live from the YouTube mobile app. Going live from a browser has no subscriber requirement. You only need to enable live streaming on your channel, which means verifying your account and waiting about 24 hours for access to activate.
+
+Browser-level access is all MyTeamLive needs, whether you sign in with a [YouTube account](youtube-account) or stream to a configured [endpoint](youtube-endpoint).
+
 ## Can I livestream to Facebook?
 
 Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamLive, and stream to it as an endpoint—see the [Facebook Endpoint Guide](facebook-endpoint). Note that Facebook Live videos remain available for only 30 days after the broadcast, so download or save any streams you want to keep before they expire.
