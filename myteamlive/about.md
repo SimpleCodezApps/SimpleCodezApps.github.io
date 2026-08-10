@@ -21,6 +21,6 @@ Questions or feedback? Reach us at [info@simplecodez.com](mailto:info@simplecode
 ## Legal
 
 - **Copyright** — © 2025–2026 SimpleCodez LLC
+- **[End User Licencse Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)** — Standard Apple App Store EULA.
 - **[Privacy Policy](privacy)** — MyTeamLive collects no personal information.
-- **[Terms of Service](terms)** — Terms governing use of the MyTeamLive app.
 - **[Third Party Notices](third-party-notices)** — Open source licenses for packages included in MyTeamLive.
