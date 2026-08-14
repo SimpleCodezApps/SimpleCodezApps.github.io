@@ -91,6 +91,10 @@ If you’re running into issues use the lowest quality setting to 720p at 30 FPS
 
 Adjusting these settings can help improve performance and ensure a smoother recording experience.
 
+## My payment failed—did I lose access?
+
+Not right away. When the App Store cannot charge your payment method at renewal, it retries for a few days, and you keep streaming during that window. [More → Subscription](/myteamlive/more-subscription) shows a **Payment issue** warning with the date access ends; tap **Update Payment Method** to fix your billing details in the App Store. If the retries run out first, livestreaming locks until the payment succeeds—your plan is not canceled.
+
 ## Why didn't my crash report send immediately?
 
 When an app crashes, iOS shuts it down instantly to protect your device, so there isn't time to send a crash report in the moment. Instead, the crash details are saved securely to your device's storage. The next time you open MyTeamLive, our crash reporting tool detects the saved file and sends it to our engineering team so we can investigate.
