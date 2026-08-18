@@ -7,7 +7,7 @@ header:
   overlay_image: /images/Header.png
   actions:
     - label: '<img src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="Download on the App Store" class="app-store-badge">'
-      url: "https://www.apple.com"
+      url: "https://apps.apple.com/us/app/myteamlive-hockey-soccer-hd/id6751442892"
 excerpt: "Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
 ---
 ## Features

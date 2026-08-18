@@ -20,4 +20,4 @@ A broadcaster subscription unlocks livestreaming. Choose a monthly or yearly pla
 
 Prices are billed through the App Store. Manage or cancel your plan anytime in [More → Subscription](/myteamlive/more-subscription). App Store prices are subject to change.
 
-[![Download on the App Store](/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg){: style="height:44px;"}](https://www.apple.com)
+[![Download on the App Store](/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg){: style="height:44px;"}](https://apps.apple.com/us/app/myteamlive-hockey-soccer-hd/id6751442892)
