@@ -37,6 +37,9 @@ Use the Remote Control to control the ScoreBug, Events, and Messages on the Broa
 ## Control Options
 Tap the Control Options icon in the toolbar to adjust the scorebug, muted overlay, recording timer, and brand position from the Remote Control — the same settings available in the Broadcaster's [Control Options Panel](control-options-panel).
 
+## Camera Status
+Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnostics — the same data shown by the Broadcaster's own [Camera Status](stream-info-panel) panel.
+
 ## Taking Control Back for the Broadcaster
 - Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
 - Use the **Enable Remote Control** toggle in that panel to bring control back to the Broadcaster without disconnecting the Remote Control.
