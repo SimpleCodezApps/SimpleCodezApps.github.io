@@ -15,11 +15,14 @@ Monitor the livestream status without leaving the Camera View.
 - Orientation: current device orientation (also shown in the control bar).
 - Headphones: connection status (also in the control bar).
 - Zoom: current zoom factor.
-- Quality: video resolution (720p or 1080p).
-- Current bitrate in KBps.
+- Quality: configured video resolution (720p or 1080p).
+- Active Format: the camera's actual capture resolution, which can differ slightly from Quality.
 - FPS: target frame rate (30 or 60).
 - Current FPS: measured frame rate.
+- Recording Timer: elapsed time since the broadcast started, independent of the game clock.
+- Current bitrate in KBps.
 - Endpoint: ingest URL and stream key in use.
+- Account: connected YouTube or Twitch account, with video title, privacy, and made-for-kids status when applicable.
 - Publish State: Ready, Standby, Publishing, Paused, Finished, Aborted.
 - Stream State: Ready, Working, Good, Unstable, Closed, Aborted.
 - Connection State: Closed, Connecting, Open, Closing.
