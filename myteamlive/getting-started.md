@@ -75,10 +75,10 @@ Move the loupe tool to the color you want to use.
 6. We recommend using either a wired or Bluetooth headset for commentary. When a headset is connected, the headphones indicator will be green.
 7. The recording indicator is currently gray indicating no activity.
 8. Tap the info icon to view details of the current session.
-9. Dismiss the info dialog by tapping the unfilled dialog close button below the filled Camera View close button.
+9. Dismiss the info dialog by tapping the dialog close icon.
 10. Use the microphone icon to mute/unmute audio.
 11. Tap the **Play/Pause** icon to show the intermission screen and start the recording. The status is now **Standby**, the recording indicator should now be green, and the microphone is muted.
-12. Tap the **Play** button to show the Camera View and unmute the audio. The status is now **Live**.
+12. Tap the **Play** icon to show the Camera View and unmute the audio. The status is now **Live**.
 
 ## Controlling the Scorebug
 
@@ -112,7 +112,7 @@ Move the loupe tool to the color you want to use.
 3. Toggle *Game Over* on.
 4. Dismiss the scoreboard dialog.
 5. Wait a few seconds, then tap the **Stop** icon.
-6. Tap the Camera View close button (filled) to close the Camera View and return to the **Go Live** tab.
+6. The Stop icon will switch to the Close icon, tap the icon to close the Camera View and return to the **Go Live** tab.
 
 ## Review the Recording
 1. Tap the **...More** tab.

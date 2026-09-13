@@ -13,7 +13,7 @@ section_url: /myteamlive/overview
 
 Use the vertical slider on the right edge of the Camera View to adjust magnification while streaming. The label shows the current zoom factor.
 
-- Tap the magnifying glass button with arrows to reset to 1x.
+- Tap the magnifying glass icon with arrows to reset to 1x.
 - If a device does not support zoom, the slider is disabled and a No Zoom icon appears.
 
 ## Zoom Presets
