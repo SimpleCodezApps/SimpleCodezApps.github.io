@@ -25,4 +25,4 @@ MyTeamLive lets you livestream your games (Hockey, Soccer, and more) with a buil
 ## Getting Started
 [Quick Start Guide](getting-started)
 
-If you’re new to streaming, start with YouTube—it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).
+If you’re new to streaming, start with YouTube — it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).

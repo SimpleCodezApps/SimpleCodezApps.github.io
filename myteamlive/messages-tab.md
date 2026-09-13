@@ -39,7 +39,7 @@ Create reusable graphics so you can trigger announcements without retyping.
   <img src="/images/SoccerControlsPhone-Brand.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-Brands appear in the [configured corner](control-options-panel#brands) of the livestream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.
+Brands appear in the [configured corner](control-options-panel#brands) of the livestream and stay on screen until you remove them — ideal for sponsor logos, team branding, or channel identifiers.
 Each Brand can consist of one or more images which will be shown in a looping sequence carousel style.
 
 1. In Messages, tap **Add Brand**.
@@ -51,7 +51,7 @@ Each Brand can consist of one or more images which will be shown in a looping se
 7. Review the preview to see placement in the bottom-right corner.
 8. Tap **Save**.
 
-Brands have no overall duration—they remain visible until you manually dismiss them during a broadcast. When a brand has multiple images, they cycle automatically at each images's set interval. Drag images to reorder; swipe to delete.
+Brands have no overall duration — they remain visible until you manually dismiss them during a broadcast. When a brand has multiple images, they cycle automatically at each images's set interval. Drag images to reorder; swipe to delete.
 
 ## Make a Celly Sticker in Photos
 1. Open Photos and choose an image with a clear subject.
@@ -64,4 +64,4 @@ Brands have no overall duration—they remain visible until you manually dismiss
 - Team formats inherit colors and logos from your saved teams. Use the Team Text format when you want automatic colors, or the Team Text with Custom Colors format to override them.
 - Celly Stickers add personality; use them sparingly so they do not cover live action.
 - Brands work best with transparent PNG images so your video shows through around the image.
-- Multi-image brands cycle through each image at its set interval—use them to rotate sponsor logos or alternate branding.
+- Multi-image brands cycle through each image at its set interval — use them to rotate sponsor logos or alternate branding.

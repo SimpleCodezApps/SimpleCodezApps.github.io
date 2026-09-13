@@ -9,9 +9,9 @@ section_url: /myteamlive/overview
 
 ## What is the difference between a signed-in YouTube account and a configured YouTube endpoint?
 
-A signed-in **account** links your YouTube channel directly to MyTeamLive. You sign in once, then create each broadcast from the app—setting the title, description, privacy, and Made for Kids options right on the [Go Live Tab](go-live). See the [YouTube Account Guide](youtube-account).
+A signed-in **account** links your YouTube channel directly to MyTeamLive. You sign in once, then create each broadcast from the app — setting the title, description, privacy, and Made for Kids options right on the [Go Live Tab](go-live). See the [YouTube Account Guide](youtube-account).
 
-A configured **endpoint** uses a stream key instead of signing in. You schedule the broadcast on the web at [studio.youtube.com](https://studio.youtube.com), copy its stream key into MyTeamLive once, and reuse it for future streams. This gives you full control over YouTube's scheduling options—like scheduling a backup broadcast in case of network issues—and works for channels you cannot sign in to. See the [YouTube Endpoint Guide](youtube-endpoint).
+A configured **endpoint** uses a stream key instead of signing in. You schedule the broadcast on the web at [studio.youtube.com](https://studio.youtube.com), copy its stream key into MyTeamLive once, and reuse it for future streams. This gives you full control over YouTube's scheduling options — like scheduling a backup broadcast in case of network issues — and works for channels you cannot sign in to. See the [YouTube Endpoint Guide](youtube-endpoint).
 
 ## Do I need 50 subscribers to livestream to YouTube?
 
@@ -21,7 +21,7 @@ Browser-level access is all MyTeamLive needs, whether you sign in with a [YouTub
 
 ## Can I livestream to Facebook?
 
-Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamLive, and stream to it as an endpoint—see the [Facebook Endpoint Guide](facebook-endpoint). Note that Facebook Live videos remain available for only 30 days after the broadcast, so download or save any streams you want to keep before they expire.
+Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamLive, and stream to it as an endpoint — see the [Facebook Endpoint Guide](facebook-endpoint). Note that Facebook Live videos remain available for only 30 days after the broadcast, so download or save any streams you want to keep before they expire.
 
 ## Should I turn on do not disturb?
 
@@ -91,9 +91,9 @@ If you’re running into issues use the lowest quality setting to 720p at 30 FPS
 
 Adjusting these settings can help improve performance and ensure a smoother recording experience.
 
-## My payment failed—did I lose access?
+## My payment failed — did I lose access?
 
-Not right away. When the App Store cannot charge your payment method at renewal, it retries for a few days, and you keep streaming during that window. [More → Subscription](/myteamlive/more-subscription) shows a **Payment issue** warning with the date access ends; tap **Update Payment Method** to fix your billing details in the App Store. If the retries run out first, livestreaming locks until the payment succeeds—your plan is not canceled.
+Not right away. When the App Store cannot charge your payment method at renewal, it retries for a few days, and you keep streaming during that window. [More → Subscription](/myteamlive/more-subscription) shows a **Payment issue** warning with the date access ends; tap **Update Payment Method** to fix your billing details in the App Store. If the retries run out first, livestreaming locks until the payment succeeds — your plan is not canceled.
 
 ## Why didn't my crash report send immediately?
 

@@ -25,7 +25,7 @@ Brands are persistent and stay visible in the [configured corner](control-option
 
 1. Tap a Brand in the Messages panel to show it.
 2. The brand remains on screen until you tap it again to dismiss it.
-3. Only one brand can be active at a time—tapping a new brand  replaces the current one.
+3. Only one brand can be active at a time — tapping a new brand replaces the current one.
 
 ## Managing Messages
 - Create and edit messages in the [Messages Tab](messages-tab).
