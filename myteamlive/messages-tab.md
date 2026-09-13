@@ -36,7 +36,7 @@ Create reusable graphics so you can trigger announcements without retyping.
 ## Add a Brand
 
 <p style="text-align:center;">
-  <img src="/images/SoccerControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/SoccerControlsPhone-Brand.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 Brands appear in the [configured corner](control-options-panel#brands) of the livestream and stay on screen until you remove them—ideal for sponsor logos, team branding, or channel identifiers.

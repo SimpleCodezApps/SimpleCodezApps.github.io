@@ -18,7 +18,7 @@ During a broadcast, use the Messages panel to trigger custom messages, Celly Sti
 ## Using Brands
 
 <p style="text-align:center;">
-  <img src="/images/SoccerControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/SoccerControlsPhone-Brand.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 Brands are persistent and stay visible in the [configured corner](control-options-panel#brands) until you remove them.
