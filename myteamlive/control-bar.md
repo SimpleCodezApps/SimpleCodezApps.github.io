@@ -29,8 +29,7 @@ streaming. It combines real-time indicators with broadcast controls.
 - [Camera Status](stream-info-panel).
 - Microphone mute toggle.
 - Live/Pause/Restart toggle.
-- Stop broadcast.
-- Close the Camera View.
+- Stop broadcast while live, or close the Camera View once stopped — only one of the two shows at a time.
 
 Use the interactive preview inside the app's Help section to see how each
 control changes the indicators.
