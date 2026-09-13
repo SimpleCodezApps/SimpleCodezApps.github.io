@@ -20,7 +20,7 @@ Manage the game clock; and penalties and the player advantage for Hockey. Turn o
 - **Start Clock** starts the game clock.
 - **Stop Clock** stops the game clock.
 
-The Game Clock can only be changed when the clock is stopped. Use the preset buttons (**15m**, **17m**, **20m**, etc) to quickly set common period lengths, or enter minutes and seconds directly in the text fields, then tap **Set Clock**.
+The Game Clock can only be changed when the clock is stopped. Use the Preset menu (**15m**, **17m**, **20m**, etc) to quickly set common period lengths, or enter minutes and seconds directly in the text fields, then tap **Set Clock**.
 
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, tap **Set Clock and Penalties** to keep the penalties in sync with the Game Clock.
 
@@ -34,7 +34,7 @@ The Game Clock runs down to 0. If you reset the Game Clock and there are active 
 
 When the **Penalties** option is on, shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
 
-Use the preset buttons (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
+Use the Preset menu (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
 
 Use the double minor toggle to indicate a double minor. When the first minor expires or is cleared, it starts the clock on the second minor.
 

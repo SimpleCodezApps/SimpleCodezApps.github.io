@@ -25,7 +25,7 @@ Use the top control bar to start or pause publishing, mute audio, stop, and moni
 ## Audio
 Audio uses a wired or Bluetooth headset when connected; otherwise it uses the built-in microphone. The built-in microphone picks up a lot of ambient noise. The best results overall come from a wired setup.
 
-The mute button shows a muted icon on the stream while audio is muted. Size and position are configurable in the Control Options panel below.
+The microphone icon shows a muted icon on the stream while audio is muted. Size and position are configurable in the Control Options panel below.
 
 ## Quick Control Bar
 Use the [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.

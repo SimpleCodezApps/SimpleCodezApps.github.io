@@ -20,13 +20,13 @@ The Hockey Quick Control Bar has three configurations:
 ### When the Clock Is Enabled and Penalties Are Enabled
 
 - The current clock time.
-- A **Start/Stop** button to run or pause the game clock.
+- A **Start/Stop** icon to run or pause the game clock.
 - Active penalty clocks for Away and Home — tap a penalty to clear it. If there are no active penalties, the display shows "None".
 
 ### When the Clock Is Enabled and Penalties Are Disabled
 
 - The current clock time.
-- A **Start/Stop** button to run or pause the game clock.
+- A **Start/Stop** icon to run or pause the game clock.
 - **Away PP** and **Home PP** toggles.
 
 ### When the Clock Is Disabled
@@ -39,7 +39,7 @@ The Hockey Quick Control Bar has three configurations:
 The Soccer Quick Control Bar shows the clock:
 
 - The current elapsed time.
-- A **Start/Stop** button to run or pause the game clock.
+- A **Start/Stop** icon to run or pause the game clock.
 
 ## Shootout Mode
 
