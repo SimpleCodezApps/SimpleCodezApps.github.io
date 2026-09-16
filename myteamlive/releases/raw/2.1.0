@@ -1,0 +1,6 @@
+v2.1.0 Release notes
+  - Add Instant Replay to mark and play back recent game action without stopping your broadcast
+  - Add duration-specific replay markers (10s/15s/20s/30s) in Advanced mode
+  - Automatically tag replays with nearby scoreboard events
+  - Add a thermal warning indicator to the control bar
+  - Help updates
