@@ -23,6 +23,8 @@ docs:
         url: /myteamlive/faq
       - title: "About"
         url: /myteamlive/about
+      - title: "Release Notes"
+        url: /myteamlive/releases
 
   - title: "Tabs & Navigation"
     children:
