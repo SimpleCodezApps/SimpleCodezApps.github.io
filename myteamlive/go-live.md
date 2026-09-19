@@ -66,6 +66,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 - Show custom graphics via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
 - Use the [Control Bar](control-bar) to mute, pause, or stop.
 - Adjust framing with the [Zoom](zoom) slider; reset with the magnifying glass icon.
+- Mark and play back [Instant Replay](instant-replay) clips.
 - Tap Pause to show the intermission screen and mute audio without ending the stream.
 
 ## Connection Lost

@@ -8,13 +8,14 @@ header:
   actions:
     - label: '<img src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="Download on the App Store" class="app-store-badge">'
       url: "https://apps.apple.com/app/apple-store/id6751442892?pt=127996740&ct=myteamlive-web&mt=8"
-excerpt: "Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface."
+excerpt: "Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, instant replays, remote control, multiple camera support, and easy-to-use interface."
 ---
 ## Features
 
 - **Live Scoreboard** --- Stream with a full scoreboard: period clock, shots on goal, and penalties
-- **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
+- **Instant Replay** --- Mark and play back recent action without stopping your broadcast
 - **Remote Control** --- Run the scoreboard from another MyTeamLive device
+- **Remote Cameras** --- Add camera angles from another MyTeamLive device or any RTMP source like a GoPro
 - **Custom Graphics** --- Goals, penalties, player shoutouts, and team messages
 - **Branding** --- Show sponsor or team logos
 - **Celly Stickers** --- Celebrate big plays with fun stickers

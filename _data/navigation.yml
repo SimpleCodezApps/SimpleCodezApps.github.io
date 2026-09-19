@@ -55,6 +55,8 @@ docs:
         url: /myteamlive/control-bar
       - title: "Quick Control Bar"
         url: /myteamlive/quick-control-bar
+      - title: "Instant Replay"
+        url: /myteamlive/instant-replay
       - title: "Zoom and Focus"
         url: /myteamlive/zoom
       - title: "Controls Options Panel"

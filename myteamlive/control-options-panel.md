@@ -30,6 +30,14 @@ Adjust settings for displaying controls and graphics on the broadcast such as th
 ### Soccer Specific
 - **Quick Control Bar**
 
+## Replay
+- **Replay Enabled**
+- **Replay Mode** (Basic / Advanced)
+- **Basic Replay Length** length of replay capture for basic mode
+- **Require Clock Running** no replay captured while clock stopped
+
+Learn more about [Instant Replay](instant-replay).
+
 ## Recording Timer
 - **Mode** (Off / Broadcaster / On Stream)
 

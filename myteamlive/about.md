@@ -7,10 +7,10 @@ section_name: MyTeamLive
 section_url: /myteamlive/overview
 ---
 <p style="text-align:center;">
-  <img src="/images/HockeyControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/SoccerReplayControls.png" alt="Recording Soccer game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface.
+Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, instant replays, remote control, multiple camera support, and easy-to-use interface.
 
 [![Download on the App Store](/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg){: style="height:44px;"}](https://apps.apple.com/app/apple-store/id6751442892?pt=127996740&ct=myteamlive-web&mt=8)
 

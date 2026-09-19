@@ -8,14 +8,15 @@ section_url: /myteamlive/overview
 ---
 
 <p style="text-align:center;">
-  <img src="/images/SoccerControlsPhone.png" alt="Recording Soccer game" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/HockeyControlsPhone.png" alt="Recording Hockey game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
-MyTeamLive lets you livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, remote control, multiple camera support, and easy-to-use interface:
+Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, instant replays, remote control, multiple camera support, and easy-to-use interface.
 
   - Livestream with a full scoreboard: period clock, shots on goal, and penalties
-  - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
+  - Instant Replay to mark and play back recent action without stopping your broadcast
   - Remote control from another MyTeamLive device to run the scoreboard and events
+  - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
   - Custom graphics for goals, penalties, player shoutouts, and team messages
   - Branding for sponsor or team logos
   - Celly Stickers to celebrate big plays

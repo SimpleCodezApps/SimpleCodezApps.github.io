@@ -65,7 +65,7 @@ Move the loupe tool to the color you want to use.
 ## Broadcaster Camera View
 
 <p style="text-align:center;">
-  <img src="/images/GettingStartedLabeled.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/CameraViewReplay.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 1. The Camera View status indicator in the top left corner shows **Off–Air**.
 2. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
@@ -79,6 +79,8 @@ Move the loupe tool to the color you want to use.
 10. Use the microphone icon to mute/unmute audio.
 11. Tap the **Play/Pause** icon to show the intermission screen and start the recording. The status is now **Standby**, the recording indicator should now be green, and the microphone is muted.
 12. Tap the **Play** icon to show the Camera View and unmute the audio. The status is now **Live**.
+
+[Instant Replay](instant-replay) is on by default, so you'll also see a Replay Bar for marking and playing back recent action.
 
 ## Controlling the Scorebug
 
