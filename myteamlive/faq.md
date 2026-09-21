@@ -49,6 +49,12 @@ Connections fail if the stream key is wrong. Double-check it in Livestreams.
 
 Also, some firewalls will block outbound RTMP/RTMPS and prevent connections.
 
+## I turned on Force stream to Cellular Network, but signing in to YouTube or Twitch still fails?
+
+**Force stream to Cellular Network** only applies to the current Go Live session. Signing in to YouTube or Twitch from the [Livestreams](live-streams) tab uses your phone's default network, which may be an unreliable WiFi connection.
+
+In that case, turn off WiFi, sign in using cellular, turn WiFi back on, then start your Go Live session.
+
 ## Still having networking issues?
 
 Rebooting your phone can clear up many networking problems by resetting its WiFi and cellular connections. Try a reboot before digging into other troubleshooting steps.
