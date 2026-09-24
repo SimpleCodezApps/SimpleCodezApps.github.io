@@ -7,7 +7,7 @@ section_name: MyTeamLive
 section_url: /myteamlive/overview
 ---
 <p style="text-align:center;">
-  <img src="/images/SoccerReplayControls.png" alt="Recording Soccer game" style="max-width:100%;height:auto;border-radius:12px;">
+  <img src="/images/SoccerReplayBrandClean.png" alt="Recording Soccer game" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
 
 Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, instant replays, remote control, multiple camera support, and easy-to-use interface.
