@@ -13,8 +13,8 @@ section_url: /myteamlive/overview
 
 Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, instant replays, remote control, multiple camera support, and easy-to-use interface.
 
-  - Livestream with a full scoreboard: period clock, shots on goal, and penalties
-  - Instant Replay to mark and play back recent action without stopping your broadcast
+  - Livestream with a full scoreboard: period clock, shots on goal, and penalties for hockey; goals, offsides, cards, and corner kicks for soccer
+  - Instant Replay to mark the last 10–30 seconds and play it back at full or half speed, without stopping your broadcast
   - Remote control from another MyTeamLive device to run the scoreboard and events
   - Remote cameras from another MyTeamLive device or any RTMP source like a GoPro
   - Custom graphics for goals, penalties, player shoutouts, and team messages

@@ -22,7 +22,9 @@ Instant Replay lets you mark a clip of the last few seconds of action and play i
     <p style="text-align:center;">
       <img src="/images/ReplayList.png" alt="Replay List" style="max-width:100%;height:auto;border-radius:12px;">
     </p>
-4. Tap a replay to play it at normal speed, or long-press to play it at half speed. Swipe to delete.
+4. Tap **1x** to play a replay at normal speed or **0.5x** to play it at half speed. Swipe to delete.
+
+Each replay in the list shows when it was marked, the game clock and period, the event tag if there is one, and the clip length.
 
 The mark and play buttons stay disabled until at least a few seconds of action are buffered.
 
