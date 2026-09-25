@@ -30,6 +30,9 @@ The microphone icon shows a muted icon on the stream while audio is muted. Size 
 ## Quick Control Bar
 Use the [Quick Control Bar](quick-control-bar) to start and stop the clock and clear penalties without opening the full clock panel.
 
+## Replay Bar
+Use the Replay Bar to mark and play replays. The play icon opens to the list of the last ten saved replays. Learn more about the [Replay Bar](instant-replay).
+
 ## Elapsed Timer
 
 Use the Control Options panel to show or hide an elapsed stream timer for an exact timestamp on the stream. There is an option to view it only on the Broadcaster Camera View or to also send it out on the stream.

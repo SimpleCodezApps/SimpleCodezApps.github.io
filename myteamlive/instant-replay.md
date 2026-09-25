@@ -49,5 +49,5 @@ Find these in the Go Live Controls step or the [Control Options Panel](control-o
 
 ## Tips
 - Tapping an [Events Panel](events-panel) graphic within 30 seconds of a mark, either before or after, tags that replay with the event.
-- Up to 10 replays are kept per broadcast; marking an 11th removes the oldest.
+- The replay list is limited to the last 10 replays; marking an 11th removes the oldest. The replays are not saved after the broadcast is finished.
 - If the device gets too hot, replay buffering pauses automatically until it cools down — watch for the thermal warning icon in the Control Bar.
