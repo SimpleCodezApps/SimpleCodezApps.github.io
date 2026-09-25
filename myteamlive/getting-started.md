@@ -21,21 +21,21 @@ This walkthrough will use the local recording option to get you up to speed quic
 4. Enter the team name and optionally, the abbreviation.
 5. Select your team logo from your Photos.
 6. Set the team colors for your team using the color picker. If you want to use colors from the logo:
+
+   <p style="text-align:center;">
+     <img src="/images/Color1.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
+   </p>
 Tap the color button to open the Color Picker.
 
    <p style="text-align:center;">
-     <img src="/images/TeamColors.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
+     <img src="/images/Color2.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
    </p>
 Tap the dropper to switch to the loupe tool.
 
    <p style="text-align:center;">
-     <img src="/images/ColorPicker.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
+     <img src="/images/Color3.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
    </p>
 Move the loupe tool to the color you want to use.
-
-   <p style="text-align:center;">
-     <img src="/images/ColorPickerLoupe.png" alt="Color picker sampling from logo" style="max-width:100%;height:auto;border-radius:12px;">
-   </p>
 
 7. The live preview shows how the colors will look with the logo.
 8. Tap **Save**.
