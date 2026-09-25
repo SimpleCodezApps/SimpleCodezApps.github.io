@@ -67,20 +67,19 @@ Move the loupe tool to the color you want to use.
 <p style="text-align:center;">
   <img src="/images/CameraViewReplay.png" alt="Camera view labeled diagram" style="max-width:100%;height:auto;border-radius:12px;">
 </p>
-1. The Camera View status indicator in the top left corner shows **Off–Air**.
-2. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
+1. At the top of the screen, the [Control Bar](control-bar) shows the status of the stream on the left and has the recording controls on the right.
+2. [Instant Replay](instant-replay) is on by default, so you'll also see the Replay Bar for marking and playing back recent action. To hide it, turn off _Replay Enabled_ in the [Control Options Panel](control-options-panel) (the first control panel icon).
 3. On the right side are the [Zoom](zoom) controls.
-4. Along the bottom of the screen are the buttons for five control panels.
-5. Make sure you are in landscape mode; the orientation indicator (next to the status) should be landscape and green.
-6. We recommend using either a wired or Bluetooth headset for commentary. When a headset is connected, the headphones indicator will be green.
-7. The recording indicator is currently gray indicating no activity.
-8. Tap the info icon to view details of the current session.
-9. Dismiss the info dialog by tapping the dialog close icon.
-10. Use the microphone icon to mute/unmute audio.
-11. Tap the **Play/Pause** icon to show the intermission screen and start the recording. The status is now **Standby**, the recording indicator should now be green, and the microphone is muted.
-12. Tap the **Play** icon to show the Camera View and unmute the audio. The status is now **Live**.
-
-[Instant Replay](instant-replay) is on by default, so you'll also see a Replay Bar for marking and playing back recent action.
+4. Along the bottom of the screen are the buttons for five control panels: [Control Options](control-options-panel), [Clock](clock-panel), [Scoreboard](scoreboard-panel), [Events](events-panel), and [Messages](messages-panel). A sixth [Remote Control](remote-control) icon only appears when you start a broadcast with Remote Control enabled, so you won't see it in this walkthrough.
+5. The Camera View status indicator in the top left corner shows **Off–Air**.
+6. Make sure you are in landscape mode; the orientation indicator (next to the status) should be landscape and green.
+7. We recommend using either a wired or Bluetooth headset for commentary. When a headset is connected, the headphones indicator will be green.
+8. The recording indicator is currently gray indicating no activity.
+9. Tap the info icon to view details of the current session.
+10. Dismiss the info dialog by tapping the dialog close icon.
+11. Use the microphone icon to mute/unmute audio.
+12. Tap the **Play/Pause** icon to show the intermission screen and start the recording. The status is now **Standby**, the recording indicator should now be green, and the microphone is muted.
+13. Tap the **Play** icon to show the Camera View and unmute the audio. The status is now **Live**.
 
 ## Controlling the Scorebug
 
