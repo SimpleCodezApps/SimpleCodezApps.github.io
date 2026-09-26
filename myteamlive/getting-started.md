@@ -119,8 +119,8 @@ Move the loupe tool to the color you want to use.
 1. Tap the **...More** tab.
 2. Tap **Saved Recordings**.
 3. You will see your recording in the list.
-4. Slide the recording to the left to reveal the Save to Photos and Delete actions.
-5. Tap **Save to Photos**.
+4. Slide the recording to the left to reveal the Save and Delete actions.
+5. Tap **Save**.
 6. Tap **OK** when the save is completed.
 7. The recording is now in Photos and can be shared or uploaded from there.
 
