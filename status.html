@@ -1,0 +1,36 @@
+---
+layout: null
+permalink: /status
+---
+{%- assign revision = site.github.build_revision | default: "local" -%}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Status · {{ site.title }}</title>
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <style>
+    body { margin: 0; padding: 2rem 1rem; background: #252a34; color: #eaeaea; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    main { max-width: 32rem; margin: 0 auto; }
+    h1 { font-size: 1.5rem; margin: 0 0 1.5rem; }
+    dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.5rem 1.5rem; margin: 0; }
+    dt { color: #a0a0a0; }
+    dd { margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>{{ site.title }} Status</h1>
+    <dl>
+      <dt>App version</dt>
+      <dd id="app-version">{{ site.data.status.myteamlive_version }}</dd>
+      <dt>Site revision</dt>
+      <dd id="site-revision">{{ revision | slice: 0, 7 }}</dd>
+      <dt>Built</dt>
+      <dd id="built"><time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</time></dd>
+    </dl>
+  </main>
+</body>
+</html>
