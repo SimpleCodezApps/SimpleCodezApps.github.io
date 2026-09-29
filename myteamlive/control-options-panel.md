@@ -38,6 +38,11 @@ Adjust settings for displaying controls and graphics on the broadcast such as th
 
 Learn more about [Instant Replay](instant-replay).
 
+## Stream
+- **5 Second Stop Delay** pressing Stop shows the pause screen and mutes audio during a 5-second countdown before the stream stops. In the Go Live steps it is on the summary step, next to Save Recording.
+
+    Changing it in the Control Options panel also changes the Go Live setting for your next broadcast. Only shown when streaming, and disabled while a stop countdown is running.
+
 ## Recording Timer
 - **Mode** (Off / Broadcaster / On Stream)
 

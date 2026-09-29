@@ -29,7 +29,7 @@ streaming. It combines real-time indicators with broadcast controls.
 - [Camera Status](stream-info-panel).
 - Microphone mute toggle.
 - Live/Pause/Restart toggle.
-- Stop broadcast while live, or close the Camera View once stopped — only one of the two shows at a time.
+- Stop broadcast while live, or close the Camera View once stopped — only one of the two shows at a time. With **5 Second Stop Delay** on (set on the Go Live screen or in the Control Options panel), Stop first shows the pause screen with muted audio and a 5-second countdown; the control bar is disabled until the stream stops.
 
 Use the interactive preview inside the app's Help section to see how each
 control changes the indicators.

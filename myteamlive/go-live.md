@@ -25,7 +25,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Choose a saved endpoint.
 5. Review device name, Remote Control, and Remote Cameras settings.
 6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
-7. Review the summary, including destination, video settings, and network.
+7. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
 8. Tap **Go Live** to open the Broadcaster Camera View.
@@ -40,7 +40,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 5. For YouTube, fill in title, description, and privacy.
 6. Review device name, Remote Control, and Remote Cameras settings.
 7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
-8. Review the summary, including destination, video settings, and network.
+8. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
 9. Tap **Go Live** to open the Broadcaster Camera View.
@@ -86,5 +86,5 @@ If a recording error occurs during a session, a dialog appears. The options depe
 - **Close**: End the session and close the Broadcaster Camera View.
 
 ## Finish Up
-1. Tap Stop to end the broadcast.
+1. Tap Stop to end the broadcast. With **5 Second Stop Delay** on, the pause screen shows and audio mutes while a 5-second countdown runs, then the stream stops. The control bar is disabled during the countdown. If the stream or recording fails during the countdown, it stops right away.
 2. Tap Close to leave the Broadcaster Camera View.
