@@ -27,18 +27,22 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 2. Optionally, edit the Remote Control device name.
 3. Tap **Browse**, wait for the Broadcaster device name to appear, then select it.
 4. Enter the PIN for the Camera and tap **Connect**.
-5. If the PIN is incorrect, you will see a rejection message — re-enter the correct PIN and try again.
+5. If the PIN is incorrect, you will see a rejection message; re-enter the correct PIN and try again.
 6. The status changes to "Waiting for Camera to start" once paired.
 7. Once the Broadcaster opens their Camera View, the Remote Control UI will appear.
+
+Both devices need compatible versions of MyTeamLive. If they aren't, the Broadcaster is grayed out in the list with a message saying which device to update.
 
 ## Using the Remote Control
 Use the Remote Control to control the ScoreBug, Events, and Messages on the Broadcaster.
 
+When the Hockey or Soccer period is set to **SO**, the board shows the same [shootout controls](scoreboard-panel#shootout) as the Broadcaster's Scoreboard Panel.
+
 ## Control Options
-Tap the Control Options icon in the toolbar to adjust the scorebug, muted overlay, recording timer, and brand position from the Remote Control — the same settings available in the Broadcaster's [Control Options Panel](control-options-panel).
+Tap the Control Options icon in the toolbar to adjust the scorebug, muted overlay, recording timer, and brand position from the Remote Control. These are the same settings available in the Broadcaster's [Control Options Panel](control-options-panel).
 
 ## Camera Status
-Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnostics — the same data shown by the Broadcaster's own [Camera Status](stream-info-panel) panel.
+Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnostics. This is the same data shown by the Broadcaster's own [Camera Status](stream-info-panel) panel.
 
 ## Taking Control Back for the Broadcaster
 - Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.

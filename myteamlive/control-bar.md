@@ -22,6 +22,7 @@ streaming. It combines real-time indicators with broadcast controls.
 - Headphone connection indicator.
 - **Recording mode**: a film icon shows recording status (gray = not recording, green = recording, yellow = dropped frames, red = error). Only shown in Local Recording mode.
 - **Streaming mode**: a WiFi or cellular-bars icon shows network status; a slash through it means not connected. Followed by the current upload speed in KBps. Only shown when streaming. If a stream fails and you continue as a local recording, the stream icon is replaced by the film icon.
+- **Thermal warning**: a thermometer icon appears only when the device is running hot: orange for Serious, red for Critical. Hidden the rest of the time.
 
 ## Controls (Right Side)
 
@@ -29,7 +30,7 @@ streaming. It combines real-time indicators with broadcast controls.
 - [Camera Status](stream-info-panel).
 - Microphone mute toggle.
 - Live/Pause/Restart toggle.
-- Stop broadcast while live, or close the Camera View once stopped — only one of the two shows at a time. With **5 Second Stop Delay** on (set on the Go Live screen or in the Control Options panel), Stop first shows the pause screen with muted audio and a 5-second countdown; the control bar is disabled until the stream stops.
+- Stop broadcast while live, or close the Camera View once stopped. Only one of the two shows at a time. With **5 Second Stop Delay** on (set on the Go Live screen or in the Control Options panel), Stop first shows the pause screen with muted audio and a 5-second countdown; the control bar is disabled until the stream stops.
 
 Use the interactive preview inside the app's Help section to see how each
 control changes the indicators.

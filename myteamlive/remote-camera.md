@@ -9,8 +9,8 @@ section_url: /myteamlive/overview
 
 Use Remote Cameras to stream from a different camera angle. The Broadcaster can switch between its own camera or one of the secondary video feeds (**Important**: audio stays with the broadcaster microphone). Secondary devices can be:
 
-- **Another iPhone with MyTeamLive (no subscription required)** — uses the Remote Camera screen in the More tab to connect over WiFi or Local network.
-- **Any RTMP-capable device** — such as a GoPro camera or other hardware encoder. Connect over WiFi (only) using the RTMP URL from the Camera Connection list on the Broadcaster.
+- **Another iPhone with MyTeamLive (no subscription required):** uses the Remote Camera screen in the More tab to connect over WiFi or Local network.
+- **Any RTMP-capable device**, such as a GoPro camera or other hardware encoder. Connect over WiFi (only) using the RTMP URL from the Camera Connection list on the Broadcaster.
 
 ---
 
@@ -65,7 +65,7 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 
 ## Remote Camera Setup with a RTMP Device
 
-Any device that can stream RTMP — such as a GoPro camera — can be used as a remote camera without needing the MyTeamLive app.
+Any device that can stream RTMP, such as a GoPro camera, can be used as a remote camera without needing the MyTeamLive app.
 
 1. On the Broadcaster, enable **Remote Cameras** and add a camera connection.
 2. Copy or share the camera connection RTMP URL using the copy or share icon.

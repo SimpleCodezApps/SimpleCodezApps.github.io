@@ -15,21 +15,25 @@ MyTeamLive has three independent network choices: one for how Broadcaster sends 
 
 ## Streaming: How Your Video Reaches Viewers
 
-Choose your streaming connection in the **Network** section on the Video Settings step (step 3).
+Choose your streaming connection in the **Network** section on the Video Settings step (step 3). It lists WiFi and Cellular with their current status; a network that isn't connected can't be picked.
 
-> Tap **Speed Test** in the Network section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation and can compare WiFi and cellular side-by-side when both are available.
+> Tap **Test** in the Speed Test section to measure your upload speed, latency, and jitter before going live. The test shows a streaming quality recommendation for the network you stream on. It needs an internet connection, so it only runs on a network that has one; when WiFi and Cellular both do, you can test each and compare them side-by-side.
+
+On the Go Live step, MyTeamLive checks that the chosen network can reach your destination. If only the other network can, it offers to switch. The check never stops you from going live.
 
 ### WiFi
 
-Streams over the venue's WiFi network. This is the default when your device is connected to WiFi.
+Streams over the venue's WiFi network. This is the default when WiFi reaches the internet.
 
 **Use when:** the venue has a reliable WiFi network with enough upload bandwidth. WiFi generally gives the most stable connection and the best picture quality.
 
 **Watch out for:** crowded stadium or arena WiFi that drops under load. If the stream becomes unstable, switch to cellular.
 
+**No internet:** WiFi that is connected but can't reach the internet is marked **No internet**, and Cellular is picked instead. You can still pick WiFi to stream to a server on the same network, such as a laptop running an RTMP server. Remote devices keep using WiFi either way.
+
 ### Cellular
 
-Streams over your carrier's mobile data network. This is selected automatically when your device is not on WiFi. If you are on WiFi but want to use cellular instead, enable **Force stream to Cellular Network** in the Network section.
+Streams over your carrier's mobile data network. This is picked automatically when WiFi isn't connected or has no internet. If you are on WiFi but want to use cellular instead, pick **Cellular** in the Network section.
 
 **Use when:** the venue has no WiFi, or the WiFi is unreliable. Cellular is often more consistent at sports venues because you're not sharing bandwidth with the crowd.
 
@@ -51,9 +55,9 @@ Choose the remote control network in the **Remote Control** section on the Remot
 
 ### WiFi (default when on WiFi)
 
-Both devices discover each other over the local WiFi network using a direct peer connection. No internet connection is required — only that both devices are on the same WiFi network.
+Both devices discover each other over the local WiFi network using a direct peer connection. No internet connection is required, only that both devices are on the same WiFi network. If the WiFi has no internet, the Network row shows **(no internet)** for information only; remote devices still work over it.
 
-**Range:** as far as WiFi reaches — across the bench, up to the press box, or anywhere else on the same network.
+**Range:** as far as WiFi reaches: across the bench, up to the press box, or anywhere else on the same network.
 
 **Use when:** both devices are on the same WiFi and you need range beyond arm's reach, or the operator running the scoreboard is in a different part of the facility.
 
@@ -61,7 +65,7 @@ Both devices discover each other over the local WiFi network using a direct peer
 
 ### Local-Only (Bluetooth/Peer)
 
-Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer WiFi without needing a WiFi network at all. Selected automatically when the Broadcaster is on cellular.
+Uses Apple's MultipeerConnectivity, which works over Bluetooth and peer-to-peer WiFi without needing a WiFi network at all. Selected automatically when WiFi isn't connected.
 
 **Range:** roughly 30–50 feet in open air. Walls, equipment, and crowd can reduce this.
 
@@ -79,7 +83,7 @@ See [Remote Camera](remote-camera) for full setup instructions.
 
 ### WiFi (default when on WiFi)
 
-Secondary devices discover the broadcaster over the local WiFi network and stream their camera feed directly. No internet connection is required — only that all devices are on the same WiFi network.
+Secondary devices discover the broadcaster over the local WiFi network and stream their camera feed directly. No internet connection is required, only that all devices are on the same WiFi network.
 
 **Use when:** all devices are on the same WiFi and you want the best possible video quality from the secondary camera.
 

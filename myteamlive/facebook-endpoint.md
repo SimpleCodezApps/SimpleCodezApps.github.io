@@ -46,7 +46,7 @@ _Do this once, update if the stream key is changed._
 8. Facebook will begin to stream at the scheduled time.
 
 ## End the Broadcast
-Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
+Press **Stop** to end the live video stream; then press **Close** to close the Broadcaster Camera View.
 
 ## Tips
 

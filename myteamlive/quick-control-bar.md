@@ -21,7 +21,7 @@ The Hockey Quick Control Bar has three configurations:
 
 - The current clock time.
 - A **Start/Stop** icon to run or pause the game clock.
-- Active penalty clocks for Away and Home — tap a penalty to clear it. If there are no active penalties, the display shows "None".
+- Active penalty clocks for Away and Home. Tap a penalty to clear it. If there are no active penalties, the display shows "None".
 
 ### When the Clock Is Enabled and Penalties Are Disabled
 
@@ -31,8 +31,8 @@ The Hockey Quick Control Bar has three configurations:
 
 ### When the Clock Is Disabled
 
-- **Away PP** — tap to toggle an Away power play on or off.
-- **Home PP** — tap to toggle a Home power play on or off.
+- **Away PP:** tap to toggle an Away power play on or off.
+- **Home PP:** tap to toggle a Home power play on or off.
 
 ## Soccer
 
@@ -51,10 +51,10 @@ When the Hockey or Soccer period is set to **SO** (shootout), the bar switches t
 
 The bar shows two columns separated by a divider:
 
-- **Away** — green circle to record a score, red circle to record a miss.
-- **Home** — green circle to record a score, red circle to record a miss.
+- **Away:** green circle to record a score, red circle to record a miss.
+- **Home:** green circle to record a score, red circle to record a miss.
 
-Both columns are disabled once a winner is determined. Use the Scoreboard Panel to undo entries or reset the shootout.
+Both columns are disabled once a winner is determined. Use the [Scoreboard Panel](scoreboard-panel) to undo entries or reset the shootout.
 
 ## Remote Control
 

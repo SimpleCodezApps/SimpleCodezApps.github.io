@@ -26,7 +26,7 @@ Prefer to sign in to your channel instead? See the [YouTube Account Guide](youtu
 10. Toggle **Enable Auto-start**.
 11. Toggle **Enable Auto-stop**.
 12. Toggle **Enable DVR** to allow replays.
-13. After scheduling your first broadcast you can reuse prior settings.
+13. After scheduling your first broadcast, you can reuse prior settings.
 
 ## Configure the Endpoint in MyTeamLive
 
@@ -49,7 +49,7 @@ _Do this once, update if the stream key is changed._
 7. Tap Play to unmute and broadcast the live camera feed.
 
 ## End the Broadcast
-Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
+Press **Stop** to end the live video stream; then press **Close** to close the Broadcaster Camera View.
 
 ## Tips
 - If you suspect that there might be network issues, schedule a second broadcast ahead of time. This broadcast will be used if the first broadcast is interrupted and you cannot reconnect in time to continue the first broadcast.

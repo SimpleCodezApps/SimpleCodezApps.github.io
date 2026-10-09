@@ -57,7 +57,7 @@ Learn more about [Instant Replay](instant-replay).
 
     Disabled when no Brand image is configured. The position cannot be the same as the Recording Timer position.
 
-Selecting a Brand queues it to start automatically once you press Play and the stream goes live — it does not appear immediately when you tap Go Live on step 7. Selecting **None** leaves brand messaging off; you can still start any Brand manually from the [Messages Panel](messages-panel) during the broadcast.
+Selecting a Brand queues it to start automatically once you press Play and the stream goes live. The Brand does not appear immediately when you tap Go Live on step 7. Selecting **None** leaves brand messaging off; you can still start any Brand manually from the [Messages Panel](messages-panel) during the broadcast.
 
 Learn how to configure a Brand in the [Messages Tab](messages-tab).
 

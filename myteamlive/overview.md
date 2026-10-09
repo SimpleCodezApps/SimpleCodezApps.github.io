@@ -26,4 +26,4 @@ Livestream your games (Hockey, Soccer, and more) with a built-in scoreboard, ins
 ## Getting Started
 [Quick Start Guide](getting-started)
 
-If you’re new to streaming, start with YouTube — it’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).
+If you’re new to streaming, start with YouTube. It’s the fastest path to get your team’s games online and shareable. Watch our short [YouTube setup walkthrough](https://youtu.be/1JOK4eur8jA).

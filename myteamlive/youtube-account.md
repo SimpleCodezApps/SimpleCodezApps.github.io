@@ -38,4 +38,4 @@ Prefer to use a stream key instead? See the [YouTube Endpoint Guide](youtube-end
 
 ## End the Broadcast
 
-Press **Stop** to end the live video stream; then press **Close** to close the Camera View.
+Press **Stop** to end the live video stream; then press **Close** to close the Broadcaster Camera View.

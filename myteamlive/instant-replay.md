@@ -29,17 +29,17 @@ Each replay in the list shows when it was marked, the game clock and period, the
 The mark and play buttons stay disabled until at least a few seconds of action are buffered.
 
 ## Basic vs. Advanced Mode
-- **Basic** — one mark icon captures everything currently buffered, up to the **Basic Replay Length** you've set (10s/15s/20s/25s/30s).
-- **Advanced** — a row of duration icons (10s/15s/20s/25s/30s) lets you mark exactly that many seconds. Each icon only enables once there's enough new footage buffered past the option before it, and the buffer always keeps a full 30 seconds of action available in this mode.
+- **Basic:** one mark icon captures everything currently buffered, up to the **Basic Replay Length** you've set (10s/15s/20s/25s/30s).
+- **Advanced:** a row of duration icons (10s/15s/20s/25s/30s) lets you mark exactly that many seconds. Each icon only enables once there's enough new footage buffered past the option before it, and the buffer always keeps a full 30 seconds of action available in this mode.
 
 ## Settings
 
 Find these in the Go Live Controls step or the [Control Options Panel](control-options-panel)'s Replay section:
 
-- **Replay Enabled** — turns the whole feature on or off.
-- **Replay Mode** — (Basic / Advanced) Basic has a single capture length, Advanced gives you multiple lengths.
-- **Basic Replay Length** — how much the mark button captures in Basic mode. Can be changed mid-broadcast: increasing it takes effect immediately, decreasing it does not shrink what's already buffered.
-- **Require Clock Running** — replay only buffers while the game clock is running (clock must be enabled). Turn it off to have replay always buffer regardless of the clock — use caution and avoid replays of after whistle action.
+- **Replay Enabled:** turns the whole feature on or off.
+- **Replay Mode:** Basic or Advanced. Basic has a single capture length; Advanced gives you multiple lengths.
+- **Basic Replay Length:** how much the mark button captures in Basic mode. Can be changed mid-broadcast: increasing it takes effect immediately, decreasing it does not shrink what's already buffered.
+- **Require Clock Running:** replay only buffers while the game clock is running (clock must be enabled). Turn it off to have replay always buffer regardless of the clock. Use caution, and avoid replays of after-the-whistle action.
 
 ## While a Replay Plays
 - A red **REPLAY** badge appears top-center, aligned with the scorebug.
@@ -50,4 +50,4 @@ Find these in the Go Live Controls step or the [Control Options Panel](control-o
 ## Tips
 - Tapping an [Events Panel](events-panel) graphic within 30 seconds of a mark, either before or after, tags that replay with the event.
 - The replay list is limited to the last 10 replays; marking an 11th removes the oldest. The replays are not saved after the broadcast is finished.
-- If the device gets too hot, replay buffering pauses automatically until it cools down — watch for the thermal warning icon in the Control Bar.
+- If the device gets too hot, replay buffering pauses automatically until it cools down. Watch for the thermal warning icon in the Control Bar.
