@@ -47,6 +47,7 @@ Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnost
 ## Taking Control Back for the Broadcaster
 - Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
 - Use the **Enable Remote Control** toggle in that panel to bring control back to the Broadcaster without disconnecting the Remote Control.
+- While control is on the Broadcaster, the Remote Control shows the Broadcaster's changes but can't edit them.
 
 ## Disconnecting and Reconnecting
 - Tap **Disconnect** on the Remote Control to disconnect from the Broadcaster.
