@@ -1,0 +1,7 @@
+v2.3.0 Release notes
+  - Smoother video from remote cameras, including GoPros, over long broadcasts
+  - Remote cameras stay in sync after a WiFi hiccup when you switch back to them
+  - Smoother instant replays of remote camera action
+  - The info panel shows camera frame rate and drops, heat, and the stream's send queue, on the broadcaster and the remote control
+  - Fix the broadcaster slowing down after switching between cameras many times
+  - Help updates
