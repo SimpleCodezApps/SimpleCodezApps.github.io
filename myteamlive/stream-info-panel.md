@@ -18,6 +18,7 @@ Monitor the livestream status without leaving the Camera View.
 - Quality: configured video resolution (720p or 1080p).
 - Active Format: the camera's actual capture resolution, which can differ slightly from Quality.
 - FPS: target frame rate (30 or 60).
+- Codec: H.264 or HEVC, chosen with the HEVC switch on the Go Live summary.
 - Camera: frames per second the camera delivered over the last 10 seconds. It should match FPS.
 - Camera Drops: frames the camera dropped in the last 10 seconds, with the most common reason. Steady drops make the picture choppy; note the reason when you report it.
 - Thermal State: Nominal, Fair, Serious, or Critical. At Serious, give the device shade or airflow; at Critical, Instant Replay turns itself off.

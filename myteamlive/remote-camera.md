@@ -53,6 +53,8 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 1. Open the **More** tab and choose **Remote Camera**.
 2. Set **FPS** and **Quality** to what you want to send. This will default to the Broadcaster settings.
 
+    Turn on **HEVC** for a sharper picture from this camera at the same bitrate. It needs a Broadcaster running this version of MyTeamLive or later; with an older Broadcaster the switch is unavailable and the camera sends H.264.
+
     An orientation indicator shows whether the device is in Landscape (recommended) or Portrait.
 3. Choose the same network type (WiFi or Local) as the broadcaster.
 4. Tap **Browse** to find the broadcaster on the network.
@@ -85,7 +87,7 @@ MyTeamLive when used as a Remote Camera shows a full-screen live view with its o
 
 - Use the control bar to start, pause, and stop sending video.
 - Zoom and focus work the same as on the primary device.
-- Tap the info icon to see stream diagnostics (bitrate, RTMP URL, connection state).
+- Tap the info icon to see stream diagnostics (bitrate, codec, target bitrate, network, RTMP URL, connection state).
 - If the connection to the broadcaster is lost, a dialog lets you reconnect and continue, or close the camera.
 
 ---

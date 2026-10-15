@@ -53,7 +53,7 @@ Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnost
 - Tap **Disconnect** on the Remote Control to disconnect from the Broadcaster.
 - The Broadcaster automatically disconnects the Remote Control when the Camera View is closed.
 - If the link drops, the Broadcaster Camera View shows "Disconnected" next to the Remote Control toggle.
-- If the link drops, the Remote Control returns to the connection screen.  Re-enter the PIN and tap **Connect**.
+- If the link drops, the Remote Control returns to the connection screen. Tap **Fill** to enter the last PIN that connected (or re-enter it), then tap **Connect**.
 
 ## Tips
 - If you are using **Local-only**, you need to remain relatively close (up to 50 feet) to the broadcaster.

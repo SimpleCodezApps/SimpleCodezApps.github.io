@@ -25,7 +25,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Choose a saved endpoint.
 5. Review device name, Remote Control, and Remote Cameras settings.
 6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
-7. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options.
+7. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options. **HEVC** gives a better picture at the same bitrate. For a YouTube endpoint it is remembered; for a Livestream endpoint it starts off each time, so turn it on only if your service accepts HEVC. Twitch and Facebook do not offer it.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
 8. Tap **Go Live** to open the Broadcaster Camera View.
@@ -40,7 +40,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 5. For YouTube, fill in title, description, and privacy.
 6. Review device name, Remote Control, and Remote Cameras settings.
 7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
-8. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options.
+8. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options. For YouTube, turn on **HEVC** for a better picture at the same bitrate. It is remembered, along with YouTube endpoints and local recording.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
 9. Tap **Go Live** to open the Broadcaster Camera View.
@@ -54,7 +54,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 4. Choose **Record Locally Only**.
 5. Review device name, Remote Control, and Remote Cameras settings.
 6. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
-7. Review the summary, including video settings.
+7. Review the summary, including video settings. Turn on **HEVC** for a better picture at the same file size.
 
     A landscape indicator appears on this step if the device is in landscape orientation.
 8. Tap **Start Recording** to open the Broadcaster Camera View.

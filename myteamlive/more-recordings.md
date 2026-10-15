@@ -19,7 +19,7 @@ Use the Saved Recordings section in the More tab to review, share, or remove the
 - Tap a recording to start playback.
 
 ## Recording Info
-- Tap the info icon on a row to see resolution, frame rate, file size, recorded date, and whether it has been saved to Photos.
+- Tap the info icon on a row to see resolution, frame rate, codec (H.264 or HEVC), file size, recorded date, and whether it has been saved to Photos.
 
 ## Select Multiple Recordings
 1. Tap **Edit** in the top left to enter selection mode.
