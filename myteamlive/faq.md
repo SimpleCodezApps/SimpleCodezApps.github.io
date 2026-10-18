@@ -7,6 +7,12 @@ section_name: MyTeamLive
 section_url: /myteamlive/overview
 ---
 
+## Should I turn on HEVC?
+
+Yes, when streaming to YouTube, recording locally, or streaming to a service that supports HEVC. HEVC gives a better picture at the same bitrate. It is on by default for YouTube streams and local recording; for any other service, turn it on in the Video Settings on the Go Live summary only if the service supports HEVC. Twitch and Facebook do not support HEVC, so the option is not shown for them. See the [Go Live Tab](go-live) guide.
+
+When you save a recording of a stream, the recording uses the same format as the stream: if the stream uses HEVC, so does the saved recording.
+
 ## What is the difference between a signed-in YouTube account and a configured YouTube endpoint?
 
 A signed-in **account** links your YouTube channel directly to MyTeamLive. You sign in once, then create each broadcast from the app, setting the title, description, privacy, and Made for Kids options right on the [Go Live Tab](go-live). See the [YouTube Account Guide](youtube-account).
