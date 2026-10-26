@@ -25,6 +25,7 @@ The Game Clock can only be changed when the clock is stopped. Use the Preset men
 The Game Clock runs down to 0. If you reset the Game Clock and there are active penalties, tap **Set Clock and Penalties** to keep the penalties in sync with the Game Clock.
 
 - **Clear Clock** sets the Game Clock to 00:00.
+- **Undo** puts back the Game Clock (and the penalties, after **Set Clock and Penalties**) from before the last **Set Clock**, **Set Clock and Penalties**, or **Clear Clock**. It shows the time it goes back to, and goes away once the clock starts.
 
 ## Hockey Penalties
 
@@ -35,6 +36,8 @@ The Game Clock runs down to 0. If you reset the Game Clock and there are active 
 When the **Penalties** option is on, shows the list of current active penalties; each can be edited or cleared. Tap **Add Penalty** to bring up the dialog to add a new penalty.
 
 Use the Preset menu (**1:30m**, **2m**, **5m**, etc) to quickly set common penalty lengths, or enter minutes and seconds directly in the text fields, then tap **Save**.
+
+After you edit or clear a penalty, **Undo** puts it back as it was. If the game clock has run since, the restored penalty has that time taken off, as if it had kept running. Undo goes away if anything else changes the penalties first.
 
 Use the double minor toggle to indicate a double minor. When the first minor expires or is cleared, it starts the clock on the second minor.
 

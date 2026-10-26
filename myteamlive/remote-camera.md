@@ -59,6 +59,9 @@ When Remote Cameras are configured, a column of camera thumbnails appears along 
 3. Choose the same network type (WiFi or Local) as the broadcaster.
 4. Tap **Browse** to find the broadcaster on the network.
 5. Select the broadcaster from the list.
+
+    Optionally, tap **Test Connection** to check that the connection to the Broadcaster is fast enough. It shows the upload speed and latency, and whether they are good for your **FPS** and **Quality**, or suggests lower settings to try. If other cameras are already sending video, the test measures what is left for this one. With an older Broadcaster the test is unavailable.
+
 6. Select the camera connection to use with this device.
 7. Tap **Send video as camera [name]** to open the Remote Camera View.
 8. Tap the play icon in the control bar to begin streaming to the Broadcaster. The livestream will show with the connection name on the Broadcaster.
