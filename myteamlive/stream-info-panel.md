@@ -12,6 +12,7 @@ Monitor the livestream status without leaving the Camera View.
 
 ## Details
 
+- LiveStream: shown first when going live with a connected YouTube or Twitch account: the account, video title, video link (Unlisted or Public only), privacy, and made-for-kids status. Tap **Share** to send the YouTube video link; the Remote Control's info sheet shows the same LiveStream section. Sharing to an app that opens fully sends MyTeamLive to the background, which interrupts the stream.
 - Orientation: current device orientation (also shown in the control bar).
 - Headphones: connection status (also in the control bar).
 - Zoom: current zoom factor.
@@ -28,7 +29,6 @@ Monitor the livestream status without leaving the Camera View.
 - Current bitrate in KBps.
 - Send Queue: video waiting to go out. It should stay near zero; if it keeps growing, the network can't keep up and the stream will turn Unstable.
 - Endpoint: ingest URL and stream key in use.
-- Account: connected YouTube or Twitch account, with video title, privacy, and made-for-kids status when applicable.
 - Publish State: Ready, Standby, Publishing, Paused, Finished, Aborted.
 - Stream State: Ready, Working, Good, Unstable, Closed, Aborted.
 - Connection State: Closed, Connecting, Open, Closing.

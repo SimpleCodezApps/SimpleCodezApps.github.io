@@ -25,13 +25,21 @@ No. The 50-subscriber requirement applies only to going live from the YouTube mo
 
 Browser-level access is all MyTeamLive needs, whether you sign in with a [YouTube account](youtube-account) or stream to a configured [endpoint](youtube-endpoint).
 
+## How do I share the YouTube link with my viewers?
+
+When you stream with a signed-in [YouTube account](youtube-account), tap **Get Link** on the Go Live summary. This creates the video right away, so you can **Share** its link before the game starts; viewers who open it early see a waiting page until the broadcast begins. Get Link is offered only for Unlisted or Public videos, since only your channel can watch a Private one. Tapping **Cancel** deletes the video, and the link stops working.
+
+Once you are live, the link is also in the LiveStream section of the [Stream Info panel](stream-info-panel) and the Remote Control's info sheet, each with a **Share** button. On the broadcaster, share with **AirDrop** or **Messages**, which open over MyTeamLive without interrupting the livestream. Other share options may open their app fully, which sends MyTeamLive to the background and interrupts the stream; to use them, share before going live or from the Remote Control.
+
+With a configured [endpoint](youtube-endpoint), the broadcast is scheduled in YouTube Studio, so copy its link from there.
+
 ## Can I livestream to Facebook?
 
 Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamLive, and stream to it as an endpoint. See the [Facebook Endpoint Guide](facebook-endpoint). Note that Facebook Live videos remain available for only 30 days after the broadcast, so download or save any streams you want to keep before they expire.
 
 ## Should I turn on do not disturb?
 
-Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions.
+Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions. If you do switch away while live, the stream drops: when you come back, tap **Reconnect** on the Connection Lost message to resume. A saved recording continues in a new part once the stream is back (use **Combine** in Saved Recordings to join the parts), and the instant replay buffer starts over.
 
 ## Should I film in portrait orientation?
 
@@ -81,7 +89,7 @@ If you cannot get a steady connection, you can record the game locally and then 
 
 ## Can I reconnect to an existing livestream?
 
-Many services let you stop and restart a stream at the same quality and FPS without creating a new event.
+Many services let you stop and restart a stream at the same quality and FPS without creating a new event, but only for a short time. Reconnect as soon as you can, ideally within a minute: if the stream stays down longer, the service may end the event, and a new one is needed.
 
 ## The Remote Control disconnected mid stream?
 

@@ -42,6 +42,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
 8. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options. For YouTube, **HEVC** is on by default for a better picture at the same bitrate. Your choice is remembered, along with YouTube endpoints and local recording.
 
+    For YouTube, tap **Get Link** to create the video now and **Share** its link before going live; viewers see a waiting page until the broadcast starts. Get Link isn't offered for a Private video, since only your channel can watch it; choose Unlisted or Public to share. Tapping **Cancel** deletes the video, and the link stops working.
+
     A landscape indicator on this step will show if the device is in landscape orientation.
 9. Tap **Go Live** to open the Broadcaster Camera View.
 10. Tap Play/Pause on the control bar to start the broadcast in Standby. Standby sends the intermission screen with muted audio.

@@ -28,10 +28,12 @@ Prefer to use a stream key instead? See the [YouTube Endpoint Guide](youtube-end
 2. Select FPS and Quality.
 3. Select the connected YouTube account.
 4. Enter a title and description.
-5. Choose a privacy level (Public, Unlisted, Private).
+5. Choose a privacy level (Public, Unlisted, Private). Unlisted is the default.
 6. Toggle **Made for Kids** as needed.
 7. Configure sport, teams, remote devices, and controls.
 8. Tap **Go Live** to open the Broadcaster Camera View.
+
+    For an Unlisted or Public video, tap **Get Link** on the summary to share the video link before going live; tapping **Cancel** deletes the video and the link.
 9. Tap Play/Pause on the control bar to broadcast in Standby mode. Standby sends
    the intermission screen with muted audio.
 10. Tap Play to unmute and broadcast the live camera feed.

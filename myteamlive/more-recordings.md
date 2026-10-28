@@ -11,7 +11,7 @@ section_url: /myteamlive/overview
 Use the Saved Recordings section in the More tab to review, share, or remove the local MP4 archives created when you select **Record Locally Only** on the Go Live *Select Livestream* step or toggle **Save Recording** before starting a connected Livestream.
 
 ## Locate Recordings
-- Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livestream multiple times).
+- Each entry shows `HOME @ AWAY` with the recording date/time and an optional part number (if you stopped and restarted the livestream, or switched away from MyTeamLive while live, which starts a new part when you return). Use **Combine** to join the parts into one recording.
 - A green checkmark indicates the recording has been saved to photos successfully.
 - "Combined" appears in the subtitle for a recording created by combining multiple parts.
 
