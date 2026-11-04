@@ -25,13 +25,27 @@ No. The 50-subscriber requirement applies only to going live from the YouTube mo
 
 Browser-level access is all MyTeamLive needs, whether you sign in with a [YouTube account](youtube-account) or stream to a configured [endpoint](youtube-endpoint).
 
+## How do I let someone else run the scoreboard?
+
+Turn on **Remote Control** on the Go Live Remote Devices step, then tap **Share Invitation** and send it with **AirDrop** or **Messages**. The invitation has a link that opens MyTeamLive's Remote Control on their phone with the network chosen and the PIN filled in; they tap **Connect** once your device appears. Both phones need MyTeamLive, and the same WiFi network unless you chose Local-only.
+
+A new PIN is made each time you go live, so send a fresh invitation for each game. You can also share it while live from the [Remote Control](remote-control) panel; other share options may send MyTeamLive to the background and interrupt the stream.
+
 ## How do I share the YouTube link with my viewers?
 
-When you stream with a signed-in [YouTube account](youtube-account), tap **Get Link** on the Go Live summary. This creates the video right away, so you can **Share** its link before the game starts; viewers who open it early see a waiting page until the broadcast begins. Get Link is offered only for Unlisted or Public videos, since only your channel can watch a Private one. Tapping **Cancel** deletes the video, and the link stops working.
+When you stream with a signed-in [YouTube account](youtube-account), tap **Get Link** on the Go Live summary. This creates the video right away, so you can **Share** its link before the game starts; viewers who open it early see a waiting page until the broadcast begins. **Share** sends a short message naming the game, with the link on its own line. Get Link is offered only for Unlisted or Public videos, since only your channel can watch a Private one. Tapping **Cancel** deletes the video, and the link stops working.
 
 Once you are live, the link is also in the LiveStream section of the [Stream Info panel](stream-info-panel) and the Remote Control's info sheet, each with a **Share** button. On the broadcaster, share with **AirDrop** or **Messages**, which open over MyTeamLive without interrupting the livestream. Other share options may open their app fully, which sends MyTeamLive to the background and interrupts the stream; to use them, share before going live or from the Remote Control.
 
 With a configured [endpoint](youtube-endpoint), the broadcast is scheduled in YouTube Studio, so copy its link from there.
+
+## How do I share my Twitch stream with my viewers?
+
+With a connected [Twitch account](twitch-account), the Go Live summary shows your **Channel Link** with a **Share** button. It's your channel page (twitch.tv/yourname), the same for every broadcast, so you can share it any time; viewers who open it early see your channel offline until you go live. **Share** sends a short message naming the game, with the link on its own line.
+
+Once you are live, the link is also in the LiveStream section of the [Stream Info panel](stream-info-panel) and the Remote Control's info sheet, each with a **Share** button. As with YouTube, on the broadcaster share with **AirDrop** or **Messages**; other share options may send MyTeamLive to the background and interrupt the stream.
+
+After the stream ends, the link shows your channel. Viewers can watch the replay only if your channel stores past broadcasts (**Settings > Stream** on Twitch). With a stream key [endpoint](twitch-endpoint), share your channel page from Twitch.
 
 ## Can I livestream to Facebook?
 

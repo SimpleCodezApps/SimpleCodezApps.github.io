@@ -48,7 +48,7 @@ Find these in the Go Live Controls step or the [Control Options Panel](control-o
 - Marking and playing another replay is disabled until the current one finishes.
 
 ## Tips
-- Tapping an [Events Panel](events-panel) graphic within 30 seconds of a mark, either before or after, tags that replay with the event.
+- Tapping an [Events Panel](events-panel) graphic, adding a goal, or adding a penalty within 30 seconds of a mark, either before or after, tags that replay with the event.
 - The replay list is limited to the last 10 replays; marking an 11th removes the oldest. The replays are not saved after the broadcast is finished.
 - If the device gets too hot, replay buffering pauses automatically until it cools down. Watch for the thermal warning icon in the Control Bar.
 - Switching to another app while live clears the replay buffer; the mark buttons enable again once enough new action is buffered.

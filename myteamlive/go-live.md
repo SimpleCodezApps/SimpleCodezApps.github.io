@@ -38,11 +38,13 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose a signed-in account (YouTube or Twitch).
 5. For YouTube, fill in title, description, and privacy.
-6. Review device name, Remote Control, and Remote Cameras settings.
+6. Review device name, Remote Control, and Remote Cameras settings. With Remote Control on, tap **Share Invitation** to send the PIN and a link that opens Remote Control on the other device.
 7. Review the controls and scorebug settings, such as: Show Clock, Penalties, Quick Control Bar, Show Shots on Goal, and Brand.
 8. Review the summary, including destination, video settings, network, and the **5 Second Stop Delay** and **Save Recording** options. For YouTube, **HEVC** is on by default for a better picture at the same bitrate. Your choice is remembered, along with YouTube endpoints and local recording.
 
     For YouTube, tap **Get Link** to create the video now and **Share** its link before going live; viewers see a waiting page until the broadcast starts. Get Link isn't offered for a Private video, since only your channel can watch it; choose Unlisted or Public to share. Tapping **Cancel** deletes the video, and the link stops working.
+
+    For a connected Twitch account, the summary shows your **Channel Link** with **Share**. It's your channel page, the same for every broadcast, so share it any time; viewers see your channel offline until you go live.
 
     A landscape indicator on this step will show if the device is in landscape orientation.
 9. Tap **Go Live** to open the Broadcaster Camera View.

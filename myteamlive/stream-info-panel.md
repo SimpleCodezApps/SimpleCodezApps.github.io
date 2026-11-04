@@ -12,7 +12,7 @@ Monitor the livestream status without leaving the Camera View.
 
 ## Details
 
-- LiveStream: shown first when going live with a connected YouTube or Twitch account: the account, video title, video link (Unlisted or Public only), privacy, and made-for-kids status. Tap **Share** to send the YouTube video link; the Remote Control's info sheet shows the same LiveStream section. Sharing to an app that opens fully sends MyTeamLive to the background, which interrupts the stream.
+- LiveStream: shown first when going live with a connected YouTube or Twitch account: the account, video title, YouTube video link (Unlisted or Public only) or Twitch channel link, privacy, and made-for-kids status. Tap **Share** to send the link; the Remote Control's info sheet shows the same LiveStream section. Sharing to an app that opens fully sends MyTeamLive to the background, which interrupts the stream.
 - Orientation: current device orientation (also shown in the control bar).
 - Headphones: connection status (also in the control bar).
 - Zoom: current zoom factor.

@@ -38,3 +38,4 @@ Press **Stop** to end the live video stream; then press **Close** to close the B
 
 ## Tips
 - Twitch channels display one title for the entire channel; individual broadcasts do not get separate names.
+- The Go Live summary shows your **Channel Link** with **Share**. It's the same for every broadcast, so share it any time; viewers can watch a replay afterwards only if the VOD option is on.

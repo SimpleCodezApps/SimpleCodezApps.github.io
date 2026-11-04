@@ -19,7 +19,7 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 3. Check the **Network connection** indicator. When on WiFi the connection uses a faster network link; when not on WiFi it falls back to a local Bluetooth/peer connection automatically.
 4. If both devices are on the same WiFi but you want a purely local connection, use **Local-only**.
 5. Toggle **Remote Control** on.
-6. Share the four-digit PIN with the Remote Control.
+6. Share the four-digit PIN with the Remote Control, or tap **Share Invitation** to send a link that opens Remote Control on the other device with the PIN filled in. A new PIN is made each time you go live.
 7. You do not need to wait for the Remote Control to connect; the Broadcaster will accept connections after it is enabled.
 
 ## Connect the Remote Control
@@ -30,6 +30,8 @@ Remote Control lets a second phone manage the scoreboard, events, and messages w
 5. If the PIN is incorrect, you will see a rejection message; re-enter the correct PIN and try again.
 6. The status changes to "Waiting for Camera to start" once paired.
 7. Once the Broadcaster opens their Camera View, the Remote Control UI will appear.
+
+Got an invitation? Tap its link: Remote Control opens with the network chosen and the PIN filled in, and selects the Broadcaster once it appears; tap **Connect**. If the link doesn't open, follow the steps in the invitation.
 
 Both devices need compatible versions of MyTeamLive. If they aren't, the Broadcaster is grayed out in the list with a message saying which device to update.
 
@@ -45,7 +47,7 @@ Tap the Control Options icon in the toolbar to adjust the scorebug, muted overla
 Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnostics. This is the same data shown by the Broadcaster's own [Camera Status](stream-info-panel) panel.
 
 ## Taking Control Back for the Broadcaster
-- Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name.
+- Open the Remote Control panel from the bottom of the Camera View to see connection status, the PIN, and the connected device's name. Tap **Share Invitation** to send the PIN and link again; share with **AirDrop** or **Messages**, since other apps may send MyTeamLive to the background and interrupt the stream.
 - Use the **Enable Remote Control** toggle in that panel to bring control back to the Broadcaster without disconnecting the Remote Control.
 - While control is on the Broadcaster, the Remote Control shows the Broadcaster's changes but can't edit them.
 
@@ -53,7 +55,7 @@ Tap the info icon in the toolbar to see a snapshot of the Broadcaster's diagnost
 - Tap **Disconnect** on the Remote Control to disconnect from the Broadcaster.
 - The Broadcaster automatically disconnects the Remote Control when the Camera View is closed.
 - If the link drops, the Broadcaster Camera View shows "Disconnected" next to the Remote Control toggle.
-- If the link drops, the Remote Control returns to the connection screen. Tap **Fill** to enter the last PIN that connected (or re-enter it), then tap **Connect**.
+- If the link drops, the Remote Control returns to the connection screen. Once the broadcaster is selected, tap **Fill** to enter the last PIN that connected (or re-enter it), then tap **Connect**.
 
 ## Tips
 - If you are using **Local-only**, you need to remain relatively close (up to 50 feet) to the broadcaster.
