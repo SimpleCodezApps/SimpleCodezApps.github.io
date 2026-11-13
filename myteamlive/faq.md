@@ -53,7 +53,7 @@ Yes. Schedule a Facebook Live event on the web, copy its stream key into MyTeamL
 
 ## Should I turn on do not disturb?
 
-Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions. If you do switch away while live, the stream drops: when you come back, tap **Reconnect** on the Connection Lost message to resume. A saved recording continues in a new part once the stream is back (use **Combine** in Saved Recordings to join the parts), and the instant replay buffer starts over.
+Yes, switching to another app will disconnect the camera as a privacy feature. Turning on DnD will minimize interruptions. If you do switch away while live, the stream drops: when you come back, tap **Reconnect** on the Connection Lost message to resume. A saved recording continues in a new part once the stream is back (subscribers can use **Combine** in Saved Recordings to join the parts), and the instant replay buffer starts over.
 
 ## Should I film in portrait orientation?
 

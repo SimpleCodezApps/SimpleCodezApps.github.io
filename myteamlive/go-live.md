@@ -65,6 +65,8 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 9. Tap Play/Pause on the control bar to start recording in Standby.
 10. Tap Play to record the live camera feed.
 
+Without a subscription, Go Live offers Local Recording only, and each recording stops after 5 minutes. A timer above the bottom buttons of the Camera View shows the time left, and the recording is kept in Saved Recordings. Subscribe to record full games and livestream them.
+
 ## During the Broadcast
 - Update scores and period/time from the [Scoreboard Panel](scoreboard-panel) and [Clock Panel](clock-panel).
 - Show custom graphics via the [Messages Panel](messages-panel) or [Events Panel](events-panel).
