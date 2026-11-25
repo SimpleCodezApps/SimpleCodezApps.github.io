@@ -20,7 +20,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 
 ## Starting with a Livestream Endpoint
 1. Select the sport.
-2. Pick Home and Away teams. If the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
+2. Pick Home and Away teams. Tap **Quick Add Team** to add one from a 2 or 3 letter acronym and a team color, or, if the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose a saved endpoint.
 5. Review device name, Remote Control, and Remote Cameras settings.
@@ -34,7 +34,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 
 ## Starting with a Connected Account
 1. Select the sport.
-2. Pick Home and Away teams. If the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
+2. Pick Home and Away teams. Tap **Quick Add Team** to add one from a 2 or 3 letter acronym and a team color, or, if the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose a signed-in account (YouTube or Twitch).
 5. For YouTube, fill in title, description, and privacy.
@@ -53,7 +53,7 @@ Use the Go Live tab to configure teams, video settings, and streaming destinatio
 
 ## Starting with Local Recording Only
 1. Select the sport.
-2. Pick Home and Away teams. If the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
+2. Pick Home and Away teams. Tap **Quick Add Team** to add one from a 2 or 3 letter acronym and a team color, or, if the sport has no teams yet, tap **Teams** to add them in the Teams Tab.
 3. Select FPS and Quality. Optionally tap **Speed Test** to check your connection and get a recommendation.
 4. Choose **Record Locally Only**.
 5. Review device name, Remote Control, and Remote Cameras settings.

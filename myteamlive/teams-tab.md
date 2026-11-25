@@ -37,6 +37,16 @@ Move the loupe tool to the color you want to use.
 Choose **Scorebug Background** to fill the scorebug with the primary or alternate color; the other color is used for the score. Tap **Swap Colors** to exchange the two colors.
 8. Tap **Save**.
 
+## Quick Add Team
+On the Go Live Teams step, tap **Quick Add Team** to add a team without leaving Go Live.
+
+1. Enter a 2 or 3 letter acronym, such as NHS.
+2. Pick a team color, or tap **Custom Color** for any other.
+3. Choose **Black** or **White** as the alternate color.
+4. Tap **Save**.
+
+The team is named after the acronym, and its logo is the acronym in the alternate color on the team color. It is added to the step's sport and selected as Home, or Away if Home is already picked. Edit it later in the Teams tab, like any other team.
+
 ## Tips
 - Team colors populate scoreboards and team-format messages automatically.
 - You can edit any team later by selecting it from the list.
